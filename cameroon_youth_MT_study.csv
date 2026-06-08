@@ -1,0 +1,1046 @@
+Age,Gender,Tribe,Father_Tribe,Mother_Tribe,Same_Tribe_Parents,Place_of_Birth,Current_Residence,Migrated,Number_of_Siblings,Lived_with_Grandparents,MT_Taught_in_School,Language_Spoken_by_Parents,Language_Spoken_with_Siblings,Ever_Visited_Village,Attended_Cultural_Meetings,Belongs_to_Cultural_Group,MT_Used_in_Church_or_Mosque,Knows_Songs_in_MT,Wants_Children_to_Speak_MT,MT_Proficiency,Cultural_Identity_Strength
+13,Female,Fulani,Fulani,Fulani,Yes,Adamawa,Maroua,Yes,3,No,No,Mix of Fulfulde and Arabic,Fulfulde (mother tongue),No,Yes,No,Arabic (Quran),Yes,No,Minimal,Weak
+10,Female,Meta,Meta,Bafut,No,South West,Bafoussam,No,4,No,No,Meta (mother tongue),Meta (mother tongue),No,Yes,No,Meta (mother tongue),Yes,Yes,Basic,Weak
+17,Male,Bakweri,Bakweri,Bakweri,Yes,Buea,Buea,No,4,No,No,Mix of Pidgin and English,Mix of Pidgin and English,Yes,No,No,French,Yes,No,None,Weak
+10,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Garoua,Yes,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Hausa,Yes,Yes,Conversational,Moderate
+8,Female,Fulani,Fulani,Fulani,Yes,Yaoundé,Garoua,No,4,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Fulfulde,Yes,Yes,Conversational,Moderate
+19,Female,Bafut,Bafut,Meta,No,South West,Douala,No,3,Yes,No,Bafut (mother tongue),Mix of MT and Pidgin,No,Yes,Yes,English,Yes,Yes,Basic,Moderate
+8,Female,Bafut,Bafut,Bafut,Yes,North West,Bafut Village,Yes,1,Yes,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,No,Bafut (mother tongue),No,Yes,Conversational,Weak
+10,Female,Meta,Meta,Bakweri,No,Yaoundé,Yaoundé,No,1,Yes,No,Meta (mother tongue),Cameroonian Pidgin English,Yes,Yes,Yes,Meta (mother tongue),No,No,Fluent,Strong
+11,Female,Bakweri,Bakweri,Bakweri,Yes,North West,Douala,Yes,5,No,No,Mix of Pidgin and English,English,Yes,No,Yes,English,No,No,None,Weak
+16,Female,Bakweri,Bakweri,Bakweri,Yes,South West,Yaoundé,No,0,No,No,Mokpwe (mother tongue),Mokpwe (mother tongue),No,No,No,French,Yes,Yes,Basic,Detached
+10,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Maroua,Yes,3,No,No,Cameroonian Pidgin English,Fulfulde (mother tongue),Yes,No,Yes,Fulfulde,Yes,Yes,Minimal,Weak
+9,Male,Bakweri,Bakweri,Fulani,No,South West,Douala,Yes,2,Yes,No,Mix of MT and English,English,Yes,No,Yes,Cameroonian Pidgin English,No,No,Minimal,Weak
+12,Male,Bakweri,Bakweri,Bakweri,Yes,Buea,Douala,No,6,No,Yes,Cameroonian Pidgin English,English,Yes,No,No,Cameroonian Pidgin English,Yes,No,Minimal,Weak
+10,Female,Bafut,Bafut,Bakweri,No,Littoral,Bafoussam,No,4,Yes,No,Bafut (mother tongue),Mix of Pidgin and French,No,Yes,No,Cameroonian Pidgin English,No,No,Basic,Weak
+17,Male,Fulani,Fulani,Fulani,Yes,Bamenda,Douala,Yes,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Arabic (Quran),Yes,Yes,Conversational,Moderate
+19,Male,Meta,Meta,Bakweri,No,Littoral,Bafoussam,Yes,4,No,No,Cameroonian Pidgin English,Mix of MT and Pidgin,Yes,Yes,Yes,Meta (mother tongue),Yes,Yes,Minimal,Strong
+4,Female,Meta,Meta,Meta,Yes,Littoral,Meta Village,Yes,2,Yes,No,Meta (mother tongue),Meta (mother tongue),No,Yes,No,English,No,Yes,Basic,Weak
+5,Female,Meta,Meta,Meta,Yes,South West,Yaoundé,No,2,Yes,No,English,Meta (mother tongue),Yes,No,No,Meta (mother tongue),No,Yes,Basic,Weak
+24,Female,Bafut,Bafut,Fulani,No,Bamenda,Yaoundé,No,3,Yes,No,French,English,No,No,Yes,Bafut (mother tongue),Yes,No,Minimal,Weak
+4,Male,Fulani,Fulani,Fulani,Yes,Douala,Douala,Yes,6,No,No,Hausa,Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Minimal,Moderate
+18,Male,Bakweri,Bakweri,Fulani,No,Douala,Douala,No,3,Yes,No,Mokpwe (mother tongue),Mix of MT and English,No,No,Yes,Mokpwe (mother tongue),Yes,No,Basic,Weak
+11,Male,Fulani,Fulani,Fulani,Yes,North,Fulani Camp,Yes,1,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,No,Fulfulde,Yes,No,Basic,Weak
+16,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Maroua,No,6,No,No,Fulfulde (mother tongue),Cameroonian Pidgin English,Yes,No,Yes,Fulfulde,No,Yes,Basic,Weak
+9,Male,Meta,Meta,Meta,Yes,Douala,Meta Village,Yes,4,Yes,No,Meta (mother tongue),Meta (mother tongue),No,Yes,Yes,French,No,No,Conversational,Moderate
+18,Female,Bafut,Bafut,Bafut,Yes,Yaoundé,Bafoussam,Yes,3,Yes,No,French,Mix of MT and French,No,No,Yes,French,No,No,Minimal,Weak
+15,Male,Bafut,Bafut,Bafut,Yes,South West,Yaoundé,Yes,4,Yes,No,Bafut (mother tongue),Cameroonian Pidgin English,Yes,No,Yes,Cameroonian Pidgin English,No,No,Basic,Moderate
+11,Female,Bakweri,Bakweri,Meta,No,South West,Bakweri Village,No,7,No,No,Mix of MT and Pidgin,Mix of Pidgin and English,No,Yes,Yes,English,No,No,Minimal,Moderate
+5,Female,Fulani,Fulani,Fulani,Yes,Buea,Maroua,Yes,6,Yes,No,Cameroonian Pidgin English,French,Yes,Yes,Yes,Does not attend,Yes,Yes,Basic,Strong
+14,Male,Bakweri,Bakweri,Bakweri,Yes,Douala,Buea,Yes,7,Yes,No,Mokpwe (mother tongue),French,Yes,Yes,No,French,No,No,Basic,Weak
+16,Female,Bakweri,Bakweri,Bafut,No,South West,Douala,Yes,6,No,No,Cameroonian Pidgin English,Mokpwe (mother tongue),Yes,No,No,Cameroonian Pidgin English,Yes,No,None,Weak
+20,Female,Bafut,Bafut,Bafut,Yes,Yaoundé,Bafut Village,No,2,No,No,Bafut (mother tongue),Mix of MT and Pidgin,Yes,No,No,English,Yes,Yes,Basic,Weak
+7,Female,Fulani,Fulani,Fulani,Yes,Buea,Garoua,No,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,No,Fulfulde,Yes,Yes,Fluent,Weak
+12,Female,Bafut,Bafut,Bakweri,No,Yaoundé,Bamenda,No,0,No,No,Bafut (mother tongue),French,No,No,No,French,Yes,No,Minimal,Detached
+10,Female,Fulani,Fulani,Fulani,Yes,Yaoundé,Maroua,Yes,8,Yes,No,Cameroonian Pidgin English,Fulfulde (mother tongue),No,No,No,Does not attend,No,Yes,Minimal,Detached
+13,Male,Bafut,Bafut,Bafut,Yes,Centre,Bafut Village,No,4,Yes,No,Bafut (mother tongue),Mix of MT and Pidgin,Yes,Yes,No,Bafut (mother tongue),Yes,No,Conversational,Moderate
+21,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Douala,Yes,5,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,No,Yes,Arabic (Quran),Yes,Yes,Conversational,Weak
+18,Male,Meta,Meta,Bakweri,No,Bamenda,Meta Village,No,4,Yes,No,Meta (mother tongue),Mix of Pidgin and French,Yes,Yes,Yes,Cameroonian Pidgin English,Yes,No,Fluent,Strong
+18,Female,Bafut,Bafut,Fulani,No,South West,Bamenda,No,4,No,No,Bafut (mother tongue),Bafut (mother tongue),No,Yes,No,Cameroonian Pidgin English,Yes,Yes,Basic,Weak
+16,Male,Fulani,Fulani,Fulani,Yes,Centre,Douala,No,8,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,No,Does not attend,No,Yes,Conversational,Weak
+7,Male,Fulani,Fulani,Fulani,Yes,Douala,Ngaoundéré,Yes,4,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Arabic (Quran),Yes,Yes,Basic,Moderate
+11,Male,Bakweri,Bakweri,Bafut,No,Douala,Douala,No,3,No,No,Mix of MT and English,Mokpwe (mother tongue),No,No,No,French,Yes,Yes,None,Detached
+21,Female,Bakweri,Bakweri,Meta,No,Centre,Buea,Yes,2,No,No,Mokpwe (mother tongue),Mix of MT and English,Yes,No,No,Mokpwe (mother tongue),No,Yes,None,Detached
+23,Female,Bakweri,Bakweri,Meta,No,North West,Limbe,Yes,2,No,No,French,Mix of Pidgin and English,Yes,No,No,Mokpwe (mother tongue),No,Yes,None,Detached
+21,Female,Meta,Meta,Meta,Yes,Littoral,Bafoussam,No,2,Yes,No,Meta (mother tongue),English,No,Yes,Yes,French,Yes,Yes,Conversational,Moderate
+19,Female,Bakweri,Bakweri,Fulani,No,Buea,Buea,Yes,1,No,No,Mix of Pidgin and English,Mokpwe (mother tongue),No,No,No,English,No,Yes,None,Detached
+22,Male,Bafut,Bafut,Bafut,Yes,Yaoundé,Bafut Village,Yes,5,Yes,Yes,Mix of MT and French,Bafut (mother tongue),Yes,No,Yes,Bafut (mother tongue),No,Yes,Basic,Moderate
+10,Male,Meta,Meta,Meta,Yes,South West,Meta Village,Yes,2,No,No,French,English,No,Yes,No,Cameroonian Pidgin English,No,Yes,None,Weak
+11,Female,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Douala,No,0,No,Yes,Mix of Pidgin and English,Mix of Pidgin and English,No,No,No,Cameroonian Pidgin English,No,Yes,None,Detached
+23,Male,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Buea,Yes,2,No,No,Mokpwe (mother tongue),Mix of MT and English,No,Yes,No,English,No,No,Minimal,Weak
+12,Female,Bafut,Bafut,Meta,No,Bamenda,Yaoundé,Yes,3,Yes,No,Bafut (mother tongue),Bafut (mother tongue),No,No,No,English,Yes,Yes,Basic,Weak
+23,Female,Bafut,Bafut,Meta,No,Douala,Douala,Yes,5,No,No,Bafut (mother tongue),Cameroonian Pidgin English,Yes,No,Yes,French,Yes,No,Minimal,Weak
+13,Female,Bakweri,Bakweri,Meta,No,North West,Limbe,No,5,No,No,Mix of MT and English,Mokpwe (mother tongue),Yes,No,No,Mokpwe (mother tongue),No,Yes,Minimal,Detached
+12,Male,Bakweri,Bakweri,Bafut,No,Littoral,Bakweri Village,Yes,2,No,No,Mix of MT and Pidgin,Mix of Pidgin and English,No,No,Yes,French,No,Yes,None,Detached
+7,Male,Meta,Meta,Meta,Yes,Centre,Bafoussam,Yes,3,Yes,No,Meta (mother tongue),French,Yes,Yes,No,Cameroonian Pidgin English,No,Yes,Basic,Weak
+9,Male,Fulani,Fulani,Fulani,Yes,Adamawa,Ngaoundéré,Yes,2,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Arabic (Quran),No,Yes,Conversational,Weak
+22,Female,Meta,Meta,Meta,Yes,Yaoundé,Douala,No,3,No,No,Meta (mother tongue),Meta (mother tongue),Yes,No,Yes,French,Yes,No,Conversational,Moderate
+5,Male,Fulani,Fulani,Meta,No,Buea,Fulani Camp,Yes,5,Yes,No,Hausa,Fulfulde (mother tongue),Yes,No,No,Fulfulde,Yes,No,Basic,Weak
+11,Male,Meta,Meta,Bafut,No,North West,Bamenda,No,2,No,No,Meta (mother tongue),Meta (mother tongue),No,No,Yes,Meta (mother tongue),No,Yes,Basic,Weak
+15,Male,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Bakweri Village,No,2,No,No,Mix of MT and English,Cameroonian Pidgin English,No,No,No,Cameroonian Pidgin English,No,No,None,Detached
+6,Male,Bafut,Bafut,Bafut,Yes,Littoral,Bafut Village,No,2,No,No,Mix of MT and French,Bafut (mother tongue),No,No,Yes,English,Yes,No,Basic,Weak
+22,Male,Fulani,Fulani,Fulani,Yes,Buea,Garoua,Yes,5,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,No,French,No,Yes,Conversational,Weak
+15,Female,Bafut,Bafut,Bafut,Yes,Bamenda,Douala,No,4,No,No,Bafut (mother tongue),Mix of MT and French,No,No,No,English,Yes,Yes,Minimal,Detached
+20,Male,Bafut,Bafut,Meta,No,Yaoundé,Bafut Village,No,5,No,No,Bafut (mother tongue),English,No,Yes,No,English,No,No,Minimal,Detached
+6,Male,Bafut,Bafut,Bafut,Yes,North West,Bafut Village,No,3,No,No,Mix of MT and French,Bafut (mother tongue),Yes,Yes,Yes,Cameroonian Pidgin English,Yes,Yes,Basic,Strong
+19,Female,Bafut,Bafut,Bafut,Yes,South West,Douala,No,2,No,No,Mix of Pidgin and French,English,Yes,Yes,No,Cameroonian Pidgin English,No,Yes,None,Weak
+15,Male,Fulani,Fulani,Bafut,No,Buea,Fulani Camp,No,5,No,No,Fulfulde (mother tongue),French,Yes,Yes,Yes,Arabic (Quran),No,Yes,Conversational,Moderate
+12,Male,Fulani,Fulani,Fulani,Yes,Littoral,Douala,No,5,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,No,Yes,Arabic (Quran),Yes,No,Conversational,Weak
+16,Male,Bafut,Bafut,Bafut,Yes,Buea,Bafoussam,Yes,3,No,No,Bafut (mother tongue),Bafut (mother tongue),No,Yes,No,English,Yes,No,Basic,Weak
+14,Female,Fulani,Fulani,Fulani,Yes,Yaoundé,Douala,No,7,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Does not attend,Yes,Yes,Fluent,Moderate
+19,Female,Bafut,Bafut,Fulani,No,South West,Douala,Yes,6,Yes,Yes,English,Mix of MT and French,Yes,Yes,Yes,English,No,Yes,Basic,Moderate
+24,Male,Meta,Meta,Meta,Yes,Bamenda,Bamenda,No,4,Yes,No,Meta (mother tongue),Mix of MT and Pidgin,Yes,No,Yes,Cameroonian Pidgin English,No,Yes,Conversational,Moderate
+9,Male,Bafut,Bafut,Meta,No,North West,Douala,Yes,3,Yes,No,Mix of MT and French,Mix of MT and Pidgin,Yes,Yes,No,Bafut (mother tongue),Yes,No,Minimal,Moderate
+13,Male,Bafut,Bafut,Bafut,Yes,Yaoundé,Bamenda,No,5,No,Yes,Bafut (mother tongue),Bafut (mother tongue),No,Yes,No,English,Yes,Yes,Basic,Weak
+5,Female,Fulani,Fulani,Fulani,Yes,Far North,Ngaoundéré,Yes,6,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Fulfulde,Yes,Yes,Conversational,Moderate
+12,Male,Fulani,Fulani,Fulani,Yes,Douala,Yaoundé,Yes,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Arabic (Quran),Yes,Yes,Conversational,Moderate
+5,Male,Bafut,Bafut,Bafut,Yes,South West,Bafoussam,No,1,No,No,Bafut (mother tongue),French,No,No,Yes,French,Yes,Yes,Basic,Weak
+6,Female,Meta,Meta,Meta,Yes,Centre,Yaoundé,No,2,No,No,Mix of MT and Pidgin,Mix of Pidgin and French,Yes,No,Yes,Cameroonian Pidgin English,No,Yes,Minimal,Weak
+23,Female,Meta,Meta,Meta,Yes,Douala,Yaoundé,No,3,No,No,Mix of MT and French,Mix of Pidgin and French,No,Yes,No,French,Yes,No,Minimal,Weak
+24,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Douala,No,4,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Hausa,No,Yes,Conversational,Moderate
+10,Male,Bafut,Bafut,Bafut,Yes,Buea,Bamenda,No,6,No,No,Bafut (mother tongue),Bafut (mother tongue),Yes,No,Yes,Bafut (mother tongue),No,Yes,Basic,Weak
+4,Male,Bakweri,Bakweri,Bafut,No,South West,Bakweri Village,Yes,6,No,No,Mokpwe (mother tongue),English,No,Yes,Yes,French,Yes,Yes,Basic,Moderate
+8,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Ngaoundéré,Yes,2,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Arabic (Quran),Yes,Yes,Basic,Moderate
+4,Male,Bafut,Bafut,Bafut,Yes,North West,Bafoussam,No,3,No,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,Yes,Cameroonian Pidgin English,No,Yes,Basic,Moderate
+20,Male,Fulani,Fulani,Fulani,Yes,Bamenda,Maroua,No,2,No,No,Mix of Fulfulde and Arabic,Fulfulde (mother tongue),No,No,Yes,French,Yes,No,Minimal,Weak
+19,Female,Meta,Meta,Fulani,No,Yaoundé,Meta Village,No,4,No,No,Mix of MT and French,Cameroonian Pidgin English,Yes,No,Yes,Meta (mother tongue),Yes,Yes,Minimal,Weak
+4,Male,Bakweri,Bakweri,Meta,No,Yaoundé,Limbe,Yes,3,Yes,No,English,Mix of MT and English,Yes,No,Yes,French,Yes,Yes,Minimal,Moderate
+20,Female,Bafut,Bafut,Bafut,Yes,North West,Bamenda,No,5,No,No,Bafut (mother tongue),Mix of MT and French,Yes,No,No,French,Yes,No,Minimal,Detached
+13,Male,Meta,Meta,Meta,Yes,Yaoundé,Meta Village,Yes,4,Yes,No,Meta (mother tongue),English,No,Yes,Yes,Cameroonian Pidgin English,No,Yes,Basic,Moderate
+7,Female,Bakweri,Bakweri,Fulani,No,Buea,Douala,Yes,3,No,No,French,Mokpwe (mother tongue),Yes,No,Yes,English,Yes,No,Minimal,Moderate
+6,Female,Bafut,Bafut,Meta,No,Littoral,Bafut Village,Yes,0,No,No,Bafut (mother tongue),Bafut (mother tongue),No,Yes,Yes,French,Yes,No,Basic,Moderate
+7,Male,Bafut,Bafut,Fulani,No,North West,Bafut Village,Yes,3,Yes,No,French,Cameroonian Pidgin English,Yes,Yes,No,Cameroonian Pidgin English,Yes,No,Minimal,Moderate
+16,Female,Bafut,Bafut,Bakweri,No,North West,Bafoussam,Yes,3,Yes,Yes,Mix of Pidgin and French,Mix of MT and French,Yes,Yes,No,English,No,No,Minimal,Moderate
+18,Female,Bafut,Bafut,Bafut,Yes,South West,Bafoussam,Yes,4,No,No,Bafut (mother tongue),French,Yes,Yes,Yes,English,Yes,Yes,Basic,Strong
+15,Male,Fulani,Fulani,Fulani,Yes,Douala,Maroua,Yes,4,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,French,Yes,Yes,Basic,Moderate
+24,Female,Fulani,Fulani,Fulani,Yes,Centre,Ngaoundéré,Yes,5,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Arabic (Quran),No,Yes,Conversational,Moderate
+22,Female,Bafut,Bafut,Bafut,Yes,North West,Bafut Village,No,3,Yes,No,English,English,No,Yes,No,French,Yes,No,Basic,Weak
+12,Female,Meta,Meta,Meta,Yes,Centre,Bamenda,No,3,No,No,Mix of MT and Pidgin,Meta (mother tongue),Yes,No,No,Meta (mother tongue),No,Yes,Minimal,Detached
+19,Male,Bafut,Bafut,Bafut,Yes,South West,Yaoundé,No,2,Yes,Yes,French,Mix of MT and French,No,No,No,English,No,Yes,Minimal,Detached
+8,Female,Fulani,Fulani,Fulani,Yes,North,Fulani Camp,Yes,5,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Hausa,Yes,Yes,Conversational,Strong
+15,Male,Bakweri,Bakweri,Fulani,No,Centre,Buea,Yes,4,No,Yes,English,Mokpwe (mother tongue),Yes,Yes,Yes,English,Yes,No,Basic,Moderate
+8,Female,Meta,Meta,Fulani,No,Littoral,Bamenda,Yes,4,Yes,No,Meta (mother tongue),Meta (mother tongue),Yes,No,No,French,Yes,No,Basic,Weak
+21,Male,Bakweri,Bakweri,Fulani,No,Bamenda,Douala,No,3,No,No,Mokpwe (mother tongue),French,Yes,Yes,Yes,French,No,Yes,Basic,Moderate
+21,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Maroua,Yes,5,No,No,Fulfulde (mother tongue),Cameroonian Pidgin English,Yes,Yes,Yes,French,Yes,Yes,Conversational,Moderate
+18,Male,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Limbe,No,1,No,No,Mokpwe (mother tongue),Mix of Pidgin and English,No,No,Yes,Mokpwe (mother tongue),No,Yes,Minimal,Weak
+9,Male,Bafut,Bafut,Fulani,No,Centre,Bafoussam,No,2,No,Yes,Bafut (mother tongue),Bafut (mother tongue),Yes,No,Yes,Bafut (mother tongue),Yes,Yes,Conversational,Weak
+18,Female,Fulani,Fulani,Fulani,Yes,Douala,Fulani Camp,Yes,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Fulfulde,No,Yes,Conversational,Moderate
+16,Female,Bakweri,Bakweri,Bafut,No,South West,Yaoundé,No,3,No,No,French,Cameroonian Pidgin English,Yes,No,No,Mokpwe (mother tongue),No,Yes,None,Detached
+4,Female,Bafut,Bafut,Fulani,No,Yaoundé,Bafut Village,Yes,3,Yes,No,Bafut (mother tongue),Bafut (mother tongue),No,Yes,No,English,No,No,Conversational,Weak
+4,Female,Bakweri,Bakweri,Bafut,No,South West,Limbe,Yes,5,No,No,Mix of Pidgin and English,Mokpwe (mother tongue),No,No,Yes,Cameroonian Pidgin English,No,No,Minimal,Detached
+24,Male,Meta,Meta,Meta,Yes,Douala,Douala,Yes,0,Yes,No,Cameroonian Pidgin English,Mix of MT and Pidgin,Yes,Yes,No,French,Yes,No,Minimal,Moderate
+17,Female,Meta,Meta,Bakweri,No,Littoral,Bamenda,No,3,Yes,No,Meta (mother tongue),Mix of MT and Pidgin,Yes,Yes,No,Meta (mother tongue),Yes,Yes,Conversational,Moderate
+24,Male,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Bakweri Village,Yes,4,No,No,Mokpwe (mother tongue),English,Yes,No,No,English,Yes,Yes,Minimal,Weak
+5,Male,Fulani,Fulani,Fulani,Yes,Douala,Maroua,Yes,6,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,French,Yes,Yes,Basic,Moderate
+17,Male,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Yaoundé,Yes,3,No,No,Mokpwe (mother tongue),Cameroonian Pidgin English,Yes,Yes,No,Cameroonian Pidgin English,No,No,Minimal,Weak
+9,Male,Bakweri,Bakweri,Fulani,No,Buea,Bakweri Village,Yes,2,Yes,No,English,Mix of Pidgin and English,Yes,Yes,No,Mokpwe (mother tongue),Yes,Yes,Minimal,Moderate
+5,Female,Fulani,Fulani,Bafut,No,Bamenda,Douala,Yes,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,No,Fulfulde,Yes,Yes,Basic,Moderate
+9,Male,Bakweri,Bakweri,Bakweri,Yes,North West,Buea,Yes,3,No,No,Mokpwe (mother tongue),French,Yes,Yes,No,English,No,Yes,Minimal,Weak
+8,Female,Bafut,Bafut,Bakweri,No,Littoral,Bamenda,No,3,No,No,Bafut (mother tongue),French,No,No,No,English,Yes,Yes,Minimal,Detached
+13,Male,Bakweri,Bakweri,Bafut,No,Yaoundé,Yaoundé,Yes,1,No,No,Mokpwe (mother tongue),Mix of MT and Pidgin,No,No,Yes,Mix of MT and English,No,Yes,Minimal,Detached
+19,Female,Meta,Meta,Meta,Yes,North West,Bafoussam,Yes,0,Yes,Yes,Meta (mother tongue),French,No,No,No,English,Yes,Yes,Basic,Weak
+13,Male,Meta,Meta,Meta,Yes,Buea,Bamenda,No,3,No,No,Meta (mother tongue),English,Yes,No,No,Mix of MT and Pidgin,Yes,Yes,Minimal,Weak
+23,Male,Bakweri,Bakweri,Meta,No,Centre,Buea,No,1,No,No,Mix of Pidgin and English,Mix of Pidgin and English,Yes,No,No,English,No,Yes,None,Detached
+7,Male,Meta,Meta,Fulani,No,Yaoundé,Bafoussam,No,5,No,No,Cameroonian Pidgin English,Cameroonian Pidgin English,Yes,No,Yes,Meta (mother tongue),Yes,No,Minimal,Moderate
+20,Female,Bafut,Bafut,Bafut,Yes,Littoral,Bafut Village,No,4,Yes,No,Bafut (mother tongue),Mix of MT and Pidgin,Yes,Yes,No,French,No,Yes,Conversational,Weak
+7,Male,Bafut,Bafut,Bafut,Yes,Centre,Douala,No,5,No,No,Bafut (mother tongue),Mix of MT and Pidgin,Yes,No,No,French,No,Yes,Minimal,Detached
+18,Male,Bafut,Bafut,Fulani,No,South West,Bamenda,No,2,No,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,No,Bafut (mother tongue),Yes,Yes,Basic,Moderate
+22,Female,Meta,Meta,Meta,Yes,South West,Douala,No,3,Yes,Yes,Meta (mother tongue),French,No,No,No,Meta (mother tongue),No,Yes,Basic,Detached
+24,Female,Bafut,Bafut,Bafut,Yes,Littoral,Douala,Yes,2,No,No,Cameroonian Pidgin English,Mix of MT and French,Yes,No,No,English,No,Yes,None,Detached
+17,Female,Meta,Meta,Meta,Yes,Centre,Meta Village,Yes,4,No,No,English,Meta (mother tongue),No,Yes,No,English,No,Yes,None,Detached
+22,Male,Bakweri,Bakweri,Bakweri,Yes,South West,Yaoundé,No,5,Yes,No,Mokpwe (mother tongue),Mokpwe (mother tongue),Yes,No,No,English,No,Yes,Conversational,Detached
+8,Female,Meta,Meta,Meta,Yes,Littoral,Bamenda,No,2,No,No,Meta (mother tongue),Meta (mother tongue),Yes,No,Yes,French,Yes,Yes,Conversational,Weak
+5,Female,Bafut,Bafut,Bakweri,No,South West,Yaoundé,No,1,Yes,No,Bafut (mother tongue),Cameroonian Pidgin English,Yes,No,No,Bafut (mother tongue),No,No,Basic,Weak
+24,Male,Meta,Meta,Meta,Yes,South West,Yaoundé,No,7,Yes,No,French,Mix of Pidgin and French,Yes,Yes,No,Meta (mother tongue),Yes,No,Basic,Moderate
+15,Male,Fulani,Fulani,Fulani,Yes,Douala,Yaoundé,Yes,2,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Arabic (Quran),Yes,Yes,Conversational,Moderate
+11,Male,Bakweri,Bakweri,Fulani,No,Yaoundé,Yaoundé,No,3,No,No,Mix of MT and Pidgin,Mix of Pidgin and English,No,Yes,No,Cameroonian Pidgin English,No,Yes,None,Weak
+15,Male,Bakweri,Bakweri,Bakweri,Yes,Centre,Buea,No,2,No,No,Mix of MT and English,Mix of MT and English,Yes,Yes,No,French,Yes,Yes,Minimal,Moderate
+19,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Douala,Yes,6,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Fulfulde,Yes,Yes,Basic,Moderate
+23,Female,Fulani,Fulani,Fulani,Yes,North,Maroua,No,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Arabic (Quran),Yes,Yes,Fluent,Moderate
+12,Male,Meta,Meta,Bafut,No,Littoral,Douala,Yes,4,No,No,Meta (mother tongue),French,Yes,Yes,No,Meta (mother tongue),Yes,No,Minimal,Moderate
+19,Female,Fulani,Fulani,Fulani,Yes,Yaoundé,Ngaoundéré,Yes,0,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Fulfulde,Yes,Yes,Basic,Moderate
+19,Male,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Bakweri Village,Yes,3,No,No,English,English,Yes,No,No,Mokpwe (mother tongue),No,Yes,None,Detached
+19,Female,Bakweri,Bakweri,Bakweri,Yes,South West,Yaoundé,Yes,2,Yes,No,French,Mix of MT and Pidgin,Yes,Yes,No,English,Yes,No,Basic,Moderate
+23,Male,Meta,Meta,Bakweri,No,Yaoundé,Meta Village,Yes,2,No,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,No,Meta (mother tongue),Yes,Yes,Basic,Moderate
+9,Male,Fulani,Fulani,Fulani,Yes,Far North,Ngaoundéré,No,6,No,No,Mix of Fulfulde and French,Fulfulde (mother tongue),Yes,No,Yes,Arabic (Quran),Yes,Yes,Basic,Weak
+8,Male,Meta,Meta,Bafut,No,North West,Douala,Yes,1,Yes,No,Mix of Pidgin and French,Mix of Pidgin and French,Yes,No,No,Meta (mother tongue),Yes,Yes,None,Weak
+18,Female,Bakweri,Bakweri,Fulani,No,Buea,Bakweri Village,No,2,Yes,No,Mokpwe (mother tongue),French,No,Yes,No,Mokpwe (mother tongue),No,Yes,Basic,Weak
+23,Female,Fulani,Fulani,Fulani,Yes,Buea,Ngaoundéré,No,3,Yes,No,French,Fulfulde (mother tongue),Yes,Yes,No,Fulfulde,Yes,Yes,Basic,Moderate
+5,Female,Bafut,Bafut,Bafut,Yes,South West,Bafoussam,No,2,No,No,English,Mix of MT and Pidgin,Yes,Yes,Yes,Bafut (mother tongue),Yes,No,Basic,Strong
+22,Female,Bafut,Bafut,Meta,No,Centre,Bafoussam,No,3,No,Yes,Bafut (mother tongue),Cameroonian Pidgin English,Yes,Yes,Yes,Bafut (mother tongue),Yes,Yes,Conversational,Moderate
+19,Female,Meta,Meta,Meta,Yes,Douala,Meta Village,No,3,Yes,No,French,Meta (mother tongue),No,No,No,Meta (mother tongue),No,Yes,Minimal,Detached
+15,Male,Meta,Meta,Meta,Yes,Douala,Douala,No,3,No,Yes,Meta (mother tongue),French,No,Yes,No,English,No,Yes,Basic,Weak
+17,Male,Fulani,Fulani,Fulani,Yes,Far North,Douala,No,0,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Arabic (Quran),Yes,No,Conversational,Moderate
+6,Female,Meta,Meta,Meta,Yes,North West,Bafoussam,Yes,5,Yes,Yes,Meta (mother tongue),Mix of Pidgin and French,No,Yes,No,English,Yes,Yes,Conversational,Weak
+22,Female,Meta,Meta,Meta,Yes,Douala,Bamenda,No,2,No,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,No,Meta (mother tongue),No,Yes,Basic,Weak
+6,Female,Meta,Meta,Meta,Yes,Bamenda,Yaoundé,Yes,4,Yes,No,Meta (mother tongue),Meta (mother tongue),No,No,Yes,Cameroonian Pidgin English,No,Yes,Basic,Weak
+4,Female,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Bakweri Village,No,2,No,No,Mokpwe (mother tongue),Mokpwe (mother tongue),Yes,Yes,No,Cameroonian Pidgin English,No,Yes,Conversational,Moderate
+12,Male,Fulani,Fulani,Fulani,Yes,Buea,Maroua,No,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Hausa,Yes,Yes,Conversational,Moderate
+12,Male,Fulani,Fulani,Bakweri,No,Douala,Garoua,Yes,5,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,French,Yes,Yes,Basic,Moderate
+4,Male,Meta,Meta,Meta,Yes,South West,Yaoundé,No,5,No,No,Meta (mother tongue),Cameroonian Pidgin English,No,No,Yes,French,Yes,Yes,Basic,Weak
+14,Male,Fulani,Fulani,Fulani,Yes,Centre,Garoua,Yes,8,Yes,No,Fulfulde (mother tongue),Mix of Fulfulde and Arabic,Yes,Yes,Yes,Fulfulde,Yes,Yes,Conversational,Strong
+14,Female,Fulani,Fulani,Fulani,Yes,Adamawa,Fulani Camp,Yes,2,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,French,Yes,Yes,Conversational,Moderate
+5,Female,Meta,Meta,Bakweri,No,Buea,Yaoundé,No,1,Yes,Yes,Mix of MT and French,French,No,No,No,Meta (mother tongue),Yes,Yes,Minimal,Detached
+10,Male,Fulani,Fulani,Fulani,Yes,Centre,Garoua,Yes,5,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,No,Arabic (Quran),No,Yes,Basic,Detached
+4,Female,Bakweri,Bakweri,Meta,No,North West,Limbe,Yes,1,Yes,No,Mix of Pidgin and English,French,No,Yes,No,French,Yes,Yes,Minimal,Moderate
+8,Female,Bafut,Bafut,Bafut,Yes,Centre,Bamenda,No,3,Yes,No,French,Mix of MT and French,No,No,Yes,French,No,Yes,Minimal,Weak
+23,Female,Meta,Meta,Meta,Yes,North West,Meta Village,Yes,2,No,Yes,Mix of MT and Pidgin,Mix of MT and French,Yes,Yes,No,French,No,Yes,Minimal,Weak
+11,Male,Fulani,Fulani,Fulani,Yes,Douala,Fulani Camp,No,7,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),No,Yes,Fluent,Moderate
+10,Female,Bafut,Bafut,Bafut,Yes,Bamenda,Bafoussam,No,3,Yes,Yes,Bafut (mother tongue),Bafut (mother tongue),No,Yes,Yes,English,No,Yes,Fluent,Moderate
+14,Male,Meta,Meta,Meta,Yes,Bamenda,Bafoussam,No,5,No,No,Meta (mother tongue),English,Yes,Yes,No,Cameroonian Pidgin English,Yes,Yes,Basic,Moderate
+12,Male,Bafut,Bafut,Bakweri,No,Buea,Bamenda,Yes,1,Yes,No,English,Bafut (mother tongue),No,No,Yes,French,Yes,Yes,Basic,Moderate
+4,Female,Fulani,Fulani,Fulani,Yes,Adamawa,Fulani Camp,Yes,7,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Arabic (Quran),Yes,Yes,Conversational,Moderate
+11,Male,Bafut,Bafut,Meta,No,Centre,Bafoussam,No,1,No,No,Bafut (mother tongue),Cameroonian Pidgin English,Yes,Yes,No,English,No,Yes,Basic,Weak
+17,Female,Bafut,Bafut,Bafut,Yes,South West,Yaoundé,Yes,2,No,No,Bafut (mother tongue),Bafut (mother tongue),No,Yes,No,Bafut (mother tongue),No,No,Minimal,Weak
+23,Male,Bakweri,Bakweri,Bakweri,Yes,South West,Limbe,Yes,5,No,No,Mokpwe (mother tongue),Mix of MT and English,Yes,Yes,No,English,No,No,Minimal,Weak
+17,Male,Fulani,Fulani,Bafut,No,Far North,Maroua,No,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Arabic (Quran),No,Yes,Conversational,Moderate
+16,Female,Fulani,Fulani,Fulani,Yes,Centre,Maroua,No,1,No,No,Fulfulde (mother tongue),Cameroonian Pidgin English,Yes,Yes,No,Fulfulde,Yes,Yes,Basic,Moderate
+7,Male,Bafut,Bafut,Meta,No,Littoral,Bafut Village,No,3,Yes,No,Bafut (mother tongue),Bafut (mother tongue),Yes,No,Yes,Mix of MT and Pidgin,Yes,Yes,Fluent,Moderate
+24,Female,Meta,Meta,Meta,Yes,Bamenda,Meta Village,No,3,No,No,Mix of MT and Pidgin,Mix of Pidgin and French,No,Yes,Yes,French,No,No,Minimal,Moderate
+5,Male,Bafut,Bafut,Meta,No,Bamenda,Douala,No,2,No,Yes,Mix of MT and French,Bafut (mother tongue),Yes,No,Yes,English,No,Yes,Basic,Weak
+4,Female,Meta,Meta,Bafut,No,Yaoundé,Yaoundé,Yes,1,No,No,Meta (mother tongue),French,No,No,No,Mix of MT and Pidgin,Yes,No,None,Detached
+20,Female,Meta,Meta,Meta,Yes,Yaoundé,Bamenda,Yes,5,No,No,Mix of MT and French,Mix of Pidgin and French,No,No,No,French,No,Yes,None,Detached
+5,Male,Bafut,Bafut,Bafut,Yes,South West,Yaoundé,Yes,2,No,No,Mix of MT and French,Bafut (mother tongue),No,Yes,No,English,No,Yes,None,Detached
+13,Female,Bakweri,Bakweri,Meta,No,South West,Bakweri Village,No,2,No,No,English,Mokpwe (mother tongue),No,No,No,Mokpwe (mother tongue),No,No,Minimal,Detached
+19,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Maroua,Yes,3,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Fluent,Strong
+14,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Maroua,No,5,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Hausa,Yes,Yes,Fluent,Moderate
+10,Female,Fulani,Fulani,Fulani,Yes,Douala,Maroua,Yes,7,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,No,Fulfulde,Yes,Yes,Basic,Detached
+23,Male,Bafut,Bafut,Meta,No,Littoral,Yaoundé,Yes,4,No,No,Mix of Pidgin and French,Mix of MT and French,Yes,No,No,French,No,Yes,None,Detached
+15,Male,Bakweri,Bakweri,Meta,No,South West,Limbe,No,4,No,No,Mokpwe (mother tongue),Mix of MT and Pidgin,No,No,Yes,Cameroonian Pidgin English,Yes,Yes,Minimal,Weak
+18,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Maroua,No,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,French,Yes,Yes,Fluent,Moderate
+16,Female,Fulani,Fulani,Fulani,Yes,Douala,Ngaoundéré,Yes,5,No,No,Mix of Fulfulde and Hausa,Fulfulde (mother tongue),Yes,No,Yes,Arabic (Quran),No,Yes,None,Weak
+20,Male,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Yaoundé,Yes,1,Yes,Yes,Mokpwe (mother tongue),Cameroonian Pidgin English,Yes,Yes,No,English,Yes,No,Conversational,Moderate
+6,Male,Fulani,Fulani,Fulani,Yes,Far North,Ngaoundéré,Yes,3,Yes,Yes,Hausa,Fulfulde (mother tongue),Yes,No,Yes,Arabic (Quran),Yes,Yes,Basic,Moderate
+4,Male,Fulani,Fulani,Bakweri,No,Littoral,Ngaoundéré,Yes,3,No,No,Hausa,Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Basic,Moderate
+24,Male,Fulani,Fulani,Fulani,Yes,Littoral,Ngaoundéré,No,7,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Arabic (Quran),Yes,Yes,Fluent,Strong
+18,Male,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Douala,No,5,No,No,French,Mix of Pidgin and English,No,No,No,French,No,Yes,None,Detached
+7,Male,Fulani,Fulani,Fulani,Yes,Adamawa,Maroua,Yes,6,Yes,No,Fulfulde (mother tongue),French,Yes,No,No,French,Yes,Yes,Basic,Weak
+16,Female,Bakweri,Bakweri,Bafut,No,Littoral,Douala,No,5,No,No,Mokpwe (mother tongue),Mokpwe (mother tongue),No,No,No,Cameroonian Pidgin English,Yes,Yes,Basic,Detached
+23,Male,Bafut,Bafut,Bafut,Yes,Yaoundé,Yaoundé,No,1,No,Yes,Bafut (mother tongue),Bafut (mother tongue),Yes,No,No,English,Yes,Yes,Conversational,Detached
+23,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Ngaoundéré,No,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Hausa,No,No,Fluent,Weak
+7,Female,Meta,Meta,Meta,Yes,Buea,Meta Village,Yes,4,Yes,No,Mix of Pidgin and French,Meta (mother tongue),Yes,Yes,Yes,Cameroonian Pidgin English,No,No,Conversational,Moderate
+21,Female,Fulani,Fulani,Fulani,Yes,Buea,Yaoundé,Yes,4,No,No,Mix of Fulfulde and Arabic,Fulfulde (mother tongue),Yes,No,Yes,French,Yes,Yes,Minimal,Moderate
+16,Male,Fulani,Fulani,Fulani,Yes,Buea,Yaoundé,No,1,Yes,No,Fulfulde (mother tongue),Cameroonian Pidgin English,Yes,Yes,No,Arabic (Quran),Yes,Yes,Conversational,Moderate
+10,Male,Bafut,Bafut,Bakweri,No,Centre,Douala,Yes,4,No,No,Bafut (mother tongue),Mix of MT and French,No,No,No,French,No,Yes,None,Detached
+14,Female,Meta,Meta,Bakweri,No,Centre,Bafoussam,No,3,Yes,No,French,English,Yes,Yes,No,Cameroonian Pidgin English,Yes,No,Basic,Moderate
+13,Female,Fulani,Fulani,Fulani,Yes,Far North,Ngaoundéré,Yes,7,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Arabic (Quran),Yes,Yes,Basic,Moderate
+23,Male,Bakweri,Bakweri,Bakweri,Yes,South West,Bakweri Village,Yes,4,No,No,Mokpwe (mother tongue),Mix of MT and Pidgin,No,No,No,French,Yes,Yes,Minimal,Detached
+22,Male,Bafut,Bafut,Bafut,Yes,North West,Bafut Village,No,1,Yes,No,Bafut (mother tongue),English,Yes,Yes,No,Cameroonian Pidgin English,No,No,Conversational,Moderate
+19,Male,Meta,Meta,Meta,Yes,North West,Douala,No,3,No,No,Mix of MT and French,Mix of MT and Pidgin,No,No,No,Meta (mother tongue),Yes,Yes,None,Detached
+12,Male,Meta,Meta,Bafut,No,Bamenda,Yaoundé,No,3,No,No,Meta (mother tongue),Mix of Pidgin and French,No,Yes,No,English,No,Yes,Minimal,Detached
+9,Female,Bakweri,Bakweri,Fulani,No,Littoral,Buea,Yes,3,No,No,English,French,Yes,Yes,No,French,No,Yes,None,Weak
+8,Female,Meta,Meta,Meta,Yes,Bamenda,Meta Village,No,4,No,Yes,English,Meta (mother tongue),No,No,Yes,Cameroonian Pidgin English,No,Yes,Basic,Detached
+8,Male,Meta,Meta,Meta,Yes,Bamenda,Bafoussam,Yes,4,Yes,No,Meta (mother tongue),Mix of MT and Pidgin,Yes,Yes,No,French,Yes,Yes,Basic,Moderate
+8,Female,Meta,Meta,Meta,Yes,Littoral,Bafoussam,No,1,No,No,Meta (mother tongue),Meta (mother tongue),No,Yes,No,French,Yes,No,Basic,Weak
+23,Male,Bakweri,Bakweri,Bafut,No,Bamenda,Yaoundé,No,5,No,No,Mokpwe (mother tongue),Mix of Pidgin and English,Yes,No,No,Cameroonian Pidgin English,Yes,No,Basic,Weak
+16,Male,Bafut,Bafut,Bafut,Yes,Littoral,Bafoussam,No,4,Yes,Yes,Bafut (mother tongue),Mix of Pidgin and French,Yes,Yes,No,Bafut (mother tongue),No,Yes,Conversational,Weak
+19,Female,Fulani,Fulani,Fulani,Yes,Centre,Douala,Yes,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,French,Yes,Yes,Fluent,Strong
+19,Male,Bakweri,Bakweri,Bafut,No,Douala,Limbe,Yes,3,No,No,Mix of MT and Pidgin,Mokpwe (mother tongue),No,No,Yes,English,No,Yes,None,Weak
+20,Female,Meta,Meta,Meta,Yes,Littoral,Meta Village,Yes,6,No,No,Mix of Pidgin and French,English,Yes,No,No,Meta (mother tongue),No,No,None,Detached
+21,Male,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Douala,Yes,1,Yes,No,Cameroonian Pidgin English,Mokpwe (mother tongue),Yes,No,Yes,French,No,Yes,Basic,Weak
+4,Male,Meta,Meta,Meta,Yes,Buea,Bamenda,No,1,Yes,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,Yes,French,No,Yes,Fluent,Strong
+9,Female,Bafut,Bafut,Meta,No,Centre,Bafoussam,No,3,No,No,Bafut (mother tongue),Mix of Pidgin and French,No,No,No,Bafut (mother tongue),No,No,None,Detached
+23,Male,Meta,Meta,Bakweri,No,Centre,Douala,Yes,3,No,No,Mix of MT and Pidgin,Cameroonian Pidgin English,No,No,No,Cameroonian Pidgin English,No,Yes,None,Detached
+20,Male,Bakweri,Bakweri,Bakweri,Yes,Douala,Limbe,No,5,Yes,No,Mix of MT and English,Mokpwe (mother tongue),Yes,No,Yes,French,Yes,Yes,Conversational,Moderate
+19,Male,Bakweri,Bakweri,Bakweri,Yes,North West,Limbe,Yes,2,No,No,English,English,No,Yes,Yes,English,Yes,Yes,None,Moderate
+8,Female,Meta,Meta,Bakweri,No,Buea,Douala,Yes,6,No,No,Meta (mother tongue),French,Yes,No,No,Meta (mother tongue),No,Yes,None,Detached
+13,Female,Meta,Meta,Meta,Yes,Yaoundé,Bafoussam,No,3,Yes,No,Mix of MT and Pidgin,Meta (mother tongue),No,Yes,No,Meta (mother tongue),Yes,Yes,Basic,Weak
+12,Female,Bakweri,Bakweri,Bafut,No,Douala,Yaoundé,Yes,5,Yes,No,English,Mix of MT and Pidgin,Yes,No,Yes,French,No,No,None,Moderate
+22,Male,Meta,Meta,Meta,Yes,Yaoundé,Meta Village,No,5,Yes,Yes,Meta (mother tongue),Meta (mother tongue),No,Yes,No,French,No,Yes,Conversational,Weak
+22,Male,Bakweri,Bakweri,Meta,No,South West,Buea,No,3,Yes,No,Cameroonian Pidgin English,French,No,Yes,No,English,No,Yes,Minimal,Weak
+4,Male,Bafut,Bafut,Bafut,Yes,Centre,Douala,No,3,Yes,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,Yes,French,No,Yes,Fluent,Strong
+21,Female,Fulani,Fulani,Fulani,Yes,Littoral,Maroua,Yes,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Hausa,Yes,Yes,Conversational,Moderate
+5,Female,Meta,Meta,Meta,Yes,South West,Meta Village,No,3,No,Yes,Meta (mother tongue),Meta (mother tongue),Yes,No,Yes,Meta (mother tongue),No,No,Conversational,Weak
+4,Male,Meta,Meta,Meta,Yes,Centre,Douala,No,4,Yes,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,No,Meta (mother tongue),Yes,Yes,Conversational,Moderate
+8,Female,Bafut,Bafut,Bafut,Yes,Yaoundé,Bafut Village,Yes,6,No,No,Bafut (mother tongue),English,No,Yes,No,English,No,No,Minimal,Detached
+19,Male,Fulani,Fulani,Fulani,Yes,Littoral,Yaoundé,Yes,5,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,No,French,Yes,Yes,Conversational,Moderate
+11,Female,Bakweri,Bakweri,Bafut,No,Douala,Buea,Yes,3,No,No,Mokpwe (mother tongue),Mix of Pidgin and English,Yes,Yes,No,French,No,Yes,Minimal,Weak
+13,Male,Meta,Meta,Meta,Yes,South West,Bamenda,No,5,No,No,Meta (mother tongue),Meta (mother tongue),No,Yes,No,French,Yes,Yes,Conversational,Weak
+14,Male,Bakweri,Bakweri,Bakweri,Yes,Buea,Yaoundé,No,1,No,Yes,Mokpwe (mother tongue),Cameroonian Pidgin English,No,Yes,No,French,Yes,No,Basic,Weak
+16,Female,Bafut,Bafut,Fulani,No,Centre,Bafoussam,No,5,Yes,Yes,Bafut (mother tongue),Mix of Pidgin and French,Yes,No,No,English,No,No,Basic,Detached
+5,Female,Meta,Meta,Meta,Yes,Centre,Douala,Yes,4,No,Yes,Meta (mother tongue),Mix of MT and Pidgin,No,No,No,French,Yes,Yes,Minimal,Detached
+15,Female,Bafut,Bafut,Fulani,No,South West,Bafut Village,Yes,6,No,No,Bafut (mother tongue),Mix of Pidgin and French,No,No,Yes,Bafut (mother tongue),No,Yes,Minimal,Weak
+24,Female,Fulani,Fulani,Fulani,Yes,Littoral,Garoua,Yes,7,Yes,Yes,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,No,Fulfulde,Yes,Yes,Conversational,Weak
+5,Female,Fulani,Fulani,Fulani,Yes,Buea,Yaoundé,No,8,No,No,Mix of Fulfulde and Hausa,Fulfulde (mother tongue),Yes,Yes,No,Fulfulde,No,Yes,Basic,Weak
+11,Female,Bakweri,Bakweri,Bakweri,Yes,Douala,Limbe,No,3,No,No,Mix of MT and Pidgin,Cameroonian Pidgin English,Yes,Yes,Yes,English,Yes,Yes,Basic,Strong
+6,Female,Fulani,Fulani,Meta,No,Douala,Maroua,No,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,No,French,Yes,Yes,Basic,Weak
+14,Female,Bakweri,Bakweri,Meta,No,Yaoundé,Limbe,Yes,2,No,No,Cameroonian Pidgin English,French,Yes,Yes,No,Cameroonian Pidgin English,Yes,No,None,Weak
+23,Male,Bakweri,Bakweri,Bafut,No,Buea,Limbe,No,3,No,No,Mokpwe (mother tongue),Cameroonian Pidgin English,No,No,Yes,Cameroonian Pidgin English,No,Yes,Minimal,Detached
+19,Male,Fulani,Fulani,Fulani,Yes,Littoral,Garoua,Yes,8,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Fulfulde,Yes,No,Basic,Moderate
+22,Male,Bakweri,Bakweri,Bakweri,Yes,Buea,Limbe,No,3,No,No,English,Mix of MT and Pidgin,Yes,No,Yes,Mokpwe (mother tongue),Yes,Yes,Basic,Moderate
+9,Male,Meta,Meta,Meta,Yes,South West,Yaoundé,Yes,1,Yes,No,Meta (mother tongue),Mix of MT and French,Yes,No,Yes,French,No,No,Basic,Moderate
+7,Male,Fulani,Fulani,Fulani,Yes,North,Garoua,Yes,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Fulfulde,No,Yes,Conversational,Weak
+22,Female,Meta,Meta,Bafut,No,Centre,Bamenda,No,0,No,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,No,French,Yes,No,Basic,Moderate
+13,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Garoua,No,6,Yes,No,Fulfulde (mother tongue),Mix of Fulfulde and Arabic,No,Yes,Yes,Arabic (Quran),Yes,No,Conversational,Strong
+13,Female,Meta,Meta,Meta,Yes,Bamenda,Douala,Yes,1,No,No,Meta (mother tongue),Mix of MT and Pidgin,No,Yes,No,Cameroonian Pidgin English,No,No,Minimal,Detached
+23,Male,Bakweri,Bakweri,Fulani,No,Bamenda,Limbe,No,3,No,Yes,Mix of Pidgin and English,Mokpwe (mother tongue),Yes,No,No,Cameroonian Pidgin English,Yes,No,Minimal,Weak
+10,Female,Meta,Meta,Meta,Yes,South West,Douala,No,3,Yes,No,English,Mix of Pidgin and French,Yes,Yes,Yes,Meta (mother tongue),No,Yes,Basic,Strong
+5,Female,Meta,Meta,Meta,Yes,Centre,Douala,No,5,Yes,No,Meta (mother tongue),Mix of MT and French,Yes,No,No,French,No,No,Basic,Detached
+15,Male,Bafut,Bafut,Bafut,Yes,Bamenda,Bafoussam,Yes,5,Yes,No,Bafut (mother tongue),Cameroonian Pidgin English,Yes,No,No,Cameroonian Pidgin English,No,Yes,Basic,Weak
+15,Male,Bakweri,Bakweri,Bafut,No,North West,Buea,No,2,Yes,Yes,Mix of Pidgin and English,Mix of Pidgin and English,No,No,No,English,Yes,No,Minimal,Weak
+6,Male,Bafut,Bafut,Bafut,Yes,North West,Bamenda,Yes,2,No,Yes,Bafut (mother tongue),Mix of MT and Pidgin,Yes,No,No,English,No,No,Minimal,Detached
+4,Female,Bafut,Bafut,Bafut,Yes,Bamenda,Douala,No,5,Yes,Yes,French,French,No,No,No,French,Yes,Yes,Minimal,Detached
+17,Female,Meta,Meta,Meta,Yes,Douala,Bafoussam,Yes,2,Yes,Yes,Mix of MT and Pidgin,Meta (mother tongue),Yes,No,Yes,French,Yes,No,Conversational,Moderate
+20,Female,Bafut,Bafut,Fulani,No,North West,Bafoussam,Yes,3,No,Yes,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,No,Bafut (mother tongue),Yes,Yes,Basic,Moderate
+19,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Ngaoundéré,Yes,5,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Arabic (Quran),Yes,Yes,Conversational,Moderate
+9,Male,Meta,Meta,Bafut,No,Bamenda,Bafoussam,No,2,Yes,No,French,Cameroonian Pidgin English,Yes,No,No,Mix of Pidgin and French,No,Yes,Minimal,Weak
+5,Female,Bakweri,Bakweri,Meta,No,North West,Douala,Yes,0,No,No,Mokpwe (mother tongue),Mokpwe (mother tongue),No,No,No,English,Yes,Yes,Minimal,Detached
+23,Female,Bakweri,Bakweri,Fulani,No,North West,Douala,Yes,2,No,No,Mokpwe (mother tongue),Mix of MT and English,Yes,Yes,No,English,No,Yes,Minimal,Weak
+13,Male,Bakweri,Bakweri,Fulani,No,Bamenda,Douala,Yes,0,No,No,Mokpwe (mother tongue),Mokpwe (mother tongue),No,Yes,Yes,Cameroonian Pidgin English,No,No,Basic,Moderate
+16,Female,Meta,Meta,Meta,Yes,Douala,Bafoussam,No,1,No,Yes,Meta (mother tongue),Meta (mother tongue),Yes,No,No,English,No,No,Basic,Detached
+20,Female,Bafut,Bafut,Bafut,Yes,Bamenda,Douala,Yes,4,Yes,No,Cameroonian Pidgin English,Mix of MT and French,No,No,No,Bafut (mother tongue),No,No,None,Detached
+20,Female,Bakweri,Bakweri,Bakweri,Yes,South West,Douala,Yes,6,No,No,Mix of MT and English,English,Yes,No,No,French,No,No,None,Detached
+20,Male,Fulani,Fulani,Fulani,Yes,Buea,Maroua,No,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Fluent,Strong
+21,Female,Bafut,Bafut,Bafut,Yes,South West,Bafut Village,No,1,Yes,No,Bafut (mother tongue),Bafut (mother tongue),No,No,No,Cameroonian Pidgin English,Yes,No,Conversational,Weak
+16,Female,Bafut,Bafut,Bafut,Yes,Centre,Bafut Village,Yes,5,No,No,English,Bafut (mother tongue),No,No,No,French,No,No,None,Detached
+21,Female,Fulani,Fulani,Fulani,Yes,Centre,Douala,Yes,5,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Basic,Moderate
+11,Male,Bakweri,Bakweri,Bakweri,Yes,Buea,Buea,No,5,No,No,English,Mokpwe (mother tongue),No,Yes,No,Mokpwe (mother tongue),Yes,No,Basic,Weak
+10,Female,Bafut,Bafut,Meta,No,Centre,Douala,No,4,No,Yes,Bafut (mother tongue),Cameroonian Pidgin English,Yes,Yes,Yes,Bafut (mother tongue),Yes,Yes,Basic,Moderate
+9,Male,Fulani,Fulani,Fulani,Yes,Buea,Ngaoundéré,Yes,1,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,No,Hausa,Yes,Yes,Basic,Weak
+17,Male,Fulani,Fulani,Fulani,Yes,Buea,Ngaoundéré,Yes,0,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Does not attend,Yes,Yes,Fluent,Strong
+20,Female,Fulani,Fulani,Fulani,Yes,Littoral,Garoua,Yes,7,No,No,Fulfulde (mother tongue),French,Yes,Yes,Yes,Fulfulde,Yes,Yes,Basic,Moderate
+12,Male,Bafut,Bafut,Meta,No,Buea,Bafut Village,No,0,Yes,No,Cameroonian Pidgin English,Bafut (mother tongue),Yes,No,Yes,English,Yes,No,Conversational,Moderate
+24,Male,Bafut,Bafut,Bakweri,No,North West,Yaoundé,No,3,Yes,No,Bafut (mother tongue),Bafut (mother tongue),No,Yes,Yes,French,Yes,Yes,Conversational,Moderate
+16,Male,Meta,Meta,Meta,Yes,Buea,Yaoundé,Yes,4,Yes,No,Mix of MT and French,Mix of MT and Pidgin,Yes,No,No,French,Yes,No,Minimal,Weak
+13,Female,Meta,Meta,Meta,Yes,Littoral,Yaoundé,No,2,Yes,No,Meta (mother tongue),Meta (mother tongue),No,Yes,Yes,Cameroonian Pidgin English,No,Yes,Conversational,Moderate
+9,Female,Meta,Meta,Meta,Yes,Littoral,Bafoussam,No,0,No,No,Meta (mother tongue),Meta (mother tongue),Yes,No,No,Mix of Pidgin and French,No,No,Basic,Detached
+24,Female,Meta,Meta,Meta,Yes,Bamenda,Meta Village,No,0,Yes,No,Cameroonian Pidgin English,French,No,Yes,No,Cameroonian Pidgin English,Yes,Yes,Minimal,Weak
+22,Female,Meta,Meta,Meta,Yes,Douala,Meta Village,Yes,1,Yes,No,Mix of MT and Pidgin,Mix of Pidgin and French,No,No,Yes,French,Yes,Yes,Minimal,Weak
+22,Male,Meta,Meta,Meta,Yes,South West,Bamenda,Yes,4,No,No,Meta (mother tongue),Meta (mother tongue),No,Yes,No,Cameroonian Pidgin English,No,Yes,Minimal,Detached
+6,Female,Bafut,Bafut,Bafut,Yes,North West,Yaoundé,No,2,Yes,Yes,French,Bafut (mother tongue),Yes,No,Yes,Bafut (mother tongue),Yes,Yes,Conversational,Moderate
+24,Male,Meta,Meta,Bakweri,No,Centre,Meta Village,No,3,No,No,Mix of Pidgin and French,Cameroonian Pidgin English,No,No,Yes,Meta (mother tongue),Yes,No,None,Weak
+12,Male,Bafut,Bafut,Meta,No,Centre,Bafut Village,No,3,No,No,Bafut (mother tongue),Mix of Pidgin and French,No,No,Yes,English,No,Yes,Minimal,Weak
+24,Female,Fulani,Fulani,Fulani,Yes,North,Ngaoundéré,Yes,4,Yes,No,Mix of Fulfulde and Arabic,Fulfulde (mother tongue),No,No,Yes,Arabic (Quran),Yes,Yes,Minimal,Moderate
+13,Female,Fulani,Fulani,Fulani,Yes,Centre,Ngaoundéré,Yes,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Arabic (Quran),No,Yes,Conversational,Moderate
+22,Male,Fulani,Fulani,Fulani,Yes,Centre,Fulani Camp,Yes,7,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,No,No,Fulfulde,Yes,No,Basic,Detached
+17,Male,Meta,Meta,Bakweri,No,Littoral,Douala,Yes,5,No,No,Mix of Pidgin and French,Mix of MT and Pidgin,No,Yes,No,Mix of MT and French,Yes,No,None,Weak
+4,Female,Meta,Meta,Meta,Yes,South West,Douala,No,3,No,No,Mix of Pidgin and French,Meta (mother tongue),Yes,No,Yes,Meta (mother tongue),No,Yes,Basic,Weak
+20,Male,Bakweri,Bakweri,Bafut,No,Littoral,Buea,Yes,2,No,No,English,Mokpwe (mother tongue),No,No,No,French,Yes,Yes,None,Detached
+22,Male,Fulani,Fulani,Bakweri,No,Littoral,Fulani Camp,Yes,4,No,Yes,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Fulfulde,Yes,Yes,Conversational,Moderate
+11,Female,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Yaoundé,Yes,3,No,No,French,Mix of Pidgin and English,No,No,Yes,Mokpwe (mother tongue),Yes,Yes,None,Weak
+23,Female,Bakweri,Bakweri,Meta,No,North West,Buea,Yes,2,No,No,Mokpwe (mother tongue),Cameroonian Pidgin English,No,No,No,Cameroonian Pidgin English,No,Yes,None,Detached
+13,Male,Meta,Meta,Bafut,No,South West,Bamenda,No,6,Yes,No,Meta (mother tongue),Mix of MT and Pidgin,No,No,No,Meta (mother tongue),No,Yes,Minimal,Detached
+12,Male,Bakweri,Bakweri,Bakweri,Yes,North West,Limbe,No,1,Yes,No,Mokpwe (mother tongue),Mokpwe (mother tongue),No,No,No,Mokpwe (mother tongue),Yes,Yes,Conversational,Weak
+20,Female,Fulani,Fulani,Fulani,Yes,North,Maroua,No,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Arabic (Quran),Yes,Yes,Conversational,Strong
+22,Female,Fulani,Fulani,Fulani,Yes,Centre,Douala,No,4,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,French,Yes,Yes,Conversational,Moderate
+10,Male,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Douala,No,2,No,No,Mix of Pidgin and English,Mokpwe (mother tongue),Yes,Yes,Yes,English,No,No,Basic,Moderate
+16,Female,Meta,Meta,Meta,Yes,Buea,Meta Village,Yes,4,Yes,No,Meta (mother tongue),French,Yes,Yes,No,Cameroonian Pidgin English,Yes,No,Conversational,Moderate
+19,Female,Fulani,Fulani,Fulani,Yes,North,Garoua,No,1,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,No,Does not attend,No,Yes,Conversational,Weak
+6,Male,Bafut,Bafut,Bafut,Yes,Centre,Bafut Village,Yes,3,Yes,No,Bafut (mother tongue),Mix of MT and French,Yes,Yes,No,French,No,Yes,Basic,Moderate
+7,Female,Bakweri,Bakweri,Fulani,No,Centre,Buea,No,5,No,No,Mokpwe (mother tongue),Mokpwe (mother tongue),No,No,No,Mix of MT and English,Yes,Yes,Minimal,Detached
+21,Male,Meta,Meta,Fulani,No,Bamenda,Douala,Yes,3,Yes,Yes,English,Meta (mother tongue),No,Yes,No,Cameroonian Pidgin English,No,No,Minimal,Weak
+18,Female,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Douala,Yes,5,No,No,Mokpwe (mother tongue),Mokpwe (mother tongue),No,No,No,French,No,Yes,Minimal,Detached
+22,Male,Fulani,Fulani,Fulani,Yes,Adamawa,Ngaoundéré,No,8,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,French,Yes,Yes,Fluent,Moderate
+18,Female,Bakweri,Bakweri,Bafut,No,North West,Limbe,No,5,No,No,Mokpwe (mother tongue),Mix of MT and Pidgin,No,No,No,French,Yes,Yes,Minimal,Detached
+20,Male,Bafut,Bafut,Bakweri,No,Buea,Douala,No,3,Yes,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,No,French,Yes,Yes,Conversational,Moderate
+11,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Douala,Yes,6,No,Yes,French,Fulfulde (mother tongue),No,Yes,Yes,French,Yes,Yes,Minimal,Moderate
+21,Male,Bakweri,Bakweri,Bakweri,Yes,Littoral,Limbe,Yes,4,Yes,No,Mokpwe (mother tongue),English,Yes,No,No,Mokpwe (mother tongue),No,Yes,Minimal,Detached
+24,Female,Bafut,Bafut,Bafut,Yes,Centre,Douala,Yes,4,Yes,No,Bafut (mother tongue),English,Yes,Yes,No,French,No,Yes,Basic,Moderate
+18,Female,Bakweri,Bakweri,Bafut,No,North West,Buea,No,3,Yes,No,Mokpwe (mother tongue),Mokpwe (mother tongue),No,No,No,English,No,Yes,Basic,Detached
+11,Female,Meta,Meta,Meta,Yes,Littoral,Bamenda,No,3,Yes,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,Yes,English,No,No,Fluent,Moderate
+16,Female,Bakweri,Bakweri,Bakweri,Yes,Douala,Douala,No,3,No,Yes,Mokpwe (mother tongue),Mokpwe (mother tongue),No,No,No,French,No,No,Basic,Detached
+12,Male,Bafut,Bafut,Bafut,Yes,Yaoundé,Bafoussam,Yes,3,No,Yes,English,Bafut (mother tongue),No,No,No,Cameroonian Pidgin English,Yes,Yes,Minimal,Detached
+24,Male,Meta,Meta,Bakweri,No,South West,Yaoundé,No,1,No,No,Meta (mother tongue),French,Yes,No,Yes,Meta (mother tongue),Yes,No,Basic,Weak
+20,Male,Bafut,Bafut,Meta,No,Littoral,Bamenda,No,4,Yes,No,French,Bafut (mother tongue),Yes,No,Yes,Cameroonian Pidgin English,No,Yes,Basic,Weak
+10,Female,Bafut,Bafut,Meta,No,North West,Bafoussam,Yes,6,No,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,Yes,French,Yes,No,Conversational,Moderate
+15,Female,Bafut,Bafut,Fulani,No,Douala,Yaoundé,Yes,5,Yes,No,Mix of MT and French,Cameroonian Pidgin English,Yes,No,No,Bafut (mother tongue),Yes,Yes,Minimal,Weak
+24,Male,Meta,Meta,Meta,Yes,South West,Meta Village,No,3,Yes,No,Meta (mother tongue),Mix of Pidgin and French,No,No,No,French,No,Yes,Basic,Detached
+22,Male,Fulani,Fulani,Fulani,Yes,Douala,Fulani Camp,Yes,3,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,No,French,Yes,No,Basic,Moderate
+14,Male,Bafut,Bafut,Bakweri,No,South West,Bafoussam,No,3,Yes,No,English,French,Yes,No,No,Bafut (mother tongue),Yes,Yes,Minimal,Weak
+24,Female,Fulani,Fulani,Fulani,Yes,Douala,Douala,Yes,4,No,No,Hausa,Fulfulde (mother tongue),No,Yes,Yes,French,Yes,Yes,Minimal,Moderate
+17,Male,Bakweri,Bakweri,Bakweri,Yes,South West,Limbe,Yes,6,Yes,No,Mix of MT and English,French,Yes,No,No,French,Yes,Yes,Minimal,Weak
+18,Male,Fulani,Fulani,Bafut,No,Far North,Douala,No,5,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,No,Arabic (Quran),No,Yes,Basic,Weak
+21,Male,Fulani,Fulani,Bakweri,No,Centre,Garoua,Yes,5,Yes,No,Mix of Fulfulde and Arabic,Fulfulde (mother tongue),Yes,Yes,No,Fulfulde,Yes,Yes,Basic,Moderate
+4,Male,Fulani,Fulani,Fulani,Yes,North,Yaoundé,No,1,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,No,French,Yes,Yes,Conversational,Weak
+11,Female,Bafut,Bafut,Bafut,Yes,South West,Yaoundé,Yes,4,No,No,French,Mix of Pidgin and French,No,Yes,No,French,No,No,None,Detached
+8,Male,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Limbe,No,3,No,No,English,Mix of MT and English,No,Yes,Yes,Cameroonian Pidgin English,No,No,None,Moderate
+12,Male,Fulani,Fulani,Fulani,Yes,Centre,Ngaoundéré,Yes,3,No,No,Mix of Fulfulde and Arabic,Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Minimal,Strong
+8,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Maroua,Yes,6,Yes,Yes,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Fluent,Strong
+6,Female,Bakweri,Bakweri,Fulani,No,Centre,Douala,No,3,Yes,No,Mix of Pidgin and English,Mix of MT and English,Yes,No,Yes,Mokpwe (mother tongue),No,No,Minimal,Moderate
+16,Male,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Douala,Yes,3,Yes,No,Mokpwe (mother tongue),French,No,No,No,Mokpwe (mother tongue),No,Yes,Minimal,Detached
+23,Female,Fulani,Fulani,Fulani,Yes,Centre,Ngaoundéré,No,4,No,No,French,Fulfulde (mother tongue),No,Yes,Yes,Does not attend,Yes,Yes,Basic,Moderate
+24,Male,Bakweri,Bakweri,Bakweri,Yes,Douala,Yaoundé,Yes,3,No,Yes,Mokpwe (mother tongue),English,Yes,Yes,No,French,No,Yes,Basic,Weak
+5,Female,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Yaoundé,Yes,3,Yes,No,Mix of MT and English,Mix of MT and English,Yes,No,No,French,Yes,Yes,Minimal,Weak
+20,Female,Meta,Meta,Meta,Yes,Buea,Meta Village,Yes,5,Yes,No,Meta (mother tongue),Cameroonian Pidgin English,No,No,Yes,Mix of MT and French,Yes,Yes,Basic,Weak
+13,Female,Bafut,Bafut,Bafut,Yes,Bamenda,Bafut Village,Yes,2,Yes,No,Mix of Pidgin and French,Mix of MT and Pidgin,Yes,No,No,French,No,Yes,None,Weak
+9,Male,Meta,Meta,Meta,Yes,South West,Douala,No,3,No,Yes,Meta (mother tongue),Mix of MT and Pidgin,Yes,Yes,Yes,Meta (mother tongue),No,No,Conversational,Moderate
+7,Female,Bakweri,Bakweri,Bafut,No,Douala,Douala,Yes,3,Yes,No,Mokpwe (mother tongue),Mokpwe (mother tongue),Yes,No,No,English,Yes,No,Basic,Weak
+17,Female,Bakweri,Bakweri,Bakweri,Yes,South West,Bakweri Village,No,6,No,No,Mokpwe (mother tongue),Mokpwe (mother tongue),Yes,Yes,No,English,Yes,Yes,Conversational,Moderate
+13,Female,Meta,Meta,Meta,Yes,North West,Bamenda,No,4,No,No,Meta (mother tongue),Mix of MT and French,Yes,Yes,Yes,Meta (mother tongue),Yes,Yes,Basic,Moderate
+19,Female,Meta,Meta,Fulani,No,Bamenda,Meta Village,Yes,4,No,No,Meta (mother tongue),Meta (mother tongue),No,No,No,Mix of Pidgin and French,No,Yes,Minimal,Detached
+8,Female,Bafut,Bafut,Bafut,Yes,North West,Bamenda,No,7,No,No,Bafut (mother tongue),English,Yes,No,No,Bafut (mother tongue),Yes,Yes,Basic,Detached
+22,Female,Bakweri,Bakweri,Bafut,No,Littoral,Douala,No,4,No,No,Mix of Pidgin and English,Mokpwe (mother tongue),Yes,No,Yes,Cameroonian Pidgin English,No,Yes,Basic,Moderate
+10,Female,Fulani,Fulani,Bafut,No,Far North,Ngaoundéré,Yes,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Arabic (Quran),Yes,Yes,Conversational,Strong
+23,Female,Meta,Meta,Meta,Yes,Buea,Meta Village,Yes,5,No,No,Mix of Pidgin and French,Meta (mother tongue),Yes,No,Yes,Cameroonian Pidgin English,Yes,Yes,Basic,Moderate
+11,Female,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Yaoundé,Yes,1,No,No,French,Mokpwe (mother tongue),No,No,No,French,Yes,Yes,Minimal,Detached
+21,Female,Bakweri,Bakweri,Meta,No,Bamenda,Bakweri Village,Yes,6,Yes,No,Mokpwe (mother tongue),Mokpwe (mother tongue),Yes,Yes,No,French,No,No,Conversational,Weak
+4,Female,Meta,Meta,Meta,Yes,Bamenda,Meta Village,No,3,No,No,French,English,Yes,Yes,No,Cameroonian Pidgin English,No,No,Minimal,Weak
+19,Male,Bafut,Bafut,Bafut,Yes,Douala,Douala,Yes,5,No,No,Bafut (mother tongue),English,No,Yes,No,English,Yes,No,Minimal,Weak
+21,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Douala,No,7,Yes,No,Mix of Fulfulde and Arabic,Mix of Fulfulde and Arabic,Yes,Yes,No,Arabic (Quran),No,No,Basic,Weak
+13,Male,Fulani,Fulani,Fulani,Yes,Littoral,Yaoundé,No,2,Yes,Yes,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Fluent,Strong
+18,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Garoua,Yes,7,No,No,Mix of Fulfulde and Arabic,Fulfulde (mother tongue),Yes,No,Yes,Hausa,Yes,Yes,Basic,Moderate
+4,Female,Meta,Meta,Meta,Yes,Littoral,Meta Village,No,3,No,No,Meta (mother tongue),Cameroonian Pidgin English,Yes,Yes,Yes,English,No,Yes,Conversational,Moderate
+17,Female,Meta,Meta,Meta,Yes,Littoral,Meta Village,No,4,Yes,No,Meta (mother tongue),Cameroonian Pidgin English,Yes,Yes,Yes,English,No,No,Conversational,Moderate
+22,Female,Meta,Meta,Meta,Yes,South West,Meta Village,Yes,3,Yes,No,Cameroonian Pidgin English,Meta (mother tongue),Yes,Yes,No,Cameroonian Pidgin English,Yes,No,Basic,Moderate
+13,Male,Meta,Meta,Bakweri,No,Yaoundé,Meta Village,No,2,No,No,Meta (mother tongue),Mix of MT and Pidgin,Yes,Yes,No,English,No,Yes,Minimal,Weak
+8,Female,Fulani,Fulani,Fulani,Yes,Yaoundé,Douala,Yes,4,No,No,Mix of Fulfulde and French,Mix of Fulfulde and Arabic,Yes,Yes,Yes,Does not attend,Yes,Yes,Minimal,Strong
+12,Female,Bafut,Bafut,Bafut,Yes,North West,Bafoussam,No,1,No,No,Bafut (mother tongue),Mix of Pidgin and French,Yes,Yes,Yes,Cameroonian Pidgin English,Yes,No,Conversational,Strong
+7,Male,Bafut,Bafut,Bakweri,No,South West,Bafut Village,No,1,No,No,Mix of Pidgin and French,Bafut (mother tongue),Yes,Yes,Yes,Bafut (mother tongue),Yes,No,Basic,Moderate
+13,Female,Bafut,Bafut,Bafut,Yes,Yaoundé,Bafoussam,No,1,Yes,No,Mix of MT and French,Bafut (mother tongue),Yes,No,No,French,No,Yes,Basic,Detached
+11,Male,Bafut,Bafut,Bafut,Yes,Centre,Bamenda,Yes,0,No,Yes,Mix of Pidgin and French,French,No,No,No,French,No,Yes,None,Detached
+21,Male,Fulani,Fulani,Fulani,Yes,Douala,Douala,Yes,2,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,No,Fulfulde,Yes,No,Conversational,Weak
+17,Female,Fulani,Fulani,Fulani,Yes,Yaoundé,Fulani Camp,Yes,7,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Fulfulde,No,No,Conversational,Weak
+13,Female,Bakweri,Bakweri,Bakweri,Yes,Buea,Bakweri Village,No,3,No,No,Mokpwe (mother tongue),Mix of MT and English,Yes,No,No,Mokpwe (mother tongue),Yes,Yes,Basic,Weak
+18,Male,Fulani,Fulani,Bakweri,No,Adamawa,Ngaoundéré,Yes,4,No,Yes,Cameroonian Pidgin English,Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),No,Yes,Basic,Moderate
+22,Male,Meta,Meta,Meta,Yes,South West,Yaoundé,No,6,Yes,No,Mix of MT and Pidgin,Mix of Pidgin and French,No,Yes,No,Meta (mother tongue),No,Yes,Minimal,Weak
+5,Male,Meta,Meta,Meta,Yes,Littoral,Yaoundé,Yes,1,No,No,Meta (mother tongue),Mix of Pidgin and French,Yes,Yes,No,Mix of MT and Pidgin,Yes,Yes,Minimal,Moderate
+4,Male,Fulani,Fulani,Fulani,Yes,Centre,Yaoundé,Yes,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,No,No,Arabic (Quran),No,Yes,Basic,Detached
+19,Female,Meta,Meta,Bakweri,No,Bamenda,Douala,No,3,Yes,Yes,Meta (mother tongue),English,No,Yes,No,Cameroonian Pidgin English,Yes,Yes,Conversational,Weak
+20,Female,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Douala,Yes,2,Yes,No,Cameroonian Pidgin English,English,No,Yes,No,English,Yes,Yes,Minimal,Weak
+17,Male,Bakweri,Bakweri,Bafut,No,Douala,Douala,No,3,No,No,Mix of MT and Pidgin,Mokpwe (mother tongue),Yes,No,No,English,Yes,No,Minimal,Weak
+24,Female,Meta,Meta,Meta,Yes,Douala,Meta Village,No,2,Yes,No,Mix of MT and Pidgin,Meta (mother tongue),No,No,No,Meta (mother tongue),No,Yes,Minimal,Detached
+4,Female,Meta,Meta,Fulani,No,Buea,Douala,Yes,7,Yes,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,Yes,English,Yes,Yes,Fluent,Strong
+12,Male,Bakweri,Bakweri,Bakweri,Yes,South West,Limbe,No,4,Yes,No,English,French,Yes,No,No,Cameroonian Pidgin English,Yes,No,Minimal,Weak
+21,Male,Bakweri,Bakweri,Meta,No,Bamenda,Limbe,Yes,2,Yes,No,Cameroonian Pidgin English,Mokpwe (mother tongue),No,No,No,French,Yes,No,Minimal,Detached
+14,Male,Fulani,Fulani,Fulani,Yes,North,Ngaoundéré,Yes,2,Yes,Yes,Fulfulde (mother tongue),Hausa,Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Conversational,Strong
+8,Female,Meta,Meta,Meta,Yes,South West,Meta Village,No,6,No,Yes,Meta (mother tongue),Mix of MT and Pidgin,Yes,Yes,Yes,Meta (mother tongue),No,No,Conversational,Moderate
+11,Female,Fulani,Fulani,Fulani,Yes,Yaoundé,Douala,Yes,7,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,No,Arabic (Quran),Yes,Yes,Basic,Weak
+19,Female,Fulani,Fulani,Fulani,Yes,Buea,Yaoundé,Yes,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,French,Yes,Yes,Fluent,Strong
+4,Female,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Limbe,Yes,0,No,Yes,Mokpwe (mother tongue),Mix of Pidgin and English,Yes,No,No,Cameroonian Pidgin English,No,Yes,Minimal,Detached
+17,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Garoua,Yes,5,Yes,No,Fulfulde (mother tongue),Mix of Fulfulde and French,Yes,No,Yes,Does not attend,Yes,Yes,Conversational,Moderate
+16,Male,Bafut,Bafut,Bafut,Yes,Douala,Bamenda,Yes,2,Yes,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,Yes,English,Yes,No,Conversational,Strong
+4,Female,Bakweri,Bakweri,Meta,No,North West,Douala,No,4,Yes,No,Mix of MT and English,French,No,No,No,Mokpwe (mother tongue),Yes,No,None,Weak
+17,Female,Bafut,Bafut,Bakweri,No,South West,Douala,Yes,4,No,No,Bafut (mother tongue),Cameroonian Pidgin English,No,No,Yes,Bafut (mother tongue),Yes,Yes,Minimal,Weak
+22,Male,Bafut,Bafut,Fulani,No,Buea,Douala,Yes,7,No,No,Bafut (mother tongue),French,No,Yes,No,English,Yes,Yes,Minimal,Weak
+13,Male,Fulani,Fulani,Fulani,Yes,Douala,Yaoundé,No,3,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,No,Fulfulde,Yes,Yes,Conversational,Moderate
+22,Female,Bakweri,Bakweri,Bafut,No,Yaoundé,Douala,No,6,Yes,No,Cameroonian Pidgin English,Mix of MT and Pidgin,Yes,No,Yes,French,Yes,No,Basic,Moderate
+14,Male,Meta,Meta,Fulani,No,South West,Yaoundé,Yes,4,No,No,Meta (mother tongue),Meta (mother tongue),Yes,No,No,French,No,No,Minimal,Detached
+4,Male,Bafut,Bafut,Bafut,Yes,Buea,Bafut Village,No,5,No,No,Bafut (mother tongue),Cameroonian Pidgin English,No,Yes,Yes,English,Yes,Yes,Basic,Moderate
+9,Male,Bakweri,Bakweri,Bafut,No,Yaoundé,Bakweri Village,Yes,5,Yes,No,French,Mokpwe (mother tongue),Yes,No,No,Mokpwe (mother tongue),Yes,Yes,Basic,Weak
+23,Female,Bafut,Bafut,Bafut,Yes,Buea,Yaoundé,Yes,3,Yes,Yes,French,Mix of MT and French,No,No,No,French,No,No,None,Detached
+16,Male,Bakweri,Bakweri,Bakweri,Yes,Littoral,Douala,No,6,Yes,No,Mix of Pidgin and English,Mix of MT and Pidgin,No,No,No,Mokpwe (mother tongue),No,Yes,None,Detached
+19,Female,Bakweri,Bakweri,Bafut,No,Centre,Douala,No,6,Yes,Yes,Mix of MT and English,Mokpwe (mother tongue),Yes,No,No,Cameroonian Pidgin English,No,Yes,Basic,Detached
+6,Female,Meta,Meta,Fulani,No,Bamenda,Yaoundé,Yes,1,Yes,Yes,Meta (mother tongue),Meta (mother tongue),No,Yes,No,English,No,Yes,Conversational,Weak
+10,Female,Bafut,Bafut,Bafut,Yes,Centre,Yaoundé,No,2,Yes,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,No,French,Yes,No,Conversational,Moderate
+10,Male,Meta,Meta,Meta,Yes,Littoral,Meta Village,Yes,0,Yes,Yes,Meta (mother tongue),Meta (mother tongue),Yes,No,No,English,Yes,Yes,Conversational,Weak
+7,Male,Meta,Meta,Bafut,No,Littoral,Meta Village,Yes,4,Yes,No,English,Meta (mother tongue),Yes,Yes,No,English,No,Yes,Basic,Weak
+20,Female,Bafut,Bafut,Bafut,Yes,Bamenda,Yaoundé,No,2,No,No,English,Bafut (mother tongue),Yes,No,No,French,No,Yes,Minimal,Detached
+9,Male,Meta,Meta,Bakweri,No,Buea,Bafoussam,No,4,No,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,Yes,Meta (mother tongue),Yes,Yes,Conversational,Strong
+19,Male,Meta,Meta,Fulani,No,Littoral,Douala,No,4,No,Yes,Meta (mother tongue),Cameroonian Pidgin English,Yes,Yes,No,French,No,Yes,Basic,Weak
+7,Male,Bakweri,Bakweri,Meta,No,Yaoundé,Buea,No,3,No,Yes,English,Mix of MT and English,Yes,No,No,Mokpwe (mother tongue),Yes,Yes,None,Detached
+22,Male,Bafut,Bafut,Bafut,Yes,Bamenda,Bafut Village,No,3,Yes,No,Bafut (mother tongue),Bafut (mother tongue),No,Yes,No,English,No,No,Conversational,Weak
+9,Male,Bakweri,Bakweri,Meta,No,Douala,Buea,No,2,No,No,Mix of Pidgin and English,Mokpwe (mother tongue),Yes,Yes,Yes,English,No,No,Basic,Moderate
+7,Female,Bafut,Bafut,Bafut,Yes,North West,Bafut Village,No,2,No,No,Bafut (mother tongue),French,Yes,No,No,English,No,No,Basic,Detached
+8,Female,Bakweri,Bakweri,Bafut,No,North West,Buea,Yes,3,No,No,Mokpwe (mother tongue),French,Yes,Yes,Yes,Mokpwe (mother tongue),No,Yes,Basic,Moderate
+16,Male,Bafut,Bafut,Bakweri,No,Douala,Bafoussam,Yes,2,Yes,Yes,Cameroonian Pidgin English,English,No,Yes,No,Cameroonian Pidgin English,No,Yes,Minimal,Weak
+14,Female,Bakweri,Bakweri,Bafut,No,Douala,Limbe,No,3,No,No,Cameroonian Pidgin English,Mix of Pidgin and English,Yes,No,No,English,No,Yes,None,Detached
+18,Male,Fulani,Fulani,Fulani,Yes,Far North,Ngaoundéré,Yes,6,No,No,Mix of Fulfulde and French,Fulfulde (mother tongue),Yes,Yes,No,Arabic (Quran),No,Yes,Minimal,Weak
+12,Male,Fulani,Fulani,Fulani,Yes,Douala,Garoua,No,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Hausa,Yes,Yes,Fluent,Moderate
+4,Male,Bakweri,Bakweri,Meta,No,Buea,Yaoundé,Yes,1,Yes,No,Mokpwe (mother tongue),Cameroonian Pidgin English,Yes,Yes,No,English,No,Yes,Basic,Moderate
+15,Male,Fulani,Fulani,Fulani,Yes,Douala,Maroua,No,3,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Does not attend,Yes,Yes,Fluent,Strong
+11,Male,Fulani,Fulani,Fulani,Yes,Centre,Maroua,Yes,0,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Hausa,Yes,Yes,Conversational,Moderate
+19,Male,Fulani,Fulani,Fulani,Yes,Littoral,Garoua,No,6,Yes,No,French,Fulfulde (mother tongue),Yes,No,No,Arabic (Quran),No,Yes,Basic,Detached
+20,Male,Bakweri,Bakweri,Meta,No,Douala,Limbe,No,6,No,No,Mix of MT and Pidgin,English,No,No,Yes,English,No,Yes,Minimal,Weak
+7,Female,Meta,Meta,Meta,Yes,Centre,Bafoussam,Yes,1,Yes,No,French,Mix of MT and French,Yes,Yes,Yes,Cameroonian Pidgin English,Yes,No,Basic,Strong
+7,Male,Meta,Meta,Fulani,No,Douala,Meta Village,Yes,5,No,Yes,Meta (mother tongue),Cameroonian Pidgin English,Yes,Yes,Yes,English,No,Yes,Basic,Moderate
+8,Male,Meta,Meta,Meta,Yes,Douala,Bamenda,Yes,3,Yes,No,Meta (mother tongue),Cameroonian Pidgin English,No,Yes,No,French,No,Yes,Basic,Weak
+5,Male,Meta,Meta,Bakweri,No,Buea,Meta Village,No,2,No,No,Mix of MT and French,Meta (mother tongue),Yes,Yes,No,French,No,Yes,Basic,Weak
+4,Female,Bakweri,Bakweri,Meta,No,Littoral,Limbe,No,3,No,No,Mokpwe (mother tongue),Mix of Pidgin and English,No,No,No,English,No,Yes,None,Detached
+15,Male,Fulani,Fulani,Fulani,Yes,Bamenda,Fulani Camp,Yes,7,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Arabic (Quran),No,Yes,Conversational,Moderate
+4,Female,Meta,Meta,Bafut,No,North West,Meta Village,Yes,2,No,No,Mix of MT and French,English,No,No,Yes,Cameroonian Pidgin English,No,Yes,None,Weak
+6,Female,Bafut,Bafut,Bafut,Yes,Littoral,Douala,No,2,No,No,English,Bafut (mother tongue),No,No,No,Bafut (mother tongue),Yes,Yes,Minimal,Detached
+19,Male,Bafut,Bafut,Bafut,Yes,Centre,Bamenda,No,3,Yes,No,English,Mix of Pidgin and French,Yes,No,No,Bafut (mother tongue),Yes,No,Minimal,Weak
+23,Male,Bakweri,Bakweri,Fulani,No,Yaoundé,Limbe,No,2,No,No,Mokpwe (mother tongue),Mix of MT and English,Yes,No,Yes,English,Yes,No,Basic,Weak
+12,Female,Fulani,Fulani,Fulani,Yes,Yaoundé,Douala,No,5,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Fulfulde,Yes,No,Conversational,Strong
+24,Male,Fulani,Fulani,Fulani,Yes,Adamawa,Ngaoundéré,No,1,No,No,Fulfulde (mother tongue),Hausa,No,Yes,Yes,French,Yes,Yes,Basic,Moderate
+14,Male,Fulani,Fulani,Fulani,Yes,Douala,Ngaoundéré,Yes,9,Yes,No,Fulfulde (mother tongue),Mix of Fulfulde and French,Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Conversational,Strong
+21,Female,Meta,Meta,Meta,Yes,Bamenda,Yaoundé,Yes,1,No,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,No,French,No,Yes,Basic,Weak
+22,Female,Bafut,Bafut,Bafut,Yes,North West,Bafoussam,No,6,Yes,No,Bafut (mother tongue),Mix of MT and Pidgin,Yes,No,Yes,French,Yes,Yes,Conversational,Moderate
+5,Male,Bakweri,Bakweri,Bafut,No,Douala,Limbe,No,3,No,No,English,Mix of Pidgin and English,Yes,No,No,French,No,Yes,None,Detached
+8,Female,Fulani,Fulani,Fulani,Yes,Yaoundé,Maroua,Yes,3,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Hausa,No,Yes,Conversational,Strong
+14,Female,Fulani,Fulani,Fulani,Yes,Douala,Garoua,No,8,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,No,Yes,French,Yes,Yes,Basic,Weak
+15,Female,Bakweri,Bakweri,Bafut,No,Douala,Yaoundé,Yes,2,No,No,Mokpwe (mother tongue),Cameroonian Pidgin English,Yes,Yes,Yes,French,Yes,Yes,Basic,Moderate
+17,Male,Meta,Meta,Meta,Yes,North West,Yaoundé,Yes,1,No,No,Mix of MT and French,French,Yes,Yes,No,Meta (mother tongue),Yes,Yes,Minimal,Moderate
+8,Female,Bafut,Bafut,Bafut,Yes,Littoral,Bafoussam,No,7,Yes,No,Bafut (mother tongue),Mix of MT and French,No,No,No,English,Yes,Yes,Basic,Weak
+17,Female,Bakweri,Bakweri,Bafut,No,Douala,Douala,Yes,4,Yes,No,Mokpwe (mother tongue),Mix of Pidgin and English,No,Yes,Yes,French,No,Yes,Basic,Moderate
+10,Female,Bafut,Bafut,Bafut,Yes,Littoral,Yaoundé,No,5,No,No,Bafut (mother tongue),Mix of Pidgin and French,Yes,Yes,Yes,Bafut (mother tongue),No,Yes,Basic,Moderate
+23,Male,Meta,Meta,Meta,Yes,Douala,Bamenda,Yes,2,No,No,French,Mix of MT and French,Yes,Yes,Yes,English,Yes,Yes,Minimal,Moderate
+15,Female,Fulani,Fulani,Fulani,Yes,Adamawa,Fulani Camp,No,4,Yes,Yes,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Fluent,Strong
+10,Female,Meta,Meta,Meta,Yes,Douala,Bafoussam,No,1,Yes,No,Meta (mother tongue),Cameroonian Pidgin English,Yes,Yes,Yes,English,Yes,Yes,Fluent,Strong
+17,Female,Bakweri,Bakweri,Bakweri,Yes,North West,Bakweri Village,No,2,No,No,Mokpwe (mother tongue),English,No,Yes,No,Mokpwe (mother tongue),Yes,No,Basic,Weak
+11,Female,Meta,Meta,Meta,Yes,Douala,Bafoussam,Yes,2,No,No,Mix of Pidgin and French,Mix of Pidgin and French,No,Yes,No,Meta (mother tongue),No,Yes,None,Weak
+4,Female,Fulani,Fulani,Fulani,Yes,Douala,Ngaoundéré,Yes,3,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,No,No,Fulfulde,Yes,Yes,Basic,Detached
+18,Male,Meta,Meta,Meta,Yes,Yaoundé,Yaoundé,No,3,No,Yes,Meta (mother tongue),French,Yes,No,No,Meta (mother tongue),Yes,Yes,Basic,Weak
+19,Male,Bakweri,Bakweri,Bakweri,Yes,Buea,Buea,No,2,Yes,Yes,Mokpwe (mother tongue),English,No,No,Yes,English,No,Yes,Conversational,Weak
+15,Male,Meta,Meta,Meta,Yes,Yaoundé,Meta Village,No,4,No,No,Meta (mother tongue),Mix of MT and Pidgin,Yes,Yes,No,Cameroonian Pidgin English,No,Yes,Basic,Weak
+4,Female,Meta,Meta,Bakweri,No,Centre,Bafoussam,Yes,5,No,No,Meta (mother tongue),Mix of Pidgin and French,Yes,No,No,English,Yes,Yes,Minimal,Detached
+24,Male,Meta,Meta,Bakweri,No,Bamenda,Meta Village,No,4,Yes,No,Meta (mother tongue),French,No,No,No,French,Yes,No,Basic,Weak
+20,Female,Fulani,Fulani,Fulani,Yes,Adamawa,Fulani Camp,Yes,6,No,No,Fulfulde (mother tongue),Mix of Fulfulde and French,No,Yes,No,Arabic (Quran),No,Yes,Minimal,Detached
+17,Male,Bafut,Bafut,Bafut,Yes,Buea,Bafut Village,No,1,Yes,No,Mix of MT and Pidgin,Bafut (mother tongue),Yes,No,No,Bafut (mother tongue),Yes,Yes,Conversational,Weak
+16,Female,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Douala,No,5,No,Yes,Mix of Pidgin and English,Mix of MT and Pidgin,No,No,No,Cameroonian Pidgin English,No,No,None,Detached
+22,Female,Bafut,Bafut,Fulani,No,Littoral,Douala,No,1,No,No,Bafut (mother tongue),Bafut (mother tongue),Yes,No,No,English,Yes,Yes,Basic,Weak
+18,Male,Bakweri,Bakweri,Bakweri,Yes,Centre,Limbe,No,3,No,No,Mix of MT and Pidgin,English,No,No,Yes,English,No,Yes,None,Detached
+16,Female,Bafut,Bafut,Bafut,Yes,Douala,Yaoundé,No,5,No,No,Bafut (mother tongue),Mix of MT and Pidgin,Yes,Yes,No,Cameroonian Pidgin English,No,No,Basic,Weak
+11,Female,Bafut,Bafut,Bafut,Yes,Buea,Bafoussam,Yes,4,Yes,No,Mix of MT and Pidgin,Cameroonian Pidgin English,No,No,Yes,Cameroonian Pidgin English,No,No,Minimal,Weak
+6,Female,Bafut,Bafut,Bakweri,No,Centre,Bafut Village,No,3,Yes,No,Mix of Pidgin and French,Bafut (mother tongue),Yes,Yes,Yes,French,Yes,Yes,Conversational,Strong
+6,Female,Meta,Meta,Meta,Yes,Bamenda,Bafoussam,No,2,Yes,No,Meta (mother tongue),English,Yes,Yes,Yes,French,Yes,No,Conversational,Strong
+9,Male,Bakweri,Bakweri,Meta,No,Centre,Limbe,Yes,5,No,No,Mokpwe (mother tongue),French,No,No,No,English,No,No,None,Detached
+20,Male,Bafut,Bafut,Bafut,Yes,Bamenda,Douala,No,2,No,No,Bafut (mother tongue),French,Yes,Yes,No,Bafut (mother tongue),Yes,Yes,Basic,Moderate
+13,Female,Meta,Meta,Meta,Yes,Yaoundé,Bafoussam,Yes,3,No,No,Mix of MT and Pidgin,Meta (mother tongue),No,Yes,No,Meta (mother tongue),Yes,No,Minimal,Weak
+12,Female,Bakweri,Bakweri,Bakweri,Yes,Littoral,Limbe,Yes,6,Yes,No,Cameroonian Pidgin English,Mokpwe (mother tongue),Yes,No,Yes,English,No,Yes,Basic,Weak
+23,Female,Meta,Meta,Meta,Yes,North West,Yaoundé,No,4,Yes,No,French,Cameroonian Pidgin English,Yes,Yes,Yes,French,No,Yes,Basic,Moderate
+16,Male,Meta,Meta,Meta,Yes,Littoral,Meta Village,Yes,1,Yes,No,English,Mix of MT and Pidgin,Yes,Yes,No,French,Yes,Yes,Minimal,Moderate
+6,Female,Meta,Meta,Bakweri,No,South West,Meta Village,No,3,Yes,No,Meta (mother tongue),Cameroonian Pidgin English,Yes,Yes,No,English,No,Yes,Conversational,Moderate
+23,Male,Bakweri,Bakweri,Bakweri,Yes,Littoral,Yaoundé,Yes,3,No,No,Mix of MT and Pidgin,Mix of Pidgin and English,No,No,No,French,Yes,Yes,None,Detached
+18,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Douala,Yes,2,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Hausa,Yes,No,Conversational,Moderate
+17,Male,Fulani,Fulani,Fulani,Yes,Douala,Garoua,Yes,6,Yes,No,Fulfulde (mother tongue),Mix of Fulfulde and Hausa,Yes,Yes,Yes,Hausa,Yes,Yes,Conversational,Strong
+11,Female,Meta,Meta,Bakweri,No,North West,Meta Village,Yes,2,No,No,Meta (mother tongue),Meta (mother tongue),Yes,No,No,Cameroonian Pidgin English,No,Yes,Basic,Detached
+22,Female,Fulani,Fulani,Fulani,Yes,Douala,Yaoundé,Yes,3,Yes,No,Mix of Fulfulde and French,Fulfulde (mother tongue),Yes,No,Yes,Fulfulde,Yes,Yes,Basic,Moderate
+16,Female,Bakweri,Bakweri,Bakweri,Yes,Centre,Bakweri Village,Yes,3,Yes,Yes,Mokpwe (mother tongue),French,Yes,Yes,No,English,No,No,Conversational,Weak
+18,Female,Bakweri,Bakweri,Bafut,No,Bamenda,Yaoundé,Yes,1,No,No,Mokpwe (mother tongue),Mix of MT and Pidgin,Yes,No,No,French,No,Yes,Minimal,Detached
+24,Male,Bakweri,Bakweri,Bakweri,Yes,Littoral,Limbe,Yes,0,Yes,Yes,Cameroonian Pidgin English,Mokpwe (mother tongue),Yes,No,No,English,No,Yes,Minimal,Weak
+18,Male,Bakweri,Bakweri,Meta,No,South West,Douala,No,5,No,No,Mokpwe (mother tongue),Mix of MT and Pidgin,No,Yes,No,Cameroonian Pidgin English,No,Yes,Minimal,Detached
+18,Male,Bakweri,Bakweri,Bakweri,Yes,South West,Limbe,Yes,7,Yes,No,Cameroonian Pidgin English,French,Yes,No,No,French,Yes,No,Minimal,Weak
+6,Female,Fulani,Fulani,Fulani,Yes,Far North,Garoua,Yes,9,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Fulfulde,No,No,Conversational,Weak
+9,Male,Bakweri,Bakweri,Fulani,No,Douala,Bakweri Village,No,4,Yes,No,English,Mix of Pidgin and English,No,No,No,English,No,Yes,None,Detached
+4,Male,Meta,Meta,Meta,Yes,Buea,Bafoussam,No,3,Yes,No,French,Meta (mother tongue),No,No,No,Meta (mother tongue),No,Yes,Basic,Detached
+8,Male,Bakweri,Bakweri,Bakweri,Yes,Centre,Limbe,No,3,No,No,Mix of Pidgin and English,French,Yes,No,No,English,Yes,No,Minimal,Detached
+15,Female,Bafut,Bafut,Bafut,Yes,Centre,Douala,Yes,5,No,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,No,French,Yes,Yes,Basic,Weak
+23,Female,Bafut,Bafut,Meta,No,North West,Bafoussam,No,4,Yes,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,Yes,Bafut (mother tongue),Yes,Yes,Fluent,Strong
+14,Female,Meta,Meta,Bakweri,No,Yaoundé,Douala,Yes,3,Yes,Yes,Meta (mother tongue),Mix of Pidgin and French,Yes,Yes,No,Cameroonian Pidgin English,No,Yes,Basic,Weak
+12,Female,Fulani,Fulani,Fulani,Yes,Far North,Douala,Yes,7,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Hausa,No,No,Fluent,Moderate
+16,Male,Bakweri,Bakweri,Bafut,No,Douala,Buea,Yes,3,No,No,Mix of MT and Pidgin,Cameroonian Pidgin English,Yes,Yes,Yes,French,Yes,Yes,Minimal,Strong
+15,Male,Bafut,Bafut,Bafut,Yes,Buea,Bafut Village,No,3,Yes,No,Cameroonian Pidgin English,Cameroonian Pidgin English,Yes,Yes,Yes,Bafut (mother tongue),No,No,Basic,Moderate
+12,Male,Bafut,Bafut,Bafut,Yes,Centre,Bafoussam,No,5,Yes,Yes,Bafut (mother tongue),Cameroonian Pidgin English,No,No,No,French,No,No,Basic,Detached
+14,Female,Bafut,Bafut,Bakweri,No,South West,Bamenda,No,4,No,No,Mix of Pidgin and French,French,No,No,Yes,Cameroonian Pidgin English,No,Yes,None,Detached
+24,Male,Bafut,Bafut,Bakweri,No,North West,Bafoussam,Yes,2,No,No,English,Cameroonian Pidgin English,No,Yes,Yes,English,No,No,None,Moderate
+6,Male,Fulani,Fulani,Fulani,Yes,Centre,Yaoundé,Yes,4,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Does not attend,Yes,Yes,Fluent,Moderate
+10,Female,Fulani,Fulani,Meta,No,Adamawa,Douala,Yes,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Fulfulde,Yes,No,Conversational,Strong
+15,Female,Meta,Meta,Meta,Yes,Buea,Meta Village,No,3,No,Yes,Meta (mother tongue),Meta (mother tongue),Yes,No,No,English,No,Yes,Basic,Detached
+22,Female,Meta,Meta,Meta,Yes,North West,Yaoundé,No,0,Yes,Yes,Meta (mother tongue),Meta (mother tongue),No,Yes,Yes,French,No,Yes,Fluent,Moderate
+23,Male,Meta,Meta,Bakweri,No,Douala,Douala,No,1,Yes,No,Meta (mother tongue),French,No,Yes,No,English,Yes,Yes,Basic,Weak
+20,Male,Bafut,Bafut,Bakweri,No,Douala,Yaoundé,No,1,No,No,Bafut (mother tongue),Bafut (mother tongue),Yes,No,No,French,Yes,Yes,Basic,Weak
+5,Female,Fulani,Fulani,Fulani,Yes,Far North,Ngaoundéré,Yes,7,Yes,No,Mix of Fulfulde and French,Fulfulde (mother tongue),Yes,No,Yes,Fulfulde,No,No,Basic,Moderate
+18,Male,Fulani,Fulani,Fulani,Yes,Far North,Ngaoundéré,Yes,4,Yes,No,Fulfulde (mother tongue),Cameroonian Pidgin English,Yes,No,Yes,Does not attend,Yes,Yes,Basic,Moderate
+9,Female,Fulani,Fulani,Fulani,Yes,Buea,Fulani Camp,No,0,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Fluent,Strong
+21,Female,Bafut,Bafut,Bafut,Yes,Douala,Douala,No,5,No,No,Bafut (mother tongue),French,Yes,Yes,No,Mix of MT and French,Yes,Yes,Basic,Moderate
+11,Male,Fulani,Fulani,Fulani,Yes,Bamenda,Garoua,Yes,4,Yes,Yes,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Fulfulde,Yes,No,Fluent,Moderate
+5,Female,Fulani,Fulani,Fulani,Yes,Douala,Garoua,Yes,7,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),No,Yes,Basic,Moderate
+23,Female,Bakweri,Bakweri,Meta,No,Buea,Yaoundé,No,2,No,No,Mokpwe (mother tongue),English,Yes,Yes,No,French,No,Yes,Basic,Weak
+19,Female,Meta,Meta,Meta,Yes,Littoral,Meta Village,Yes,6,No,No,English,French,Yes,No,No,English,Yes,No,None,Detached
+13,Female,Bakweri,Bakweri,Fulani,No,Bamenda,Limbe,Yes,2,No,Yes,Cameroonian Pidgin English,Cameroonian Pidgin English,Yes,Yes,No,English,No,Yes,Minimal,Weak
+16,Male,Bafut,Bafut,Bakweri,No,South West,Yaoundé,No,4,No,No,French,Mix of Pidgin and French,Yes,Yes,Yes,Bafut (mother tongue),Yes,Yes,Minimal,Strong
+21,Female,Bafut,Bafut,Bafut,Yes,Littoral,Bamenda,No,6,No,No,Mix of MT and Pidgin,Bafut (mother tongue),No,Yes,Yes,English,Yes,No,Basic,Moderate
+18,Female,Bafut,Bafut,Bakweri,No,Littoral,Bafut Village,No,4,No,No,Bafut (mother tongue),Mix of MT and French,No,No,No,Cameroonian Pidgin English,No,No,Minimal,Detached
+15,Male,Bafut,Bafut,Bakweri,No,Littoral,Yaoundé,Yes,4,Yes,No,French,Mix of MT and French,Yes,Yes,Yes,Mix of Pidgin and French,No,Yes,Basic,Strong
+14,Male,Bakweri,Bakweri,Meta,No,Littoral,Douala,Yes,1,No,No,Mix of MT and English,Mokpwe (mother tongue),Yes,No,No,English,No,No,None,Detached
+8,Male,Bafut,Bafut,Bakweri,No,South West,Bafoussam,No,5,Yes,No,Cameroonian Pidgin English,Mix of Pidgin and French,Yes,Yes,No,Cameroonian Pidgin English,No,No,Basic,Moderate
+18,Male,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Yaoundé,Yes,2,Yes,No,Mokpwe (mother tongue),Mix of MT and Pidgin,No,No,Yes,English,No,Yes,Basic,Weak
+4,Male,Fulani,Fulani,Fulani,Yes,Douala,Yaoundé,Yes,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Hausa,No,Yes,Conversational,Strong
+20,Female,Meta,Meta,Meta,Yes,North West,Yaoundé,Yes,4,Yes,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,No,English,Yes,Yes,Conversational,Moderate
+9,Female,Bafut,Bafut,Fulani,No,Bamenda,Yaoundé,Yes,3,No,No,Bafut (mother tongue),Bafut (mother tongue),No,No,No,French,Yes,No,Minimal,Detached
+8,Female,Meta,Meta,Meta,Yes,Bamenda,Meta Village,Yes,2,Yes,No,Meta (mother tongue),Cameroonian Pidgin English,Yes,Yes,Yes,English,Yes,No,Conversational,Strong
+24,Male,Meta,Meta,Meta,Yes,South West,Bafoussam,Yes,0,No,No,English,Mix of MT and Pidgin,Yes,Yes,Yes,Cameroonian Pidgin English,Yes,Yes,Minimal,Moderate
+21,Female,Bafut,Bafut,Bafut,Yes,Centre,Bamenda,Yes,3,No,No,Mix of MT and Pidgin,Cameroonian Pidgin English,Yes,Yes,Yes,Bafut (mother tongue),No,Yes,Minimal,Moderate
+11,Female,Bakweri,Bakweri,Bakweri,Yes,Centre,Yaoundé,No,4,No,No,Mokpwe (mother tongue),English,Yes,No,Yes,English,No,No,Basic,Weak
+13,Male,Fulani,Fulani,Fulani,Yes,Centre,Maroua,Yes,2,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,No,Arabic (Quran),Yes,Yes,Basic,Weak
+12,Female,Bafut,Bafut,Bafut,Yes,Centre,Yaoundé,No,4,No,No,Mix of MT and French,Bafut (mother tongue),Yes,Yes,No,English,Yes,Yes,Basic,Moderate
+14,Male,Meta,Meta,Meta,Yes,Bamenda,Douala,No,2,Yes,No,Meta (mother tongue),English,Yes,Yes,Yes,English,No,Yes,Conversational,Strong
+20,Female,Fulani,Fulani,Fulani,Yes,Adamawa,Douala,Yes,1,Yes,No,Fulfulde (mother tongue),Hausa,No,Yes,Yes,French,No,Yes,Basic,Moderate
+24,Male,Bakweri,Bakweri,Bafut,No,Bamenda,Yaoundé,Yes,4,No,No,French,Mix of MT and English,Yes,Yes,Yes,English,No,Yes,Minimal,Moderate
+4,Male,Bakweri,Bakweri,Bakweri,Yes,Buea,Bakweri Village,Yes,2,Yes,No,Cameroonian Pidgin English,English,Yes,Yes,No,English,No,Yes,Minimal,Weak
+6,Female,Fulani,Fulani,Bakweri,No,Adamawa,Ngaoundéré,Yes,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,No,French,Yes,Yes,Basic,Weak
+8,Female,Bafut,Bafut,Bakweri,No,Buea,Bafut Village,No,1,Yes,No,Bafut (mother tongue),French,Yes,Yes,Yes,Bafut (mother tongue),Yes,Yes,Conversational,Strong
+16,Female,Meta,Meta,Meta,Yes,Centre,Douala,No,7,Yes,No,Meta (mother tongue),Meta (mother tongue),Yes,No,Yes,English,Yes,Yes,Conversational,Moderate
+8,Female,Fulani,Fulani,Bafut,No,Douala,Ngaoundéré,No,5,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,French,Yes,Yes,Conversational,Strong
+22,Female,Bakweri,Bakweri,Bakweri,Yes,Buea,Bakweri Village,No,2,Yes,No,Mokpwe (mother tongue),Mix of MT and English,No,No,No,Cameroonian Pidgin English,Yes,No,Basic,Weak
+24,Male,Fulani,Fulani,Fulani,Yes,Centre,Ngaoundéré,Yes,3,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Fulfulde,Yes,Yes,Conversational,Strong
+19,Male,Fulani,Fulani,Fulani,Yes,Douala,Maroua,No,5,Yes,Yes,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Fulfulde,Yes,Yes,Fluent,Strong
+24,Male,Bakweri,Bakweri,Bakweri,Yes,Littoral,Bakweri Village,Yes,4,No,No,French,Mokpwe (mother tongue),Yes,Yes,No,French,No,Yes,Minimal,Weak
+15,Female,Bafut,Bafut,Meta,No,Littoral,Douala,Yes,6,Yes,No,Bafut (mother tongue),Mix of MT and French,Yes,No,No,French,Yes,No,Basic,Weak
+4,Female,Fulani,Fulani,Fulani,Yes,North,Maroua,Yes,3,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,No,Yes,Fulfulde,Yes,Yes,Basic,Weak
+6,Female,Meta,Meta,Meta,Yes,Littoral,Meta Village,No,4,No,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,Yes,Cameroonian Pidgin English,No,Yes,Conversational,Moderate
+6,Male,Meta,Meta,Meta,Yes,Yaoundé,Bamenda,Yes,2,No,No,Meta (mother tongue),Meta (mother tongue),No,Yes,Yes,Cameroonian Pidgin English,No,Yes,Basic,Weak
+12,Male,Fulani,Fulani,Fulani,Yes,Bamenda,Maroua,No,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Fulfulde,Yes,Yes,Fluent,Strong
+18,Female,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Buea,No,2,Yes,No,Mokpwe (mother tongue),English,No,Yes,Yes,Cameroonian Pidgin English,No,No,Basic,Strong
+24,Female,Meta,Meta,Meta,Yes,Littoral,Douala,No,2,No,No,Mix of Pidgin and French,French,Yes,Yes,No,Cameroonian Pidgin English,No,Yes,Minimal,Weak
+22,Female,Meta,Meta,Meta,Yes,Centre,Douala,No,4,Yes,Yes,Meta (mother tongue),English,Yes,No,Yes,Meta (mother tongue),Yes,Yes,Conversational,Moderate
+14,Male,Bafut,Bafut,Bafut,Yes,North West,Bafoussam,Yes,5,Yes,No,Mix of Pidgin and French,Cameroonian Pidgin English,Yes,Yes,Yes,English,Yes,Yes,Basic,Strong
+21,Female,Meta,Meta,Bakweri,No,Douala,Douala,No,4,No,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,No,Meta (mother tongue),Yes,No,Conversational,Moderate
+21,Female,Bakweri,Bakweri,Fulani,No,Yaoundé,Douala,Yes,3,Yes,No,Mix of MT and Pidgin,Mokpwe (mother tongue),Yes,Yes,No,Mokpwe (mother tongue),No,Yes,Basic,Weak
+5,Male,Meta,Meta,Bafut,No,South West,Meta Village,Yes,2,No,Yes,Mix of MT and Pidgin,Mix of Pidgin and French,Yes,Yes,No,Cameroonian Pidgin English,No,Yes,None,Weak
+22,Female,Fulani,Fulani,Fulani,Yes,Littoral,Fulani Camp,No,2,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Does not attend,Yes,Yes,Basic,Weak
+4,Female,Bakweri,Bakweri,Fulani,No,Yaoundé,Douala,No,1,Yes,No,Mix of MT and English,Mokpwe (mother tongue),Yes,Yes,Yes,English,Yes,Yes,Basic,Strong
+11,Female,Bafut,Bafut,Meta,No,Buea,Bafoussam,Yes,7,Yes,No,Mix of MT and Pidgin,Mix of MT and French,No,No,No,Mix of MT and Pidgin,Yes,Yes,None,Weak
+10,Female,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Bakweri Village,No,1,No,No,Mokpwe (mother tongue),Mix of Pidgin and English,Yes,No,Yes,English,No,Yes,Basic,Weak
+14,Female,Bafut,Bafut,Bafut,Yes,North West,Douala,Yes,5,Yes,No,Bafut (mother tongue),Bafut (mother tongue),No,No,No,Cameroonian Pidgin English,No,Yes,Basic,Detached
+13,Male,Fulani,Fulani,Fulani,Yes,Adamawa,Ngaoundéré,Yes,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Fulfulde,Yes,Yes,Conversational,Moderate
+18,Female,Fulani,Fulani,Fulani,Yes,North,Douala,No,1,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Fulfulde,Yes,Yes,Fluent,Moderate
+22,Female,Bakweri,Bakweri,Meta,No,Centre,Yaoundé,Yes,1,No,No,Mix of MT and English,Mix of MT and English,Yes,Yes,No,Mokpwe (mother tongue),Yes,Yes,Minimal,Moderate
+5,Female,Meta,Meta,Meta,Yes,Douala,Meta Village,No,3,Yes,Yes,Meta (mother tongue),Meta (mother tongue),Yes,No,No,Meta (mother tongue),No,Yes,Fluent,Weak
+17,Male,Meta,Meta,Bakweri,No,Douala,Meta Village,Yes,1,Yes,Yes,Mix of MT and French,English,No,No,No,French,Yes,No,None,Detached
+7,Male,Fulani,Fulani,Fulani,Yes,Buea,Garoua,Yes,7,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,No,Fulfulde,Yes,Yes,Basic,Weak
+19,Male,Fulani,Fulani,Fulani,Yes,Littoral,Maroua,Yes,5,Yes,Yes,Fulfulde (mother tongue),Hausa,No,Yes,Yes,Fulfulde,Yes,Yes,Basic,Moderate
+24,Female,Bakweri,Bakweri,Meta,No,Douala,Limbe,Yes,2,No,No,French,French,No,No,No,Mokpwe (mother tongue),No,No,None,Detached
+5,Female,Bafut,Bafut,Bafut,Yes,Buea,Douala,Yes,4,No,No,Bafut (mother tongue),Bafut (mother tongue),Yes,No,No,English,Yes,Yes,Basic,Weak
+7,Male,Bafut,Bafut,Fulani,No,North West,Douala,No,3,Yes,No,English,Bafut (mother tongue),No,No,Yes,Cameroonian Pidgin English,No,No,Basic,Weak
+12,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Fulani Camp,Yes,5,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,No,Does not attend,No,Yes,Basic,Weak
+7,Male,Bafut,Bafut,Meta,No,Buea,Bafut Village,Yes,4,Yes,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,No,Bafut (mother tongue),Yes,No,Conversational,Moderate
+21,Female,Bakweri,Bakweri,Bafut,No,Buea,Yaoundé,Yes,5,No,No,Mokpwe (mother tongue),Mokpwe (mother tongue),Yes,Yes,No,Cameroonian Pidgin English,Yes,Yes,Basic,Moderate
+7,Female,Meta,Meta,Fulani,No,Centre,Bafoussam,Yes,3,Yes,Yes,Meta (mother tongue),Meta (mother tongue),Yes,No,Yes,English,No,Yes,Conversational,Moderate
+24,Male,Bafut,Bafut,Bakweri,No,Centre,Bamenda,No,2,No,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,No,Bafut (mother tongue),No,Yes,Basic,Weak
+7,Female,Meta,Meta,Bafut,No,South West,Yaoundé,No,4,No,No,Meta (mother tongue),Meta (mother tongue),No,No,No,Cameroonian Pidgin English,Yes,No,Basic,Detached
+15,Female,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Bakweri Village,No,3,Yes,No,Mix of MT and Pidgin,English,Yes,Yes,No,Cameroonian Pidgin English,Yes,Yes,Basic,Moderate
+20,Male,Fulani,Fulani,Fulani,Yes,Littoral,Fulani Camp,No,4,No,No,Fulfulde (mother tongue),Cameroonian Pidgin English,No,No,Yes,Does not attend,Yes,Yes,Minimal,Weak
+13,Female,Bafut,Bafut,Bafut,Yes,Centre,Douala,No,5,Yes,No,Mix of MT and Pidgin,Mix of MT and Pidgin,Yes,No,No,Mix of MT and French,Yes,No,Minimal,Weak
+12,Male,Meta,Meta,Bafut,No,Bamenda,Bafoussam,No,7,Yes,Yes,Meta (mother tongue),Mix of MT and Pidgin,No,No,No,Mix of MT and French,Yes,No,Basic,Weak
+4,Male,Bakweri,Bakweri,Bafut,No,Yaoundé,Limbe,Yes,3,No,No,Mix of Pidgin and English,Cameroonian Pidgin English,Yes,No,No,English,No,Yes,None,Detached
+18,Female,Bafut,Bafut,Bafut,Yes,Buea,Bafoussam,No,3,Yes,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,No,Bafut (mother tongue),Yes,Yes,Fluent,Moderate
+10,Female,Meta,Meta,Bafut,No,Yaoundé,Yaoundé,No,1,No,No,Meta (mother tongue),Mix of MT and French,Yes,Yes,Yes,English,Yes,Yes,Basic,Moderate
+12,Male,Bafut,Bafut,Bafut,Yes,Bamenda,Bamenda,Yes,2,No,Yes,Mix of MT and French,Bafut (mother tongue),No,No,No,Mix of Pidgin and French,Yes,Yes,None,Detached
+8,Female,Fulani,Fulani,Fulani,Yes,Littoral,Garoua,Yes,7,Yes,No,French,Fulfulde (mother tongue),Yes,Yes,Yes,Fulfulde,Yes,Yes,Conversational,Strong
+8,Male,Bafut,Bafut,Bafut,Yes,Buea,Bafut Village,Yes,6,No,No,French,French,Yes,No,Yes,French,Yes,Yes,Minimal,Moderate
+9,Female,Bafut,Bafut,Meta,No,Littoral,Bafut Village,Yes,4,Yes,Yes,Bafut (mother tongue),Cameroonian Pidgin English,Yes,Yes,No,Bafut (mother tongue),Yes,No,Conversational,Moderate
+24,Female,Bafut,Bafut,Fulani,No,North West,Bafut Village,Yes,4,No,No,Bafut (mother tongue),Mix of MT and French,No,No,No,Bafut (mother tongue),Yes,Yes,Minimal,Detached
+20,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Yaoundé,No,1,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Fluent,Strong
+11,Male,Bafut,Bafut,Fulani,No,Yaoundé,Yaoundé,No,2,No,No,Bafut (mother tongue),Cameroonian Pidgin English,Yes,Yes,Yes,Bafut (mother tongue),No,Yes,Basic,Moderate
+16,Male,Bafut,Bafut,Meta,No,Buea,Douala,No,4,No,No,Mix of Pidgin and French,Mix of Pidgin and French,Yes,No,Yes,French,No,No,None,Weak
+15,Female,Bakweri,Bakweri,Bafut,No,Buea,Douala,Yes,2,Yes,No,English,Mix of MT and Pidgin,Yes,No,No,Mokpwe (mother tongue),Yes,Yes,None,Weak
+12,Female,Bakweri,Bakweri,Bakweri,Yes,Centre,Bakweri Village,No,3,Yes,No,Mix of Pidgin and English,Mix of MT and English,No,Yes,No,French,Yes,Yes,Basic,Moderate
+8,Female,Bakweri,Bakweri,Meta,No,Buea,Buea,Yes,4,No,No,Mokpwe (mother tongue),Mix of Pidgin and English,No,Yes,No,Mix of MT and English,Yes,Yes,None,Weak
+17,Female,Bafut,Bafut,Bakweri,No,Littoral,Bamenda,Yes,7,No,No,Bafut (mother tongue),French,Yes,Yes,Yes,French,Yes,No,Basic,Strong
+6,Female,Meta,Meta,Meta,Yes,Centre,Yaoundé,Yes,4,No,No,French,Meta (mother tongue),Yes,No,Yes,Meta (mother tongue),No,No,Minimal,Weak
+21,Female,Fulani,Fulani,Fulani,Yes,Yaoundé,Yaoundé,Yes,4,Yes,No,Mix of Fulfulde and French,Fulfulde (mother tongue),No,Yes,Yes,Hausa,Yes,Yes,Conversational,Strong
+13,Male,Bakweri,Bakweri,Bakweri,Yes,Littoral,Buea,Yes,4,No,No,French,Mokpwe (mother tongue),No,No,Yes,Cameroonian Pidgin English,No,No,Minimal,Detached
+8,Male,Bafut,Bafut,Bafut,Yes,Buea,Bafoussam,Yes,2,No,No,Cameroonian Pidgin English,Bafut (mother tongue),Yes,No,No,Bafut (mother tongue),Yes,Yes,Minimal,Weak
+6,Male,Fulani,Fulani,Bakweri,No,North,Douala,No,2,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Fulfulde,Yes,Yes,Fluent,Moderate
+6,Male,Bafut,Bafut,Bakweri,No,South West,Bafut Village,Yes,2,No,No,Mix of Pidgin and French,Bafut (mother tongue),Yes,No,Yes,French,Yes,Yes,Minimal,Weak
+12,Female,Bafut,Bafut,Bafut,Yes,Yaoundé,Yaoundé,No,2,No,No,Cameroonian Pidgin English,Cameroonian Pidgin English,Yes,Yes,Yes,French,No,Yes,Basic,Moderate
+16,Female,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Yaoundé,No,3,Yes,No,French,Mix of Pidgin and English,Yes,No,Yes,English,Yes,Yes,Basic,Moderate
+18,Female,Bafut,Bafut,Bafut,Yes,North West,Bamenda,Yes,2,Yes,No,French,Mix of MT and French,Yes,No,Yes,French,No,No,Minimal,Weak
+20,Male,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Limbe,Yes,3,No,No,Mix of Pidgin and English,Mokpwe (mother tongue),No,Yes,Yes,Mokpwe (mother tongue),No,No,Minimal,Moderate
+18,Female,Fulani,Fulani,Fulani,Yes,Centre,Fulani Camp,Yes,1,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Fulfulde,Yes,Yes,Conversational,Moderate
+5,Male,Bafut,Bafut,Fulani,No,Buea,Yaoundé,Yes,2,No,No,Bafut (mother tongue),English,Yes,Yes,No,French,No,Yes,Minimal,Weak
+17,Male,Bafut,Bafut,Bafut,Yes,Buea,Bafut Village,Yes,6,No,No,Mix of Pidgin and French,Bafut (mother tongue),Yes,No,No,English,Yes,No,Minimal,Weak
+19,Female,Meta,Meta,Meta,Yes,Bamenda,Bafoussam,No,1,No,No,Meta (mother tongue),Cameroonian Pidgin English,Yes,Yes,No,French,No,Yes,Basic,Weak
+10,Female,Bafut,Bafut,Bafut,Yes,North West,Yaoundé,Yes,3,Yes,Yes,English,Bafut (mother tongue),No,Yes,No,French,No,Yes,Basic,Weak
+16,Female,Bakweri,Bakweri,Meta,No,Yaoundé,Douala,Yes,4,No,No,Mokpwe (mother tongue),Cameroonian Pidgin English,Yes,Yes,No,French,No,No,Minimal,Weak
+22,Male,Bakweri,Bakweri,Fulani,No,Douala,Limbe,No,2,No,No,Cameroonian Pidgin English,Mix of Pidgin and English,Yes,Yes,No,English,No,Yes,Minimal,Weak
+17,Female,Bakweri,Bakweri,Bakweri,Yes,Douala,Douala,No,2,No,No,Mokpwe (mother tongue),Mokpwe (mother tongue),No,Yes,No,English,Yes,No,Conversational,Weak
+21,Female,Meta,Meta,Meta,Yes,Littoral,Douala,No,4,Yes,No,Meta (mother tongue),Mix of Pidgin and French,Yes,Yes,Yes,Mix of MT and French,No,Yes,Conversational,Moderate
+8,Male,Meta,Meta,Fulani,No,Littoral,Douala,Yes,7,Yes,No,French,English,No,No,Yes,Cameroonian Pidgin English,Yes,Yes,None,Weak
+8,Female,Bafut,Bafut,Meta,No,Bamenda,Bamenda,Yes,1,Yes,No,Cameroonian Pidgin English,Bafut (mother tongue),No,Yes,Yes,Cameroonian Pidgin English,Yes,Yes,Minimal,Moderate
+23,Male,Bafut,Bafut,Bafut,Yes,Centre,Douala,No,3,Yes,No,Bafut (mother tongue),Mix of Pidgin and French,No,Yes,No,Cameroonian Pidgin English,Yes,No,Basic,Moderate
+20,Female,Bafut,Bafut,Meta,No,Centre,Bafoussam,No,4,No,No,Bafut (mother tongue),Bafut (mother tongue),Yes,No,Yes,French,No,Yes,Basic,Weak
+15,Female,Meta,Meta,Bakweri,No,Buea,Yaoundé,No,3,No,No,French,Meta (mother tongue),No,No,Yes,English,No,No,Minimal,Weak
+19,Male,Meta,Meta,Bafut,No,Bamenda,Bafoussam,No,3,Yes,Yes,French,English,No,No,No,French,Yes,Yes,Minimal,Detached
+5,Male,Meta,Meta,Bakweri,No,Centre,Yaoundé,Yes,2,No,No,Meta (mother tongue),Meta (mother tongue),Yes,No,No,Cameroonian Pidgin English,No,No,Basic,Detached
+23,Male,Bakweri,Bakweri,Bafut,No,North West,Yaoundé,Yes,4,No,No,Mix of MT and Pidgin,English,No,No,No,French,Yes,Yes,None,Detached
+5,Male,Meta,Meta,Meta,Yes,South West,Douala,No,6,Yes,No,French,Meta (mother tongue),Yes,Yes,Yes,French,No,No,Conversational,Strong
+15,Female,Bakweri,Bakweri,Meta,No,North West,Yaoundé,No,3,No,No,Mokpwe (mother tongue),Mokpwe (mother tongue),Yes,Yes,Yes,English,Yes,No,Conversational,Strong
+6,Male,Meta,Meta,Meta,Yes,Centre,Bafoussam,No,3,Yes,No,Meta (mother tongue),Meta (mother tongue),No,Yes,No,Cameroonian Pidgin English,Yes,Yes,Conversational,Weak
+10,Female,Bakweri,Bakweri,Bakweri,Yes,Centre,Douala,Yes,4,Yes,No,Mokpwe (mother tongue),Mix of MT and English,Yes,No,No,French,Yes,Yes,Minimal,Weak
+24,Male,Fulani,Fulani,Bafut,No,Far North,Ngaoundéré,Yes,6,No,Yes,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Arabic (Quran),Yes,Yes,Basic,Moderate
+21,Female,Fulani,Fulani,Fulani,Yes,Littoral,Maroua,Yes,4,No,No,Mix of Fulfulde and Arabic,Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Basic,Moderate
+8,Male,Bafut,Bafut,Bakweri,No,South West,Bafut Village,Yes,3,Yes,No,French,French,No,Yes,No,Bafut (mother tongue),Yes,Yes,Minimal,Moderate
+4,Male,Meta,Meta,Meta,Yes,South West,Douala,No,2,Yes,No,Meta (mother tongue),Mix of Pidgin and French,Yes,Yes,Yes,Meta (mother tongue),Yes,No,Conversational,Strong
+13,Female,Fulani,Fulani,Fulani,Yes,Douala,Fulani Camp,Yes,4,No,No,Mix of Fulfulde and Hausa,Fulfulde (mother tongue),Yes,No,Yes,Fulfulde,Yes,Yes,Minimal,Weak
+20,Female,Bafut,Bafut,Bafut,Yes,Bamenda,Bafut Village,No,4,Yes,No,Cameroonian Pidgin English,Cameroonian Pidgin English,Yes,Yes,No,French,No,No,Basic,Moderate
+24,Female,Meta,Meta,Bakweri,No,Douala,Bamenda,No,4,Yes,No,Mix of MT and French,Meta (mother tongue),Yes,No,Yes,English,Yes,Yes,Basic,Moderate
+18,Male,Fulani,Fulani,Meta,No,Far North,Douala,Yes,5,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Conversational,Strong
+15,Female,Meta,Meta,Meta,Yes,Douala,Yaoundé,No,3,No,Yes,Mix of MT and French,Meta (mother tongue),Yes,Yes,Yes,Meta (mother tongue),No,No,Conversational,Moderate
+4,Male,Meta,Meta,Bakweri,No,South West,Meta Village,Yes,2,No,No,Meta (mother tongue),Meta (mother tongue),No,No,Yes,English,Yes,Yes,Basic,Weak
+8,Female,Fulani,Fulani,Fulani,Yes,Douala,Ngaoundéré,No,5,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,No,Yes,Arabic (Quran),Yes,No,Basic,Weak
+14,Male,Bakweri,Bakweri,Bakweri,Yes,South West,Yaoundé,No,3,Yes,Yes,Mix of MT and English,Mokpwe (mother tongue),No,No,No,French,Yes,No,Basic,Weak
+20,Female,Meta,Meta,Meta,Yes,Douala,Yaoundé,Yes,3,No,No,Meta (mother tongue),English,No,No,Yes,Mix of Pidgin and French,Yes,Yes,Minimal,Weak
+9,Female,Meta,Meta,Meta,Yes,North West,Meta Village,No,4,Yes,No,Meta (mother tongue),English,No,Yes,Yes,Cameroonian Pidgin English,No,Yes,Conversational,Moderate
+8,Male,Meta,Meta,Fulani,No,Douala,Bafoussam,No,4,No,No,Mix of MT and French,English,Yes,Yes,Yes,Meta (mother tongue),Yes,Yes,Minimal,Moderate
+22,Female,Bakweri,Bakweri,Meta,No,Bamenda,Buea,No,5,No,No,Mokpwe (mother tongue),Mix of MT and English,Yes,Yes,No,Cameroonian Pidgin English,Yes,Yes,Basic,Weak
+11,Male,Meta,Meta,Bafut,No,Buea,Bamenda,No,2,Yes,Yes,Mix of Pidgin and French,Mix of MT and French,Yes,Yes,No,Meta (mother tongue),No,Yes,Minimal,Weak
+19,Male,Meta,Meta,Meta,Yes,Bamenda,Bamenda,Yes,5,Yes,No,Meta (mother tongue),Meta (mother tongue),No,No,No,French,Yes,No,Minimal,Weak
+8,Female,Bakweri,Bakweri,Meta,No,Douala,Douala,Yes,4,No,No,Mokpwe (mother tongue),English,Yes,No,Yes,Cameroonian Pidgin English,Yes,Yes,Minimal,Weak
+15,Female,Bakweri,Bakweri,Bakweri,Yes,Douala,Buea,Yes,4,Yes,Yes,Mokpwe (mother tongue),Mix of Pidgin and English,No,Yes,No,Mokpwe (mother tongue),No,No,Basic,Weak
+5,Male,Meta,Meta,Bafut,No,North West,Bamenda,No,2,Yes,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,Yes,French,No,Yes,Conversational,Strong
+20,Male,Bafut,Bafut,Bafut,Yes,Littoral,Bamenda,Yes,3,No,Yes,Bafut (mother tongue),Bafut (mother tongue),No,Yes,Yes,French,Yes,No,Conversational,Moderate
+18,Male,Bafut,Bafut,Meta,No,Bamenda,Bafut Village,No,4,No,Yes,French,Mix of MT and Pidgin,Yes,Yes,No,Bafut (mother tongue),No,No,Minimal,Weak
+15,Male,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Bakweri Village,No,3,Yes,No,Mokpwe (mother tongue),French,Yes,No,No,French,Yes,Yes,Basic,Weak
+17,Female,Bafut,Bafut,Bafut,Yes,North West,Bafut Village,Yes,3,Yes,No,Bafut (mother tongue),English,Yes,Yes,No,French,Yes,Yes,Basic,Moderate
+21,Male,Fulani,Fulani,Fulani,Yes,Littoral,Douala,Yes,6,No,No,Cameroonian Pidgin English,Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),No,Yes,Minimal,Moderate
+9,Male,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Bakweri Village,Yes,2,No,No,Mokpwe (mother tongue),French,Yes,Yes,No,English,No,Yes,Basic,Weak
+4,Female,Bafut,Bafut,Bafut,Yes,Yaoundé,Bafoussam,No,5,Yes,No,Mix of MT and Pidgin,Mix of Pidgin and French,No,Yes,No,English,No,No,Basic,Weak
+11,Male,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Douala,No,0,No,No,Mokpwe (mother tongue),French,Yes,Yes,No,Cameroonian Pidgin English,No,No,Basic,Weak
+24,Male,Bakweri,Bakweri,Bakweri,Yes,Douala,Buea,No,3,No,No,Mokpwe (mother tongue),French,Yes,No,No,Mokpwe (mother tongue),No,Yes,Minimal,Detached
+19,Male,Bakweri,Bakweri,Fulani,No,Buea,Buea,Yes,4,Yes,No,French,Cameroonian Pidgin English,No,No,Yes,Mokpwe (mother tongue),No,Yes,None,Weak
+17,Female,Bafut,Bafut,Fulani,No,Littoral,Yaoundé,Yes,1,No,No,Mix of MT and French,Cameroonian Pidgin English,No,Yes,No,French,Yes,No,None,Weak
+23,Male,Bakweri,Bakweri,Bafut,No,South West,Bakweri Village,No,4,Yes,No,Mokpwe (mother tongue),English,Yes,No,No,English,No,No,Minimal,Detached
+19,Female,Meta,Meta,Bakweri,No,South West,Meta Village,No,3,No,No,Meta (mother tongue),Meta (mother tongue),No,No,No,French,Yes,Yes,Minimal,Detached
+22,Male,Bakweri,Bakweri,Bakweri,Yes,South West,Buea,No,5,Yes,No,Mokpwe (mother tongue),Mokpwe (mother tongue),No,No,No,Mokpwe (mother tongue),No,No,Basic,Detached
+5,Male,Bafut,Bafut,Bafut,Yes,North West,Bafut Village,No,2,Yes,Yes,Bafut (mother tongue),Mix of MT and French,Yes,Yes,No,Cameroonian Pidgin English,No,Yes,Conversational,Moderate
+14,Female,Bafut,Bafut,Bafut,Yes,Douala,Yaoundé,Yes,2,Yes,No,Mix of Pidgin and French,Bafut (mother tongue),Yes,Yes,No,Mix of MT and Pidgin,No,Yes,Basic,Moderate
+17,Female,Bafut,Bafut,Fulani,No,Bamenda,Bamenda,No,2,No,No,Bafut (mother tongue),Bafut (mother tongue),No,Yes,No,Bafut (mother tongue),No,Yes,Basic,Detached
+8,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Douala,Yes,5,Yes,No,Fulfulde (mother tongue),Cameroonian Pidgin English,Yes,No,No,French,Yes,Yes,Minimal,Weak
+5,Female,Bakweri,Bakweri,Fulani,No,Yaoundé,Bakweri Village,No,1,No,No,Mokpwe (mother tongue),Mix of Pidgin and English,Yes,No,No,English,Yes,No,Minimal,Weak
+5,Female,Bakweri,Bakweri,Bafut,No,North West,Yaoundé,Yes,2,No,Yes,Mokpwe (mother tongue),Mix of Pidgin and English,Yes,No,Yes,Cameroonian Pidgin English,No,No,Minimal,Weak
+19,Male,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Bakweri Village,No,3,No,No,Mokpwe (mother tongue),Mokpwe (mother tongue),No,Yes,No,French,No,Yes,Basic,Weak
+21,Male,Bafut,Bafut,Bafut,Yes,Littoral,Bafut Village,No,3,No,Yes,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,No,French,Yes,Yes,Conversational,Moderate
+6,Female,Meta,Meta,Meta,Yes,Bamenda,Douala,Yes,4,No,No,Mix of MT and French,Meta (mother tongue),Yes,No,No,Meta (mother tongue),No,No,None,Detached
+20,Male,Bafut,Bafut,Bafut,Yes,Yaoundé,Bamenda,No,4,No,No,Bafut (mother tongue),French,No,Yes,No,French,Yes,No,Minimal,Weak
+17,Male,Bafut,Bafut,Bafut,Yes,Yaoundé,Bamenda,Yes,2,No,Yes,Mix of MT and Pidgin,French,No,Yes,No,English,No,Yes,None,Detached
+22,Female,Bafut,Bafut,Meta,No,Buea,Bafut Village,No,3,Yes,No,English,Mix of MT and French,Yes,No,Yes,French,Yes,No,Basic,Moderate
+19,Male,Bafut,Bafut,Bafut,Yes,South West,Bafoussam,Yes,2,No,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,No,English,Yes,Yes,Basic,Weak
+12,Female,Fulani,Fulani,Bakweri,No,North,Ngaoundéré,No,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Arabic (Quran),No,Yes,Basic,Moderate
+19,Female,Bakweri,Bakweri,Meta,No,Buea,Limbe,Yes,5,Yes,No,Mix of MT and English,Mokpwe (mother tongue),Yes,Yes,No,French,No,Yes,Minimal,Weak
+11,Male,Bafut,Bafut,Bafut,Yes,Centre,Yaoundé,No,1,No,No,Bafut (mother tongue),English,Yes,Yes,Yes,Bafut (mother tongue),Yes,Yes,Conversational,Strong
+6,Female,Bakweri,Bakweri,Bakweri,Yes,Buea,Yaoundé,No,3,No,No,Mokpwe (mother tongue),Mix of Pidgin and English,No,No,No,French,No,Yes,Minimal,Detached
+20,Male,Meta,Meta,Meta,Yes,North West,Yaoundé,Yes,2,Yes,No,Meta (mother tongue),Mix of MT and Pidgin,Yes,No,Yes,English,Yes,No,Basic,Moderate
+9,Female,Bafut,Bafut,Bafut,Yes,Douala,Bafoussam,No,3,Yes,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,No,English,No,Yes,Fluent,Moderate
+21,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Garoua,Yes,2,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Hausa,Yes,Yes,Basic,Moderate
+16,Female,Bafut,Bafut,Bakweri,No,North West,Bamenda,Yes,0,No,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,Yes,English,Yes,No,Conversational,Moderate
+13,Female,Bakweri,Bakweri,Bakweri,Yes,Douala,Douala,Yes,3,No,No,Mix of MT and English,French,No,No,No,French,No,Yes,None,Detached
+7,Male,Bafut,Bafut,Meta,No,Centre,Douala,No,3,Yes,No,Cameroonian Pidgin English,Mix of Pidgin and French,No,No,Yes,Cameroonian Pidgin English,No,Yes,Minimal,Weak
+11,Female,Meta,Meta,Meta,Yes,Centre,Meta Village,No,1,No,No,Meta (mother tongue),Meta (mother tongue),No,Yes,Yes,French,Yes,Yes,Conversational,Moderate
+20,Male,Bafut,Bafut,Bafut,Yes,Yaoundé,Bafut Village,No,2,Yes,No,French,Bafut (mother tongue),No,No,Yes,English,No,Yes,Basic,Weak
+19,Male,Meta,Meta,Meta,Yes,South West,Douala,Yes,2,No,Yes,Cameroonian Pidgin English,Mix of MT and French,No,Yes,No,English,Yes,Yes,Minimal,Weak
+16,Male,Fulani,Fulani,Fulani,Yes,Douala,Maroua,No,4,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Arabic (Quran),Yes,Yes,Conversational,Moderate
+21,Male,Fulani,Fulani,Fulani,Yes,Douala,Douala,Yes,3,No,No,Fulfulde (mother tongue),Hausa,Yes,No,Yes,Fulfulde,Yes,Yes,Basic,Weak
+24,Male,Bafut,Bafut,Meta,No,Bamenda,Bafut Village,No,5,No,No,Bafut (mother tongue),Bafut (mother tongue),No,No,Yes,French,Yes,Yes,Conversational,Weak
+9,Female,Fulani,Fulani,Bafut,No,Douala,Douala,Yes,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,No,Arabic (Quran),No,Yes,Basic,Detached
+14,Male,Bakweri,Bakweri,Meta,No,Yaoundé,Douala,Yes,1,No,No,Mix of Pidgin and English,Mokpwe (mother tongue),Yes,Yes,Yes,French,No,Yes,Basic,Moderate
+8,Female,Bakweri,Bakweri,Meta,No,Bamenda,Douala,Yes,4,Yes,No,Mix of MT and English,Mokpwe (mother tongue),No,No,No,English,Yes,No,Minimal,Weak
+18,Female,Bafut,Bafut,Bakweri,No,Centre,Douala,No,2,Yes,No,Mix of MT and French,French,Yes,No,Yes,English,No,Yes,Minimal,Weak
+16,Female,Bakweri,Bakweri,Meta,No,Bamenda,Yaoundé,No,4,Yes,No,Mokpwe (mother tongue),Mix of MT and English,No,No,No,Mokpwe (mother tongue),Yes,Yes,Basic,Weak
+15,Female,Meta,Meta,Meta,Yes,Yaoundé,Bamenda,Yes,3,Yes,No,Cameroonian Pidgin English,Mix of MT and Pidgin,Yes,Yes,No,English,Yes,Yes,Basic,Moderate
+14,Female,Fulani,Fulani,Fulani,Yes,Yaoundé,Maroua,No,1,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Does not attend,Yes,Yes,Fluent,Moderate
+14,Female,Bafut,Bafut,Bafut,Yes,Buea,Douala,No,6,Yes,Yes,Bafut (mother tongue),English,Yes,No,No,English,No,No,Basic,Detached
+8,Male,Bafut,Bafut,Bafut,Yes,Douala,Bafoussam,No,1,No,No,English,English,Yes,No,Yes,Bafut (mother tongue),No,Yes,Minimal,Weak
+6,Male,Bakweri,Bakweri,Fulani,No,Yaoundé,Buea,No,3,No,No,Mokpwe (mother tongue),English,Yes,No,No,Cameroonian Pidgin English,Yes,Yes,Minimal,Weak
+15,Female,Bakweri,Bakweri,Bakweri,Yes,Douala,Limbe,Yes,3,No,No,Mokpwe (mother tongue),Cameroonian Pidgin English,Yes,Yes,Yes,Cameroonian Pidgin English,Yes,Yes,Basic,Moderate
+19,Male,Meta,Meta,Meta,Yes,Buea,Yaoundé,No,6,Yes,Yes,Cameroonian Pidgin English,Meta (mother tongue),No,No,No,French,Yes,Yes,Minimal,Weak
+14,Female,Meta,Meta,Fulani,No,Yaoundé,Bamenda,No,1,Yes,Yes,Meta (mother tongue),Meta (mother tongue),Yes,No,No,Cameroonian Pidgin English,No,No,Conversational,Detached
+18,Female,Bafut,Bafut,Fulani,No,South West,Bafut Village,Yes,4,No,Yes,Cameroonian Pidgin English,Bafut (mother tongue),No,No,Yes,French,No,No,Minimal,Weak
+23,Male,Bakweri,Bakweri,Meta,No,Centre,Limbe,Yes,2,Yes,No,Mokpwe (mother tongue),Mokpwe (mother tongue),Yes,Yes,No,Cameroonian Pidgin English,Yes,Yes,Conversational,Moderate
+19,Female,Bafut,Bafut,Meta,No,Centre,Bafoussam,Yes,3,Yes,No,Bafut (mother tongue),Bafut (mother tongue),No,No,Yes,English,No,Yes,Conversational,Weak
+15,Male,Meta,Meta,Bakweri,No,South West,Douala,Yes,7,Yes,No,French,French,Yes,Yes,Yes,Cameroonian Pidgin English,Yes,Yes,Basic,Strong
+12,Male,Meta,Meta,Bafut,No,Centre,Meta Village,No,4,Yes,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,Yes,French,No,Yes,Fluent,Moderate
+19,Male,Meta,Meta,Meta,Yes,South West,Bafoussam,Yes,1,No,No,Meta (mother tongue),Meta (mother tongue),Yes,No,No,French,Yes,Yes,Basic,Detached
+18,Male,Fulani,Fulani,Fulani,Yes,Centre,Douala,Yes,7,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,French,Yes,Yes,Conversational,Strong
+20,Female,Bafut,Bafut,Bakweri,No,Bamenda,Yaoundé,No,6,No,No,Bafut (mother tongue),Mix of MT and Pidgin,No,No,No,French,Yes,No,Minimal,Detached
+6,Male,Bakweri,Bakweri,Bakweri,Yes,Douala,Yaoundé,Yes,1,No,No,Mix of MT and English,Mokpwe (mother tongue),No,No,Yes,French,Yes,No,Minimal,Weak
+16,Male,Meta,Meta,Meta,Yes,Bamenda,Douala,No,5,No,No,English,French,No,Yes,No,Meta (mother tongue),Yes,Yes,Minimal,Weak
+6,Male,Bakweri,Bakweri,Bakweri,Yes,Littoral,Douala,No,2,No,Yes,Mokpwe (mother tongue),Mokpwe (mother tongue),No,Yes,No,French,Yes,Yes,Conversational,Weak
+21,Female,Fulani,Fulani,Fulani,Yes,Yaoundé,Maroua,Yes,1,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Fulfulde,Yes,Yes,Conversational,Strong
+14,Female,Bafut,Bafut,Bafut,Yes,Littoral,Bafut Village,No,2,Yes,No,Bafut (mother tongue),Bafut (mother tongue),Yes,No,Yes,English,No,Yes,Fluent,Weak
+15,Male,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Buea,No,4,Yes,No,Mix of Pidgin and English,English,No,No,No,French,Yes,Yes,None,Weak
+20,Male,Meta,Meta,Bakweri,No,North West,Meta Village,No,4,Yes,No,Mix of Pidgin and French,Meta (mother tongue),Yes,Yes,No,French,Yes,No,Conversational,Moderate
+15,Male,Fulani,Fulani,Fulani,Yes,Douala,Maroua,Yes,4,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Does not attend,No,Yes,Basic,Moderate
+10,Female,Bafut,Bafut,Bafut,Yes,Buea,Bafut Village,No,1,Yes,No,Bafut (mother tongue),English,Yes,Yes,Yes,Bafut (mother tongue),Yes,Yes,Fluent,Strong
+6,Female,Fulani,Fulani,Fulani,Yes,Buea,Douala,Yes,8,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Fulfulde,Yes,Yes,Basic,Strong
+18,Female,Bafut,Bafut,Meta,No,Centre,Bamenda,No,2,No,Yes,English,Mix of Pidgin and French,Yes,Yes,No,French,No,Yes,Minimal,Weak
+9,Male,Meta,Meta,Meta,Yes,North West,Meta Village,Yes,6,No,No,Meta (mother tongue),Mix of MT and Pidgin,Yes,Yes,No,Meta (mother tongue),No,No,Basic,Weak
+15,Male,Meta,Meta,Meta,Yes,South West,Bafoussam,Yes,2,No,No,Meta (mother tongue),Meta (mother tongue),Yes,No,Yes,Meta (mother tongue),Yes,No,Basic,Weak
+9,Male,Fulani,Fulani,Bafut,No,Far North,Fulani Camp,Yes,5,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,French,Yes,Yes,Fluent,Moderate
+8,Female,Bafut,Bafut,Bafut,Yes,Littoral,Yaoundé,No,4,No,Yes,Cameroonian Pidgin English,Mix of Pidgin and French,No,No,No,Bafut (mother tongue),Yes,Yes,None,Detached
+15,Male,Bakweri,Bakweri,Bakweri,Yes,South West,Yaoundé,No,1,Yes,No,Mokpwe (mother tongue),Mokpwe (mother tongue),Yes,No,Yes,French,Yes,Yes,Fluent,Moderate
+8,Male,Bafut,Bafut,Bafut,Yes,South West,Douala,No,3,Yes,No,Bafut (mother tongue),Cameroonian Pidgin English,No,Yes,No,Cameroonian Pidgin English,Yes,Yes,Basic,Weak
+8,Male,Bafut,Bafut,Bafut,Yes,Littoral,Bafut Village,Yes,4,Yes,Yes,Bafut (mother tongue),Mix of MT and Pidgin,Yes,Yes,Yes,French,No,Yes,Conversational,Moderate
+8,Male,Bakweri,Bakweri,Fulani,No,Bamenda,Buea,No,5,No,No,English,Mokpwe (mother tongue),No,No,Yes,Cameroonian Pidgin English,No,No,None,Detached
+16,Female,Meta,Meta,Meta,Yes,Bamenda,Bamenda,No,2,No,No,French,Meta (mother tongue),Yes,Yes,Yes,English,Yes,Yes,Conversational,Strong
+23,Male,Bafut,Bafut,Meta,No,Yaoundé,Bamenda,Yes,2,No,No,French,French,Yes,No,Yes,French,No,Yes,None,Weak
+13,Male,Bafut,Bafut,Bafut,Yes,South West,Bamenda,No,6,Yes,No,English,Cameroonian Pidgin English,Yes,No,No,French,Yes,Yes,Basic,Weak
+9,Female,Meta,Meta,Meta,Yes,Centre,Bamenda,No,1,No,No,Meta (mother tongue),Cameroonian Pidgin English,No,No,No,Mix of MT and French,No,Yes,None,Detached
+10,Female,Bafut,Bafut,Bafut,Yes,North West,Yaoundé,No,4,No,No,French,Bafut (mother tongue),No,No,Yes,Bafut (mother tongue),Yes,No,Minimal,Weak
+19,Female,Fulani,Fulani,Bakweri,No,Bamenda,Maroua,Yes,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,No,Hausa,Yes,Yes,Conversational,Weak
+9,Male,Bafut,Bafut,Meta,No,Buea,Bafut Village,Yes,6,Yes,No,Mix of Pidgin and French,Cameroonian Pidgin English,Yes,Yes,No,Bafut (mother tongue),No,No,Minimal,Weak
+19,Female,Bakweri,Bakweri,Bakweri,Yes,Littoral,Bakweri Village,Yes,3,Yes,No,Mokpwe (mother tongue),Cameroonian Pidgin English,No,No,No,French,No,No,Minimal,Detached
+20,Male,Meta,Meta,Bafut,No,Centre,Bamenda,No,7,Yes,No,Meta (mother tongue),English,Yes,Yes,Yes,Meta (mother tongue),No,Yes,Conversational,Moderate
+7,Male,Fulani,Fulani,Fulani,Yes,Bamenda,Garoua,Yes,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,No,Fulfulde,Yes,No,Conversational,Weak
+4,Female,Fulani,Fulani,Fulani,Yes,North,Maroua,No,4,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,French,Yes,Yes,Conversational,Strong
+8,Male,Bafut,Bafut,Fulani,No,Yaoundé,Bafoussam,No,3,Yes,Yes,Bafut (mother tongue),English,Yes,No,No,French,Yes,Yes,Conversational,Weak
+20,Female,Meta,Meta,Meta,Yes,South West,Douala,Yes,3,Yes,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,No,Meta (mother tongue),Yes,Yes,Conversational,Moderate
+13,Male,Bafut,Bafut,Bafut,Yes,North West,Bafoussam,Yes,4,No,No,Bafut (mother tongue),Mix of MT and French,Yes,No,No,Cameroonian Pidgin English,Yes,Yes,Basic,Weak
+8,Female,Fulani,Fulani,Fulani,Yes,Far North,Ngaoundéré,Yes,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Fulfulde,No,Yes,Conversational,Weak
+5,Male,Meta,Meta,Meta,Yes,North West,Bafoussam,Yes,5,No,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,No,French,No,Yes,Basic,Weak
+4,Male,Bakweri,Bakweri,Meta,No,North West,Buea,No,1,No,No,English,Mix of MT and Pidgin,No,Yes,No,English,Yes,Yes,Minimal,Weak
+23,Male,Bakweri,Bakweri,Bakweri,Yes,Littoral,Douala,Yes,3,No,Yes,Mokpwe (mother tongue),Mix of Pidgin and English,No,No,No,English,Yes,No,Minimal,Detached
+10,Male,Fulani,Fulani,Fulani,Yes,Buea,Ngaoundéré,Yes,2,Yes,Yes,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Arabic (Quran),Yes,Yes,Conversational,Moderate
+19,Male,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Douala,No,1,No,No,English,French,Yes,Yes,No,Cameroonian Pidgin English,No,No,Minimal,Weak
+16,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Garoua,Yes,3,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Hausa,Yes,Yes,Fluent,Strong
+12,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Maroua,Yes,3,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Arabic (Quran),No,Yes,Basic,Weak
+20,Male,Meta,Meta,Bafut,No,Littoral,Meta Village,No,6,Yes,No,Meta (mother tongue),French,Yes,Yes,No,Meta (mother tongue),Yes,Yes,Conversational,Moderate
+23,Female,Bafut,Bafut,Bafut,Yes,Douala,Bafut Village,No,6,Yes,No,Mix of MT and Pidgin,Bafut (mother tongue),Yes,Yes,No,Bafut (mother tongue),No,No,Basic,Weak
+18,Male,Bafut,Bafut,Bafut,Yes,Yaoundé,Bamenda,No,1,Yes,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,No,Bafut (mother tongue),Yes,Yes,Fluent,Moderate
+24,Male,Bakweri,Bakweri,Meta,No,Bamenda,Limbe,No,3,No,Yes,Cameroonian Pidgin English,English,Yes,Yes,No,Cameroonian Pidgin English,Yes,Yes,Minimal,Moderate
+13,Male,Meta,Meta,Bakweri,No,Yaoundé,Meta Village,Yes,7,Yes,No,Meta (mother tongue),Meta (mother tongue),No,Yes,Yes,French,No,Yes,Conversational,Moderate
+15,Female,Meta,Meta,Meta,Yes,Buea,Meta Village,No,2,No,Yes,Meta (mother tongue),Meta (mother tongue),Yes,Yes,Yes,Cameroonian Pidgin English,Yes,Yes,Fluent,Strong
+7,Male,Meta,Meta,Meta,Yes,Bamenda,Douala,Yes,3,No,No,Meta (mother tongue),Mix of MT and Pidgin,Yes,No,No,Meta (mother tongue),Yes,No,Minimal,Detached
+8,Male,Bakweri,Bakweri,Meta,No,Douala,Yaoundé,No,2,No,No,Mokpwe (mother tongue),Mix of MT and English,Yes,No,No,Cameroonian Pidgin English,No,Yes,Minimal,Detached
+21,Female,Bakweri,Bakweri,Bakweri,Yes,Littoral,Douala,Yes,3,No,Yes,French,Cameroonian Pidgin English,Yes,No,No,Mokpwe (mother tongue),No,Yes,None,Detached
+21,Female,Bakweri,Bakweri,Bakweri,Yes,North West,Douala,No,1,Yes,No,French,Mix of MT and English,Yes,Yes,No,Mokpwe (mother tongue),Yes,No,Basic,Moderate
+7,Male,Meta,Meta,Bafut,No,Douala,Bafoussam,Yes,4,Yes,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,No,Cameroonian Pidgin English,Yes,Yes,Conversational,Moderate
+11,Female,Bakweri,Bakweri,Bakweri,Yes,Centre,Buea,No,5,No,No,Mix of MT and Pidgin,French,No,No,Yes,English,No,No,None,Detached
+17,Female,Fulani,Fulani,Fulani,Yes,Buea,Maroua,Yes,5,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,French,No,Yes,Conversational,Moderate
+4,Male,Fulani,Fulani,Bakweri,No,Centre,Maroua,No,5,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Conversational,Moderate
+22,Female,Fulani,Fulani,Fulani,Yes,North,Douala,Yes,2,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Arabic (Quran),Yes,Yes,Conversational,Moderate
+6,Female,Bafut,Bafut,Meta,No,Douala,Bamenda,Yes,1,No,Yes,Bafut (mother tongue),French,Yes,No,No,Bafut (mother tongue),No,Yes,Minimal,Detached
+4,Male,Meta,Meta,Meta,Yes,North West,Bamenda,Yes,2,No,No,Meta (mother tongue),French,Yes,Yes,Yes,English,Yes,No,Basic,Moderate
+21,Male,Fulani,Fulani,Fulani,Yes,Adamawa,Ngaoundéré,No,4,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,No,Fulfulde,Yes,Yes,Basic,Weak
+8,Female,Meta,Meta,Meta,Yes,North West,Douala,Yes,2,No,No,Meta (mother tongue),Meta (mother tongue),No,No,Yes,Meta (mother tongue),Yes,Yes,Basic,Weak
+13,Male,Meta,Meta,Meta,Yes,Buea,Meta Village,Yes,3,No,No,Meta (mother tongue),Cameroonian Pidgin English,No,Yes,Yes,Meta (mother tongue),Yes,Yes,Basic,Moderate
+13,Female,Fulani,Fulani,Fulani,Yes,North,Ngaoundéré,Yes,2,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Arabic (Quran),Yes,Yes,Conversational,Moderate
+4,Male,Bafut,Bafut,Bafut,Yes,Buea,Bafoussam,Yes,4,Yes,No,Bafut (mother tongue),Mix of Pidgin and French,Yes,Yes,Yes,French,Yes,Yes,Conversational,Strong
+23,Female,Fulani,Fulani,Fulani,Yes,Buea,Fulani Camp,No,4,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,No,Arabic (Quran),Yes,Yes,Conversational,Weak
+10,Female,Fulani,Fulani,Fulani,Yes,Adamawa,Fulani Camp,Yes,6,No,Yes,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Arabic (Quran),Yes,Yes,Conversational,Moderate
+18,Male,Bakweri,Bakweri,Bafut,No,Buea,Douala,No,3,Yes,No,Cameroonian Pidgin English,Mix of Pidgin and English,No,No,No,French,No,No,None,Detached
+4,Female,Fulani,Fulani,Fulani,Yes,Adamawa,Fulani Camp,No,3,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Hausa,Yes,Yes,Fluent,Strong
+20,Female,Meta,Meta,Meta,Yes,Centre,Bafoussam,Yes,3,No,Yes,Meta (mother tongue),Mix of MT and Pidgin,Yes,Yes,Yes,French,Yes,Yes,Basic,Strong
+24,Female,Bafut,Bafut,Bafut,Yes,Yaoundé,Bafoussam,Yes,5,No,No,Mix of MT and French,Cameroonian Pidgin English,Yes,Yes,Yes,French,No,No,Minimal,Moderate
+9,Female,Meta,Meta,Bakweri,No,Douala,Meta Village,Yes,6,Yes,No,Meta (mother tongue),Meta (mother tongue),Yes,No,No,Meta (mother tongue),Yes,No,Basic,Weak
+16,Male,Bafut,Bafut,Fulani,No,South West,Douala,Yes,3,Yes,No,Cameroonian Pidgin English,Bafut (mother tongue),Yes,No,No,Cameroonian Pidgin English,Yes,Yes,Minimal,Weak
+15,Female,Bafut,Bafut,Bakweri,No,North West,Bamenda,No,3,Yes,No,Bafut (mother tongue),French,Yes,No,No,English,Yes,Yes,Basic,Weak
+11,Female,Fulani,Fulani,Fulani,Yes,Adamawa,Yaoundé,No,5,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Hausa,Yes,Yes,Fluent,Strong
+23,Male,Fulani,Fulani,Fulani,Yes,Littoral,Ngaoundéré,Yes,3,No,No,Fulfulde (mother tongue),Mix of Fulfulde and Hausa,Yes,No,Yes,French,Yes,Yes,Minimal,Moderate
+11,Female,Meta,Meta,Meta,Yes,Littoral,Douala,No,2,Yes,Yes,Meta (mother tongue),English,Yes,No,Yes,Meta (mother tongue),Yes,No,Conversational,Moderate
+19,Female,Meta,Meta,Bakweri,No,Yaoundé,Yaoundé,Yes,7,No,No,Meta (mother tongue),Meta (mother tongue),Yes,No,No,French,Yes,Yes,Basic,Weak
+6,Female,Fulani,Fulani,Fulani,Yes,Centre,Douala,Yes,4,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Arabic (Quran),Yes,Yes,Basic,Moderate
+6,Female,Meta,Meta,Meta,Yes,South West,Bafoussam,No,5,Yes,No,Mix of MT and French,Meta (mother tongue),Yes,No,Yes,Meta (mother tongue),Yes,Yes,Conversational,Moderate
+21,Male,Fulani,Fulani,Fulani,Yes,Littoral,Douala,Yes,4,No,No,French,Fulfulde (mother tongue),Yes,Yes,No,Fulfulde,Yes,Yes,Minimal,Weak
+8,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Ngaoundéré,Yes,6,Yes,Yes,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Arabic (Quran),Yes,Yes,Conversational,Moderate
+19,Female,Fulani,Fulani,Fulani,Yes,Buea,Yaoundé,Yes,8,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,No,Fulfulde,Yes,Yes,Basic,Weak
+11,Male,Meta,Meta,Bakweri,No,Littoral,Bamenda,Yes,7,Yes,No,English,Meta (mother tongue),No,No,No,Meta (mother tongue),Yes,Yes,Minimal,Detached
+7,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Douala,No,3,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Fulfulde,Yes,Yes,Conversational,Moderate
+10,Male,Bakweri,Bakweri,Fulani,No,Centre,Yaoundé,Yes,6,Yes,No,Mokpwe (mother tongue),English,Yes,Yes,No,Mix of MT and Pidgin,Yes,No,Basic,Moderate
+19,Female,Fulani,Fulani,Fulani,Yes,Douala,Garoua,Yes,1,Yes,No,Hausa,Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Basic,Moderate
+11,Female,Fulani,Fulani,Fulani,Yes,Adamawa,Maroua,Yes,0,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,No,Yes,Fulfulde,No,Yes,Basic,Detached
+5,Female,Meta,Meta,Bakweri,No,Centre,Meta Village,Yes,4,No,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,Yes,Meta (mother tongue),No,Yes,Basic,Moderate
+4,Male,Bakweri,Bakweri,Bakweri,Yes,North West,Buea,Yes,5,No,No,Mokpwe (mother tongue),Mokpwe (mother tongue),No,Yes,No,Mokpwe (mother tongue),Yes,Yes,Basic,Weak
+9,Female,Bafut,Bafut,Bakweri,No,Bamenda,Bafoussam,Yes,3,No,No,Bafut (mother tongue),English,No,No,No,English,No,Yes,None,Detached
+7,Male,Meta,Meta,Bakweri,No,Buea,Douala,No,3,Yes,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,No,English,Yes,Yes,Conversational,Moderate
+9,Female,Bafut,Bafut,Bafut,Yes,South West,Douala,No,1,Yes,No,Mix of MT and Pidgin,Mix of MT and French,Yes,Yes,No,French,Yes,No,Basic,Moderate
+17,Female,Bafut,Bafut,Bafut,Yes,Bamenda,Douala,No,7,No,No,Bafut (mother tongue),Mix of MT and French,Yes,No,Yes,French,No,Yes,Basic,Weak
+16,Female,Bafut,Bafut,Bafut,Yes,Centre,Bafoussam,Yes,5,Yes,No,French,French,No,Yes,No,Mix of MT and French,Yes,No,Minimal,Moderate
+11,Male,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Limbe,No,6,No,No,Mokpwe (mother tongue),Mix of MT and English,No,Yes,Yes,Mokpwe (mother tongue),Yes,Yes,Basic,Moderate
+10,Male,Bakweri,Bakweri,Bakweri,Yes,Buea,Limbe,No,1,No,No,English,Cameroonian Pidgin English,No,No,Yes,English,No,No,None,Detached
+24,Male,Meta,Meta,Meta,Yes,Littoral,Yaoundé,No,1,No,No,Meta (mother tongue),French,Yes,No,No,Meta (mother tongue),Yes,Yes,Basic,Detached
+9,Female,Bafut,Bafut,Bafut,Yes,Buea,Bafut Village,No,2,Yes,Yes,Mix of MT and Pidgin,English,No,Yes,No,Bafut (mother tongue),No,Yes,Basic,Weak
+7,Male,Bakweri,Bakweri,Meta,No,Bamenda,Yaoundé,Yes,3,No,No,Cameroonian Pidgin English,Mokpwe (mother tongue),Yes,Yes,Yes,Mokpwe (mother tongue),No,No,Minimal,Moderate
+22,Female,Bakweri,Bakweri,Bafut,No,Yaoundé,Yaoundé,Yes,2,No,No,Cameroonian Pidgin English,Mix of MT and English,Yes,Yes,No,French,No,Yes,None,Weak
+24,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Yaoundé,Yes,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,No,Yes,Fulfulde,No,Yes,Basic,Weak
+7,Female,Fulani,Fulani,Bakweri,No,Adamawa,Ngaoundéré,Yes,5,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,French,Yes,Yes,Fluent,Strong
+16,Male,Meta,Meta,Bakweri,No,South West,Yaoundé,No,6,No,No,Meta (mother tongue),Cameroonian Pidgin English,No,Yes,Yes,French,No,Yes,Minimal,Weak
+6,Male,Bafut,Bafut,Bafut,Yes,Littoral,Bafoussam,No,5,Yes,No,Bafut (mother tongue),Cameroonian Pidgin English,No,Yes,Yes,Cameroonian Pidgin English,No,Yes,Conversational,Moderate
+16,Male,Bafut,Bafut,Bakweri,No,Buea,Douala,Yes,1,Yes,No,Bafut (mother tongue),English,Yes,Yes,No,Bafut (mother tongue),No,No,Basic,Moderate
+10,Male,Meta,Meta,Meta,Yes,Centre,Meta Village,No,5,No,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,No,Cameroonian Pidgin English,Yes,No,Conversational,Moderate
+12,Male,Bafut,Bafut,Bakweri,No,Buea,Yaoundé,Yes,2,Yes,Yes,Bafut (mother tongue),Mix of Pidgin and French,No,Yes,No,French,Yes,No,Basic,Weak
+7,Female,Meta,Meta,Meta,Yes,Littoral,Douala,Yes,6,Yes,Yes,Cameroonian Pidgin English,French,Yes,No,Yes,French,Yes,No,Basic,Moderate
+17,Male,Bakweri,Bakweri,Bafut,No,Bamenda,Buea,Yes,4,Yes,Yes,French,English,Yes,No,No,French,Yes,No,Minimal,Weak
+17,Female,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Buea,Yes,4,No,No,Mix of MT and Pidgin,Mix of MT and Pidgin,No,No,No,Mix of MT and English,No,Yes,None,Detached
+22,Female,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Douala,Yes,2,Yes,No,English,Mix of Pidgin and English,Yes,Yes,No,Mokpwe (mother tongue),No,No,Minimal,Weak
+4,Female,Meta,Meta,Meta,Yes,South West,Bamenda,No,5,No,No,Meta (mother tongue),Cameroonian Pidgin English,No,Yes,Yes,French,Yes,Yes,Basic,Moderate
+11,Male,Bakweri,Bakweri,Bakweri,Yes,Centre,Bakweri Village,Yes,4,Yes,No,English,Mix of Pidgin and English,No,Yes,No,English,No,No,Minimal,Weak
+9,Male,Meta,Meta,Meta,Yes,Yaoundé,Bamenda,Yes,3,No,No,Meta (mother tongue),Meta (mother tongue),No,No,Yes,English,Yes,Yes,Minimal,Weak
+11,Female,Fulani,Fulani,Fulani,Yes,Adamawa,Ngaoundéré,No,2,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Fulfulde,Yes,Yes,Conversational,Strong
+16,Female,Fulani,Fulani,Fulani,Yes,Far North,Garoua,Yes,3,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Fluent,Strong
+10,Male,Bafut,Bafut,Meta,No,North West,Bafut Village,Yes,6,No,No,Bafut (mother tongue),Bafut (mother tongue),No,No,No,French,No,Yes,Minimal,Detached
+4,Female,Bafut,Bafut,Bafut,Yes,Bamenda,Bafut Village,No,5,No,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,No,Mix of MT and French,No,Yes,Basic,Weak
+24,Female,Meta,Meta,Fulani,No,Bamenda,Bafoussam,No,3,No,No,Meta (mother tongue),French,Yes,No,Yes,Cameroonian Pidgin English,No,Yes,Basic,Weak
+13,Male,Bakweri,Bakweri,Bafut,No,South West,Buea,Yes,5,No,Yes,Mokpwe (mother tongue),Mix of Pidgin and English,No,No,Yes,Mokpwe (mother tongue),Yes,No,Minimal,Weak
+11,Female,Bakweri,Bakweri,Meta,No,South West,Bakweri Village,Yes,4,Yes,No,Cameroonian Pidgin English,Cameroonian Pidgin English,Yes,No,Yes,Mokpwe (mother tongue),No,Yes,Minimal,Weak
+20,Female,Bakweri,Bakweri,Bakweri,Yes,Centre,Yaoundé,Yes,0,No,No,Mokpwe (mother tongue),Cameroonian Pidgin English,No,No,Yes,Cameroonian Pidgin English,No,No,Minimal,Detached
+10,Male,Fulani,Fulani,Fulani,Yes,Douala,Ngaoundéré,Yes,1,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Conversational,Strong
+4,Female,Bakweri,Bakweri,Meta,No,South West,Limbe,No,3,Yes,No,English,Cameroonian Pidgin English,Yes,No,No,French,Yes,Yes,Minimal,Weak
+12,Male,Meta,Meta,Meta,Yes,Bamenda,Meta Village,No,5,Yes,No,Meta (mother tongue),Meta (mother tongue),No,No,No,English,Yes,Yes,Conversational,Weak
+19,Female,Bakweri,Bakweri,Bakweri,Yes,South West,Yaoundé,No,2,Yes,No,Mokpwe (mother tongue),English,Yes,Yes,No,English,No,Yes,Conversational,Weak
+5,Female,Bafut,Bafut,Bafut,Yes,Centre,Bafoussam,No,5,No,Yes,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,Yes,French,No,No,Conversational,Moderate
+11,Male,Fulani,Fulani,Fulani,Yes,Buea,Douala,No,3,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Fulfulde,Yes,Yes,Conversational,Strong
+19,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Fulani Camp,Yes,3,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Does not attend,Yes,Yes,Conversational,Strong
+24,Male,Meta,Meta,Meta,Yes,Bamenda,Meta Village,Yes,6,No,No,Meta (mother tongue),Meta (mother tongue),No,Yes,Yes,French,No,Yes,Basic,Moderate
+4,Female,Meta,Meta,Meta,Yes,North West,Bamenda,Yes,7,No,No,English,Mix of MT and Pidgin,No,Yes,No,Meta (mother tongue),No,No,None,Weak
+6,Female,Bafut,Bafut,Bafut,Yes,Bamenda,Douala,No,4,No,No,Bafut (mother tongue),Bafut (mother tongue),No,No,No,Bafut (mother tongue),Yes,Yes,Minimal,Detached
+13,Male,Bakweri,Bakweri,Bakweri,Yes,Buea,Douala,Yes,3,No,No,Mokpwe (mother tongue),English,No,No,Yes,French,No,Yes,Minimal,Detached
+13,Male,Bafut,Bafut,Bakweri,No,Yaoundé,Yaoundé,No,3,No,No,Mix of MT and Pidgin,Mix of MT and Pidgin,Yes,Yes,No,Bafut (mother tongue),Yes,No,Minimal,Moderate
+21,Female,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Yaoundé,Yes,2,No,No,Mokpwe (mother tongue),French,No,No,No,English,Yes,Yes,Minimal,Detached
+11,Female,Bakweri,Bakweri,Bafut,No,Centre,Douala,Yes,4,No,No,Cameroonian Pidgin English,English,Yes,No,Yes,Cameroonian Pidgin English,Yes,No,None,Weak
+10,Male,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Yaoundé,No,6,Yes,No,Mokpwe (mother tongue),Mokpwe (mother tongue),Yes,No,Yes,English,No,No,Conversational,Weak
+23,Female,Fulani,Fulani,Fulani,Yes,Far North,Maroua,Yes,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Arabic (Quran),Yes,Yes,Conversational,Moderate
+13,Male,Fulani,Fulani,Fulani,Yes,Adamawa,Douala,Yes,5,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Fulfulde,No,Yes,Basic,Moderate
+23,Female,Bafut,Bafut,Fulani,No,Bamenda,Bafoussam,Yes,2,No,No,Bafut (mother tongue),Bafut (mother tongue),No,No,No,Bafut (mother tongue),No,Yes,None,Detached
+4,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Douala,Yes,4,No,Yes,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,No,Conversational,Strong
+23,Female,Bafut,Bafut,Bafut,Yes,Littoral,Bafut Village,No,4,Yes,No,Bafut (mother tongue),Bafut (mother tongue),Yes,No,No,Bafut (mother tongue),No,Yes,Conversational,Detached
+17,Female,Fulani,Fulani,Fulani,Yes,Littoral,Douala,Yes,2,Yes,No,French,Fulfulde (mother tongue),No,No,Yes,Does not attend,No,Yes,Minimal,Weak
+8,Female,Bakweri,Bakweri,Fulani,No,South West,Douala,Yes,1,Yes,No,Mokpwe (mother tongue),Mix of MT and English,Yes,No,Yes,Cameroonian Pidgin English,No,Yes,Basic,Moderate
+7,Female,Fulani,Fulani,Fulani,Yes,Adamawa,Yaoundé,No,3,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Hausa,Yes,Yes,Fluent,Strong
+5,Female,Meta,Meta,Meta,Yes,Centre,Bamenda,No,3,No,No,Meta (mother tongue),Mix of MT and Pidgin,Yes,No,No,English,Yes,No,Basic,Detached
+7,Female,Bafut,Bafut,Bafut,Yes,North West,Bamenda,Yes,4,No,No,Mix of MT and Pidgin,Mix of MT and Pidgin,Yes,Yes,No,Bafut (mother tongue),Yes,No,Minimal,Weak
+20,Female,Bafut,Bafut,Meta,No,Littoral,Yaoundé,Yes,3,No,No,Bafut (mother tongue),Bafut (mother tongue),Yes,No,No,English,No,Yes,Basic,Detached
+16,Female,Meta,Meta,Meta,Yes,Douala,Bamenda,Yes,3,No,No,Mix of MT and French,Meta (mother tongue),Yes,Yes,Yes,English,Yes,No,Basic,Moderate
+11,Male,Meta,Meta,Meta,Yes,Douala,Douala,Yes,1,No,Yes,Cameroonian Pidgin English,Meta (mother tongue),Yes,Yes,No,Meta (mother tongue),No,Yes,Minimal,Weak
+5,Female,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Yaoundé,Yes,2,No,No,Cameroonian Pidgin English,Mokpwe (mother tongue),No,No,No,Cameroonian Pidgin English,No,No,None,Detached
+9,Male,Meta,Meta,Meta,Yes,North West,Meta Village,Yes,3,No,No,Meta (mother tongue),Mix of Pidgin and French,No,Yes,Yes,Meta (mother tongue),No,No,Minimal,Weak
+21,Female,Fulani,Fulani,Bakweri,No,North,Yaoundé,Yes,5,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Does not attend,Yes,No,Conversational,Moderate
+7,Male,Fulani,Fulani,Fulani,Yes,Littoral,Maroua,No,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Arabic (Quran),Yes,Yes,Conversational,Moderate
+9,Male,Meta,Meta,Bafut,No,North West,Yaoundé,No,3,Yes,No,Cameroonian Pidgin English,Mix of Pidgin and French,Yes,No,Yes,Meta (mother tongue),No,Yes,Minimal,Weak
+14,Female,Fulani,Fulani,Fulani,Yes,Adamawa,Douala,Yes,5,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,No,Yes,Arabic (Quran),Yes,Yes,Conversational,Moderate
+14,Female,Bakweri,Bakweri,Meta,No,Bamenda,Bakweri Village,No,2,Yes,No,Mokpwe (mother tongue),Mix of Pidgin and English,Yes,Yes,Yes,English,Yes,Yes,Conversational,Strong
+19,Male,Fulani,Fulani,Fulani,Yes,Douala,Garoua,No,4,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Does not attend,Yes,Yes,Conversational,Strong
+24,Male,Bafut,Bafut,Bafut,Yes,Littoral,Bamenda,Yes,5,No,No,Bafut (mother tongue),Mix of Pidgin and French,Yes,Yes,No,Bafut (mother tongue),Yes,Yes,Basic,Moderate
+9,Male,Fulani,Fulani,Fulani,Yes,Littoral,Douala,Yes,5,Yes,No,Fulfulde (mother tongue),Mix of Fulfulde and French,Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Conversational,Strong
+7,Male,Meta,Meta,Bakweri,No,Douala,Bafoussam,No,2,No,Yes,Meta (mother tongue),Meta (mother tongue),Yes,Yes,No,Cameroonian Pidgin English,No,No,Conversational,Weak
+21,Male,Fulani,Fulani,Fulani,Yes,Littoral,Douala,Yes,5,Yes,Yes,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,No,Fulfulde,Yes,Yes,Conversational,Moderate
+16,Female,Meta,Meta,Meta,Yes,Douala,Yaoundé,No,4,Yes,No,Meta (mother tongue),Mix of MT and Pidgin,No,No,No,Meta (mother tongue),No,No,Minimal,Detached
+5,Male,Bafut,Bafut,Bafut,Yes,Douala,Bamenda,Yes,2,No,No,Bafut (mother tongue),French,Yes,No,No,French,Yes,Yes,Minimal,Detached
+16,Female,Meta,Meta,Meta,Yes,Littoral,Meta Village,Yes,7,Yes,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,Yes,English,Yes,Yes,Conversational,Strong
+4,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Garoua,No,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Fulfulde,Yes,Yes,Fluent,Strong
+17,Male,Bafut,Bafut,Bafut,Yes,Littoral,Yaoundé,Yes,3,Yes,No,Mix of MT and Pidgin,Bafut (mother tongue),No,Yes,No,English,Yes,Yes,Basic,Moderate
+19,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Fulani Camp,Yes,1,Yes,No,Hausa,Fulfulde (mother tongue),No,No,Yes,Does not attend,Yes,Yes,Minimal,Weak
+17,Female,Fulani,Fulani,Fulani,Yes,Littoral,Garoua,Yes,6,Yes,Yes,Fulfulde (mother tongue),Cameroonian Pidgin English,No,No,No,Arabic (Quran),No,Yes,Basic,Detached
+9,Female,Bakweri,Bakweri,Bakweri,Yes,Littoral,Douala,Yes,4,No,Yes,English,Cameroonian Pidgin English,Yes,No,Yes,English,Yes,No,Minimal,Weak
+14,Female,Meta,Meta,Bakweri,No,Centre,Meta Village,No,3,No,No,Meta (mother tongue),Meta (mother tongue),Yes,No,No,Meta (mother tongue),Yes,No,Basic,Weak
+22,Female,Bafut,Bafut,Bakweri,No,Centre,Bafoussam,No,2,No,No,Mix of MT and French,Bafut (mother tongue),No,No,No,Cameroonian Pidgin English,No,Yes,None,Detached
+9,Female,Bakweri,Bakweri,Bakweri,Yes,Centre,Douala,Yes,5,No,No,Mokpwe (mother tongue),Mix of MT and Pidgin,Yes,No,No,French,No,Yes,Minimal,Detached
+4,Female,Bafut,Bafut,Bakweri,No,Douala,Douala,Yes,1,No,Yes,English,Bafut (mother tongue),Yes,Yes,Yes,English,No,Yes,Basic,Moderate
+19,Male,Meta,Meta,Bakweri,No,Bamenda,Yaoundé,No,0,No,No,English,French,No,Yes,Yes,Meta (mother tongue),Yes,Yes,Minimal,Moderate
+18,Male,Bakweri,Bakweri,Bafut,No,Littoral,Douala,Yes,3,No,No,Mokpwe (mother tongue),Cameroonian Pidgin English,Yes,Yes,No,French,No,No,Minimal,Weak
+4,Female,Bafut,Bafut,Fulani,No,Yaoundé,Bafoussam,Yes,4,Yes,No,Bafut (mother tongue),Mix of MT and Pidgin,No,Yes,Yes,Cameroonian Pidgin English,No,Yes,Basic,Moderate
+18,Female,Meta,Meta,Bakweri,No,Littoral,Bamenda,Yes,4,Yes,No,Meta (mother tongue),Meta (mother tongue),No,Yes,Yes,Meta (mother tongue),No,No,Conversational,Moderate
+11,Female,Bakweri,Bakweri,Bakweri,Yes,Buea,Limbe,No,3,Yes,No,English,French,Yes,Yes,No,Cameroonian Pidgin English,Yes,Yes,Basic,Moderate
+5,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Ngaoundéré,Yes,7,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Hausa,Yes,Yes,Fluent,Strong
+7,Female,Fulani,Fulani,Fulani,Yes,Buea,Fulani Camp,Yes,5,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,No,Arabic (Quran),Yes,Yes,Conversational,Weak
+9,Male,Meta,Meta,Meta,Yes,Buea,Bafoussam,No,3,No,No,French,Meta (mother tongue),No,Yes,Yes,English,No,Yes,Basic,Moderate
+18,Female,Bakweri,Bakweri,Bafut,No,Buea,Limbe,No,4,No,No,French,Mokpwe (mother tongue),Yes,No,No,Cameroonian Pidgin English,No,Yes,Minimal,Detached
+16,Female,Meta,Meta,Bafut,No,Buea,Bafoussam,No,3,No,No,Meta (mother tongue),Meta (mother tongue),No,No,No,Mix of MT and French,No,Yes,Basic,Detached
+5,Female,Bafut,Bafut,Bafut,Yes,Buea,Yaoundé,Yes,0,No,Yes,Mix of MT and Pidgin,Mix of MT and Pidgin,No,Yes,Yes,French,Yes,No,Minimal,Moderate
+18,Male,Meta,Meta,Meta,Yes,Douala,Douala,Yes,4,Yes,No,Mix of Pidgin and French,Mix of Pidgin and French,Yes,Yes,Yes,French,No,Yes,Basic,Moderate
+12,Female,Bakweri,Bakweri,Bafut,No,Douala,Limbe,Yes,2,No,No,English,French,No,No,No,Mokpwe (mother tongue),Yes,Yes,None,Detached
+15,Male,Bakweri,Bakweri,Bakweri,Yes,Buea,Limbe,No,1,No,No,Mix of MT and English,Mokpwe (mother tongue),Yes,No,Yes,Cameroonian Pidgin English,No,No,Minimal,Weak
+13,Male,Bafut,Bafut,Bafut,Yes,North West,Yaoundé,Yes,2,No,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,No,Bafut (mother tongue),No,No,Basic,Weak
+11,Female,Fulani,Fulani,Fulani,Yes,Yaoundé,Maroua,Yes,2,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,No,French,Yes,Yes,Conversational,Weak
+10,Male,Bafut,Bafut,Bafut,Yes,North West,Bamenda,No,5,Yes,No,Bafut (mother tongue),Bafut (mother tongue),Yes,No,No,Bafut (mother tongue),No,No,Conversational,Detached
+6,Male,Meta,Meta,Meta,Yes,North West,Yaoundé,Yes,2,Yes,No,Meta (mother tongue),Mix of Pidgin and French,No,Yes,No,English,No,Yes,Basic,Weak
+13,Male,Bafut,Bafut,Bafut,Yes,Yaoundé,Douala,Yes,4,No,No,Mix of MT and Pidgin,French,Yes,Yes,No,Bafut (mother tongue),Yes,Yes,None,Moderate
+6,Female,Bakweri,Bakweri,Bakweri,Yes,Centre,Limbe,Yes,5,No,No,Mokpwe (mother tongue),Mokpwe (mother tongue),No,Yes,No,Cameroonian Pidgin English,No,Yes,Basic,Weak
+10,Male,Fulani,Fulani,Fulani,Yes,Centre,Fulani Camp,No,7,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,No,Does not attend,Yes,Yes,Conversational,Weak
+12,Female,Bakweri,Bakweri,Bafut,No,South West,Douala,Yes,1,No,No,English,Cameroonian Pidgin English,Yes,No,No,Cameroonian Pidgin English,No,No,None,Detached
+5,Male,Fulani,Fulani,Fulani,Yes,Buea,Fulani Camp,No,7,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Hausa,Yes,Yes,Conversational,Moderate
+4,Female,Fulani,Fulani,Fulani,Yes,Buea,Maroua,Yes,3,Yes,No,Mix of Fulfulde and French,Fulfulde (mother tongue),No,Yes,Yes,French,Yes,Yes,Basic,Strong
+12,Male,Bafut,Bafut,Bafut,Yes,South West,Bafut Village,No,5,No,No,Bafut (mother tongue),Mix of MT and Pidgin,No,Yes,Yes,Cameroonian Pidgin English,No,Yes,Basic,Weak
+15,Male,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Buea,Yes,4,No,No,Mokpwe (mother tongue),English,Yes,Yes,Yes,Mokpwe (mother tongue),No,No,Basic,Moderate
+17,Female,Bakweri,Bakweri,Bakweri,Yes,Yaoundé,Buea,Yes,4,No,No,French,Mokpwe (mother tongue),No,No,No,English,No,No,None,Detached
+11,Female,Meta,Meta,Meta,Yes,Littoral,Douala,No,2,Yes,No,English,Cameroonian Pidgin English,No,Yes,No,French,No,Yes,Minimal,Weak
+5,Male,Bafut,Bafut,Bakweri,No,Centre,Yaoundé,Yes,2,No,Yes,Bafut (mother tongue),Mix of MT and Pidgin,Yes,No,Yes,Cameroonian Pidgin English,Yes,Yes,Basic,Weak
+21,Female,Meta,Meta,Meta,Yes,Littoral,Bafoussam,No,3,No,No,Cameroonian Pidgin English,Mix of Pidgin and French,Yes,Yes,No,Meta (mother tongue),Yes,No,Minimal,Weak
+19,Female,Meta,Meta,Meta,Yes,Douala,Bafoussam,No,1,No,No,Meta (mother tongue),French,Yes,No,Yes,English,No,No,Basic,Weak
+7,Female,Bafut,Bafut,Bafut,Yes,Douala,Yaoundé,No,2,Yes,No,French,Bafut (mother tongue),Yes,No,No,Mix of Pidgin and French,No,Yes,Minimal,Detached
+18,Female,Fulani,Fulani,Fulani,Yes,Buea,Ngaoundéré,Yes,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Arabic (Quran),No,Yes,Conversational,Moderate
+11,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Garoua,Yes,3,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,No,Fluent,Strong
+23,Male,Bakweri,Bakweri,Bakweri,Yes,Centre,Bakweri Village,Yes,2,Yes,No,Mix of MT and Pidgin,Cameroonian Pidgin English,No,Yes,No,French,No,Yes,Minimal,Weak
+9,Female,Bafut,Bafut,Bafut,Yes,Douala,Yaoundé,Yes,2,Yes,Yes,Cameroonian Pidgin English,Mix of MT and French,No,No,No,Bafut (mother tongue),No,No,None,Detached
+22,Female,Bafut,Bafut,Bafut,Yes,South West,Bafut Village,No,6,Yes,Yes,Cameroonian Pidgin English,Bafut (mother tongue),Yes,No,No,Bafut (mother tongue),No,No,Basic,Weak
+6,Female,Bafut,Bafut,Meta,No,Douala,Bafut Village,No,5,Yes,Yes,Cameroonian Pidgin English,English,Yes,No,No,Bafut (mother tongue),Yes,Yes,Minimal,Weak
+6,Female,Bafut,Bafut,Bafut,Yes,Buea,Bamenda,Yes,4,No,No,Bafut (mother tongue),English,No,No,No,French,Yes,Yes,Minimal,Detached
+10,Female,Bafut,Bafut,Bafut,Yes,North West,Bamenda,No,0,No,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,Yes,Bafut (mother tongue),No,No,Conversational,Moderate
+5,Female,Bakweri,Bakweri,Meta,No,Littoral,Buea,Yes,4,Yes,No,Mokpwe (mother tongue),Mix of MT and Pidgin,Yes,No,Yes,English,No,Yes,Basic,Weak
+12,Male,Meta,Meta,Bakweri,No,South West,Douala,Yes,6,No,No,French,Meta (mother tongue),Yes,No,No,French,Yes,Yes,None,Detached
+19,Female,Meta,Meta,Meta,Yes,Bamenda,Bamenda,Yes,4,Yes,No,English,Meta (mother tongue),Yes,Yes,Yes,English,Yes,Yes,Conversational,Moderate
+20,Male,Bafut,Bafut,Bafut,Yes,South West,Douala,No,1,No,No,Mix of Pidgin and French,Bafut (mother tongue),Yes,Yes,Yes,French,No,No,Basic,Moderate
+6,Female,Fulani,Fulani,Fulani,Yes,Buea,Maroua,Yes,5,Yes,No,Fulfulde (mother tongue),Mix of Fulfulde and Arabic,No,No,No,Arabic (Quran),Yes,Yes,Minimal,Detached
+15,Male,Meta,Meta,Meta,Yes,Bamenda,Yaoundé,No,3,Yes,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,Yes,Cameroonian Pidgin English,Yes,No,Fluent,Strong
+5,Female,Bakweri,Bakweri,Bakweri,Yes,Douala,Bakweri Village,No,1,No,No,English,Mokpwe (mother tongue),Yes,Yes,No,French,No,Yes,Basic,Weak
+5,Female,Meta,Meta,Bakweri,No,Douala,Bamenda,Yes,4,No,No,Meta (mother tongue),Cameroonian Pidgin English,No,Yes,Yes,Cameroonian Pidgin English,No,Yes,Minimal,Weak
+9,Male,Fulani,Fulani,Fulani,Yes,Littoral,Yaoundé,Yes,4,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Fulfulde,Yes,Yes,Conversational,Moderate
+7,Female,Meta,Meta,Bakweri,No,Douala,Douala,Yes,3,Yes,No,Meta (mother tongue),Mix of Pidgin and French,No,Yes,Yes,English,No,Yes,Basic,Weak
+5,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Douala,No,3,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Hausa,No,Yes,Conversational,Moderate
+23,Female,Fulani,Fulani,Fulani,Yes,Littoral,Garoua,Yes,1,Yes,No,Mix of Fulfulde and Hausa,Fulfulde (mother tongue),No,Yes,Yes,Does not attend,No,Yes,Basic,Moderate
+14,Male,Bakweri,Bakweri,Meta,No,Littoral,Douala,No,0,No,No,Mix of MT and English,Mokpwe (mother tongue),No,No,No,Cameroonian Pidgin English,No,No,None,Detached
+23,Female,Fulani,Fulani,Fulani,Yes,Buea,Yaoundé,Yes,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,French,Yes,Yes,Conversational,Strong
+20,Male,Bakweri,Bakweri,Bafut,No,Bamenda,Buea,No,2,No,Yes,Mokpwe (mother tongue),English,Yes,Yes,Yes,Mokpwe (mother tongue),Yes,No,Basic,Moderate
+4,Male,Bafut,Bafut,Bafut,Yes,South West,Yaoundé,Yes,0,Yes,Yes,Mix of MT and Pidgin,Mix of MT and Pidgin,No,Yes,No,French,No,Yes,Minimal,Weak
+11,Female,Bafut,Bafut,Bafut,Yes,Buea,Yaoundé,Yes,3,No,No,Mix of Pidgin and French,Mix of MT and French,No,No,Yes,French,Yes,No,None,Weak
+24,Male,Bakweri,Bakweri,Bafut,No,North West,Yaoundé,Yes,2,No,No,Cameroonian Pidgin English,Mokpwe (mother tongue),Yes,No,No,Mokpwe (mother tongue),No,No,None,Detached
+19,Female,Bafut,Bafut,Bakweri,No,Centre,Bafut Village,Yes,5,No,Yes,English,Cameroonian Pidgin English,Yes,No,Yes,English,Yes,No,Minimal,Weak
+13,Female,Meta,Meta,Meta,Yes,Bamenda,Bamenda,Yes,1,Yes,No,Meta (mother tongue),Cameroonian Pidgin English,No,No,No,English,Yes,No,Minimal,Detached
+8,Female,Meta,Meta,Fulani,No,Littoral,Bafoussam,Yes,2,No,No,Meta (mother tongue),Meta (mother tongue),No,Yes,Yes,Meta (mother tongue),No,Yes,Basic,Moderate
+12,Female,Meta,Meta,Bafut,No,Centre,Yaoundé,No,3,Yes,No,Mix of MT and Pidgin,Mix of MT and Pidgin,Yes,Yes,Yes,Meta (mother tongue),Yes,No,Basic,Strong
+4,Male,Bakweri,Bakweri,Bakweri,Yes,Littoral,Buea,Yes,4,Yes,No,English,Mokpwe (mother tongue),Yes,Yes,No,English,No,No,Basic,Weak
+7,Female,Bakweri,Bakweri,Bakweri,Yes,Buea,Bakweri Village,Yes,3,No,No,Mokpwe (mother tongue),Cameroonian Pidgin English,No,No,Yes,Mokpwe (mother tongue),Yes,Yes,Minimal,Weak
+23,Female,Fulani,Fulani,Fulani,Yes,Adamawa,Ngaoundéré,No,2,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Hausa,Yes,Yes,Fluent,Strong
+11,Female,Bafut,Bafut,Bakweri,No,Buea,Bafoussam,No,5,No,No,Mix of MT and Pidgin,Mix of Pidgin and French,Yes,Yes,No,French,No,Yes,Minimal,Weak
+9,Female,Fulani,Fulani,Fulani,Yes,Centre,Garoua,Yes,5,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,French,Yes,No,Fluent,Strong
+4,Male,Bafut,Bafut,Bafut,Yes,Centre,Bafoussam,No,1,No,Yes,Bafut (mother tongue),Cameroonian Pidgin English,Yes,No,Yes,French,No,Yes,Basic,Weak
+14,Female,Fulani,Fulani,Fulani,Yes,Adamawa,Ngaoundéré,No,7,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Does not attend,Yes,Yes,Conversational,Moderate
+16,Male,Fulani,Fulani,Fulani,Yes,Bamenda,Maroua,No,6,No,No,Fulfulde (mother tongue),Cameroonian Pidgin English,No,Yes,Yes,Fulfulde,Yes,Yes,Basic,Moderate
+18,Male,Bakweri,Bakweri,Bakweri,Yes,North West,Buea,No,6,Yes,No,Mix of Pidgin and English,English,No,Yes,Yes,Cameroonian Pidgin English,No,Yes,Basic,Moderate
+22,Female,Bakweri,Bakweri,Bakweri,Yes,North West,Yaoundé,No,2,No,No,Cameroonian Pidgin English,Mokpwe (mother tongue),No,No,No,French,Yes,Yes,Minimal,Detached
+13,Female,Meta,Meta,Bakweri,No,Littoral,Bafoussam,No,5,Yes,No,Meta (mother tongue),Meta (mother tongue),No,Yes,Yes,Cameroonian Pidgin English,Yes,Yes,Conversational,Strong
+18,Female,Meta,Meta,Meta,Yes,Littoral,Meta Village,Yes,5,Yes,No,Meta (mother tongue),English,No,Yes,No,Meta (mother tongue),Yes,Yes,Basic,Weak
+8,Male,Meta,Meta,Fulani,No,Douala,Bafoussam,No,6,Yes,Yes,Meta (mother tongue),Mix of MT and French,Yes,No,Yes,English,Yes,No,Conversational,Moderate
+10,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Garoua,Yes,3,No,No,Mix of Fulfulde and French,Fulfulde (mother tongue),Yes,Yes,No,Fulfulde,Yes,Yes,Minimal,Weak
+17,Male,Fulani,Fulani,Fulani,Yes,Adamawa,Maroua,Yes,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,French,Yes,No,Conversational,Moderate
+7,Male,Bakweri,Bakweri,Bakweri,Yes,Littoral,Limbe,No,2,Yes,No,English,Mokpwe (mother tongue),Yes,Yes,Yes,Cameroonian Pidgin English,No,Yes,Conversational,Moderate
+21,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Yaoundé,No,5,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,French,Yes,Yes,Conversational,Moderate
+10,Female,Bafut,Bafut,Fulani,No,Yaoundé,Yaoundé,Yes,5,Yes,No,Mix of MT and Pidgin,Mix of MT and French,No,No,Yes,French,Yes,No,Minimal,Weak
+4,Female,Fulani,Fulani,Fulani,Yes,Douala,Maroua,Yes,2,Yes,No,Cameroonian Pidgin English,Fulfulde (mother tongue),Yes,Yes,Yes,Fulfulde,Yes,Yes,Conversational,Strong
+12,Male,Meta,Meta,Meta,Yes,Bamenda,Meta Village,Yes,2,No,No,Meta (mother tongue),English,No,Yes,No,Cameroonian Pidgin English,Yes,Yes,Minimal,Weak
+6,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Fulani Camp,Yes,4,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Hausa,Yes,No,Fluent,Strong
+10,Male,Bafut,Bafut,Bakweri,No,Littoral,Bamenda,Yes,5,No,No,Bafut (mother tongue),Bafut (mother tongue),No,Yes,No,Bafut (mother tongue),Yes,No,Minimal,Weak
+16,Male,Fulani,Fulani,Bakweri,No,Littoral,Yaoundé,Yes,1,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,French,Yes,Yes,Conversational,Moderate
+14,Female,Bafut,Bafut,Bakweri,No,Centre,Bafoussam,No,1,Yes,No,Mix of MT and Pidgin,Bafut (mother tongue),No,Yes,No,English,No,Yes,Minimal,Weak
+11,Female,Fulani,Fulani,Fulani,Yes,Yaoundé,Douala,Yes,4,No,No,Fulfulde (mother tongue),French,Yes,No,No,Fulfulde,Yes,Yes,Minimal,Weak
+5,Male,Meta,Meta,Meta,Yes,Yaoundé,Douala,Yes,5,Yes,No,English,Cameroonian Pidgin English,Yes,Yes,Yes,English,No,No,Basic,Moderate
+4,Female,Bafut,Bafut,Bafut,Yes,Bamenda,Bamenda,Yes,7,Yes,No,English,Bafut (mother tongue),Yes,No,No,Cameroonian Pidgin English,No,Yes,Minimal,Weak
+24,Female,Bakweri,Bakweri,Bakweri,Yes,Douala,Bakweri Village,Yes,3,No,No,Cameroonian Pidgin English,Mix of MT and Pidgin,Yes,No,Yes,Cameroonian Pidgin English,Yes,No,None,Moderate
+20,Female,Fulani,Fulani,Fulani,Yes,Douala,Garoua,Yes,1,Yes,No,Fulfulde (mother tongue),Mix of Fulfulde and Hausa,Yes,Yes,Yes,Arabic (Quran),No,Yes,Conversational,Strong
+7,Male,Bafut,Bafut,Meta,No,Buea,Bamenda,No,4,Yes,Yes,Cameroonian Pidgin English,Mix of Pidgin and French,Yes,No,Yes,Bafut (mother tongue),Yes,Yes,Basic,Moderate
+8,Male,Bafut,Bafut,Bafut,Yes,North West,Bamenda,Yes,7,No,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,No,Bafut (mother tongue),Yes,Yes,Basic,Moderate
+24,Female,Bakweri,Bakweri,Meta,No,Centre,Limbe,Yes,3,No,No,French,English,Yes,Yes,Yes,French,No,Yes,Minimal,Moderate
+7,Male,Fulani,Fulani,Fulani,Yes,Littoral,Garoua,No,5,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,French,No,Yes,Conversational,Moderate
+6,Female,Fulani,Fulani,Fulani,Yes,Douala,Ngaoundéré,Yes,4,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Arabic (Quran),Yes,Yes,Conversational,Weak
+21,Female,Meta,Meta,Meta,Yes,Bamenda,Yaoundé,Yes,1,Yes,No,Meta (mother tongue),Meta (mother tongue),Yes,No,No,French,No,Yes,Basic,Weak
+6,Female,Meta,Meta,Bafut,No,South West,Douala,Yes,2,Yes,No,Meta (mother tongue),English,No,No,Yes,Cameroonian Pidgin English,Yes,Yes,Basic,Moderate
+17,Male,Bakweri,Bakweri,Bafut,No,Douala,Buea,No,2,No,No,French,French,No,No,No,Mokpwe (mother tongue),No,No,None,Detached
+7,Male,Bafut,Bafut,Bafut,Yes,North West,Douala,No,1,No,No,English,Bafut (mother tongue),No,No,No,English,No,Yes,Minimal,Detached
+15,Male,Bafut,Bafut,Meta,No,Douala,Bamenda,No,5,No,No,Bafut (mother tongue),Mix of Pidgin and French,Yes,No,No,French,No,No,Minimal,Detached
+13,Male,Fulani,Fulani,Fulani,Yes,Douala,Douala,Yes,8,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Fulfulde,Yes,Yes,Conversational,Moderate
+14,Female,Bakweri,Bakweri,Bafut,No,Douala,Douala,No,2,Yes,No,French,French,Yes,Yes,No,English,No,Yes,Basic,Weak
+12,Female,Fulani,Fulani,Bakweri,No,Bamenda,Ngaoundéré,Yes,4,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Arabic (Quran),Yes,Yes,Conversational,Moderate
+23,Female,Bafut,Bafut,Fulani,No,North West,Bafoussam,Yes,3,Yes,No,Cameroonian Pidgin English,Mix of Pidgin and French,Yes,Yes,Yes,Bafut (mother tongue),No,Yes,Basic,Strong
+4,Female,Fulani,Fulani,Fulani,Yes,Buea,Douala,Yes,5,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,No,Arabic (Quran),Yes,No,Basic,Weak
+13,Female,Bafut,Bafut,Meta,No,Yaoundé,Yaoundé,No,2,No,No,French,Bafut (mother tongue),No,No,No,Cameroonian Pidgin English,Yes,No,Minimal,Detached
+10,Female,Fulani,Fulani,Fulani,Yes,Bamenda,Douala,Yes,4,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Fulfulde,No,Yes,Conversational,Moderate
+21,Male,Meta,Meta,Meta,Yes,South West,Bafoussam,No,2,Yes,No,Mix of MT and Pidgin,French,Yes,No,No,Cameroonian Pidgin English,Yes,Yes,Minimal,Weak
+22,Male,Bakweri,Bakweri,Bakweri,Yes,Buea,Douala,Yes,0,No,Yes,Mokpwe (mother tongue),Mokpwe (mother tongue),No,No,No,Mokpwe (mother tongue),No,Yes,Basic,Detached
+19,Male,Fulani,Fulani,Fulani,Yes,Centre,Douala,Yes,6,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Fulfulde,Yes,Yes,Basic,Moderate
+15,Female,Bakweri,Bakweri,Bakweri,Yes,Douala,Limbe,Yes,5,No,No,Cameroonian Pidgin English,Cameroonian Pidgin English,No,Yes,No,English,Yes,Yes,None,Weak
+24,Female,Meta,Meta,Meta,Yes,Littoral,Meta Village,Yes,6,No,No,Mix of MT and French,Meta (mother tongue),Yes,Yes,No,English,No,No,Minimal,Weak
+23,Female,Bafut,Bafut,Bafut,Yes,Yaoundé,Bafut Village,Yes,1,Yes,No,Mix of Pidgin and French,Bafut (mother tongue),Yes,No,No,English,Yes,No,Basic,Weak
+19,Male,Meta,Meta,Meta,Yes,Centre,Meta Village,Yes,3,Yes,No,Meta (mother tongue),Mix of MT and Pidgin,Yes,No,Yes,Mix of MT and Pidgin,No,Yes,Basic,Weak
+6,Male,Bafut,Bafut,Fulani,No,Buea,Bamenda,Yes,1,No,Yes,Bafut (mother tongue),Cameroonian Pidgin English,Yes,No,Yes,Bafut (mother tongue),No,Yes,Basic,Weak
+17,Male,Bafut,Bafut,Fulani,No,Bamenda,Douala,Yes,3,No,Yes,Cameroonian Pidgin English,Mix of MT and Pidgin,No,Yes,Yes,French,Yes,Yes,None,Moderate
+21,Female,Fulani,Fulani,Fulani,Yes,Centre,Ngaoundéré,Yes,3,No,No,Mix of Fulfulde and Hausa,Fulfulde (mother tongue),Yes,Yes,Yes,Hausa,No,Yes,Basic,Moderate
+21,Male,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Douala,Yes,1,Yes,No,French,Mokpwe (mother tongue),No,No,No,Mokpwe (mother tongue),Yes,Yes,Minimal,Weak
+13,Male,Bakweri,Bakweri,Bakweri,Yes,South West,Bakweri Village,No,4,No,No,Mokpwe (mother tongue),Mix of Pidgin and English,No,Yes,No,English,Yes,No,Basic,Moderate
+16,Male,Fulani,Fulani,Fulani,Yes,Adamawa,Yaoundé,Yes,5,Yes,Yes,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,French,Yes,Yes,Fluent,Moderate
+12,Female,Meta,Meta,Meta,Yes,Littoral,Meta Village,No,4,Yes,No,Mix of MT and French,Mix of Pidgin and French,Yes,Yes,Yes,Meta (mother tongue),Yes,Yes,Basic,Strong
+4,Female,Bakweri,Bakweri,Bakweri,Yes,Bamenda,Yaoundé,Yes,3,Yes,No,English,Mix of MT and Pidgin,Yes,No,No,French,Yes,No,Minimal,Weak
+13,Female,Bakweri,Bakweri,Bakweri,Yes,South West,Douala,Yes,4,No,No,Mokpwe (mother tongue),Mokpwe (mother tongue),Yes,Yes,No,Mokpwe (mother tongue),Yes,No,Basic,Weak
+17,Female,Meta,Meta,Meta,Yes,Buea,Meta Village,No,2,Yes,No,Mix of MT and French,Meta (mother tongue),Yes,No,Yes,French,No,Yes,Basic,Weak
+6,Male,Meta,Meta,Bakweri,No,Bamenda,Bafoussam,No,4,Yes,No,Mix of MT and Pidgin,Meta (mother tongue),Yes,No,No,English,Yes,Yes,Basic,Weak
+23,Female,Meta,Meta,Bakweri,No,North West,Meta Village,Yes,0,Yes,No,French,Meta (mother tongue),Yes,Yes,Yes,French,Yes,Yes,Basic,Strong
+20,Female,Fulani,Fulani,Fulani,Yes,Adamawa,Garoua,Yes,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,No,Yes,French,Yes,Yes,Conversational,Moderate
+11,Male,Bakweri,Bakweri,Bafut,No,Littoral,Bakweri Village,No,2,No,No,Mokpwe (mother tongue),Mokpwe (mother tongue),No,Yes,Yes,French,Yes,Yes,Conversational,Moderate
+24,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Yaoundé,No,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Arabic (Quran),Yes,Yes,Conversational,Moderate
+7,Female,Bakweri,Bakweri,Meta,No,South West,Bakweri Village,Yes,3,No,Yes,Mokpwe (mother tongue),Cameroonian Pidgin English,Yes,No,No,English,Yes,No,Basic,Detached
+15,Male,Bakweri,Bakweri,Meta,No,Bamenda,Limbe,Yes,2,No,No,Mokpwe (mother tongue),Mokpwe (mother tongue),Yes,Yes,No,Mokpwe (mother tongue),No,Yes,Basic,Weak
+22,Female,Meta,Meta,Meta,Yes,Yaoundé,Bafoussam,No,7,No,No,Meta (mother tongue),Mix of Pidgin and French,Yes,Yes,No,Cameroonian Pidgin English,No,Yes,Basic,Weak
+22,Male,Bafut,Bafut,Bafut,Yes,Littoral,Douala,Yes,5,No,No,French,English,Yes,No,Yes,Cameroonian Pidgin English,No,No,None,Weak
+4,Male,Fulani,Fulani,Fulani,Yes,Douala,Ngaoundéré,Yes,7,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,No,Yes,Arabic (Quran),Yes,Yes,Basic,Weak
+13,Female,Fulani,Fulani,Bafut,No,Bamenda,Douala,Yes,6,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Fulfulde,Yes,No,Conversational,Moderate
+22,Female,Bafut,Bafut,Fulani,No,Littoral,Douala,Yes,2,No,No,Bafut (mother tongue),Bafut (mother tongue),Yes,Yes,Yes,English,No,Yes,Basic,Moderate
+22,Female,Bafut,Bafut,Bafut,Yes,Douala,Bafut Village,No,2,No,No,English,Bafut (mother tongue),No,Yes,No,Bafut (mother tongue),No,Yes,Minimal,Detached
+11,Female,Bakweri,Bakweri,Bafut,No,Yaoundé,Bakweri Village,Yes,4,No,Yes,Mokpwe (mother tongue),English,No,No,No,English,No,No,Minimal,Detached
+16,Male,Fulani,Fulani,Fulani,Yes,Yaoundé,Ngaoundéré,Yes,4,Yes,No,Cameroonian Pidgin English,Fulfulde (mother tongue),Yes,Yes,Yes,French,Yes,Yes,Basic,Strong
+7,Female,Bafut,Bafut,Bafut,Yes,North West,Bafut Village,Yes,2,No,Yes,Bafut (mother tongue),French,No,No,No,French,No,Yes,Minimal,Detached
+17,Male,Bakweri,Bakweri,Bakweri,Yes,South West,Douala,No,1,No,No,Mokpwe (mother tongue),French,No,No,No,Mokpwe (mother tongue),No,Yes,Minimal,Detached
+24,Female,Meta,Meta,Fulani,No,Centre,Bafoussam,No,2,Yes,No,Mix of MT and French,English,Yes,No,No,English,No,Yes,Minimal,Detached
+20,Female,Meta,Meta,Bakweri,No,North West,Bafoussam,Yes,4,No,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,No,French,Yes,Yes,Basic,Moderate
+22,Male,Bakweri,Bakweri,Bakweri,Yes,Douala,Douala,Yes,4,No,No,English,Cameroonian Pidgin English,Yes,No,No,Cameroonian Pidgin English,Yes,Yes,None,Detached
+24,Female,Bafut,Bafut,Bafut,Yes,Centre,Bafut Village,Yes,2,Yes,No,Bafut (mother tongue),Mix of MT and Pidgin,Yes,Yes,No,English,Yes,Yes,Conversational,Moderate
+4,Female,Bakweri,Bakweri,Bakweri,Yes,Buea,Douala,Yes,1,No,No,English,French,Yes,No,No,French,Yes,Yes,None,Detached
+19,Male,Bakweri,Bakweri,Bakweri,Yes,Douala,Buea,Yes,4,No,No,Mix of MT and English,Mix of MT and Pidgin,Yes,No,No,Cameroonian Pidgin English,Yes,No,None,Detached
+18,Female,Meta,Meta,Bafut,No,North West,Bamenda,No,2,Yes,No,Meta (mother tongue),Mix of MT and French,No,No,No,English,No,Yes,Minimal,Detached
+11,Female,Fulani,Fulani,Fulani,Yes,Douala,Maroua,Yes,2,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,No,Fulfulde,Yes,Yes,Conversational,Moderate
+18,Female,Bafut,Bafut,Bafut,Yes,Douala,Bafut Village,Yes,2,Yes,Yes,Mix of MT and French,Bafut (mother tongue),Yes,Yes,Yes,Bafut (mother tongue),No,No,Conversational,Strong
+12,Female,Bafut,Bafut,Bafut,Yes,Buea,Douala,No,4,Yes,No,Bafut (mother tongue),Bafut (mother tongue),Yes,No,No,English,Yes,Yes,Conversational,Weak
+24,Male,Fulani,Fulani,Fulani,Yes,Bamenda,Douala,Yes,2,No,No,Fulfulde (mother tongue),Fulfulde (mother tongue),Yes,Yes,Yes,Fulfulde,Yes,Yes,Conversational,Moderate
+21,Male,Fulani,Fulani,Fulani,Yes,Far North,Garoua,Yes,5,No,No,Fulfulde (mother tongue),Cameroonian Pidgin English,Yes,No,Yes,Arabic (Quran),Yes,No,Basic,Weak
+7,Male,Bakweri,Bakweri,Fulani,No,Buea,Buea,No,1,Yes,No,English,Mokpwe (mother tongue),No,No,No,French,Yes,No,Minimal,Weak
+17,Male,Fulani,Fulani,Fulani,Yes,Buea,Ngaoundéré,No,5,Yes,No,Fulfulde (mother tongue),Fulfulde (mother tongue),No,Yes,Yes,Fulfulde,No,Yes,Conversational,Moderate
+21,Male,Meta,Meta,Meta,Yes,Bamenda,Douala,Yes,2,No,No,Meta (mother tongue),Meta (mother tongue),Yes,Yes,No,Meta (mother tongue),No,Yes,Basic,Weak
+9,Female,Meta,Meta,Meta,Yes,Buea,Meta Village,Yes,4,Yes,No,Meta (mother tongue),Meta (mother tongue),Yes,No,Yes,Cameroonian Pidgin English,No,Yes,Conversational,Weak
+10,Male,Bakweri,Bakweri,Bafut,No,Yaoundé,Douala,No,7,No,No,French,English,No,No,Yes,French,Yes,Yes,None,Weak
+4,Male,Bakweri,Bakweri,Bakweri,Yes,South West,Buea,Yes,7,No,No,Cameroonian Pidgin English,Mix of MT and Pidgin,Yes,No,No,French,No,No,None,Detached
+11,Male,Meta,Meta,Bafut,No,Buea,Meta Village,Yes,5,Yes,No,Mix of MT and Pidgin,English,Yes,Yes,No,French,Yes,No,Minimal,Moderate
+7,Male,Fulani,Fulani,Fulani,Yes,Douala,Maroua,Yes,2,No,No,Fulfulde (mother tongue),Mix of Fulfulde and French,Yes,No,Yes,Does not attend,Yes,Yes,Basic,Moderate
+24,Female,Bafut,Bafut,Bafut,Yes,Centre,Yaoundé,No,3,Yes,No,Bafut (mother tongue),Bafut (mother tongue),No,No,Yes,French,No,Yes,Basic,Weak
+7,Female,Bakweri,Bakweri,Bakweri,Yes,Buea,Buea,Yes,6,Yes,Yes,Mokpwe (mother tongue),Mix of MT and Pidgin,Yes,No,No,French,Yes,No,Basic,Weak
+12,Male,Meta,Meta,Bafut,No,South West,Bafoussam,Yes,2,Yes,No,Meta (mother tongue),Meta (mother tongue),No,Yes,Yes,Meta (mother tongue),No,No,Conversational,Moderate
+5,Male,Bafut,Bafut,Bafut,Yes,Centre,Bamenda,No,2,No,No,Bafut (mother tongue),Bafut (mother tongue),No,No,No,English,Yes,Yes,Minimal,Detached
