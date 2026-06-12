@@ -157,6 +157,7 @@ def train_models(df):
         results[name] = {
             "model": model, "scaled": scaled,
             "y_pred": y_pred, "y_test": y_test,
+            "classes": list(model.classes_) if hasattr(model, "classes_") else list(range(5)),
             "Accuracy": round(acc,4), "F1_Weighted": round(f1w,4),
             "F1_Macro": round(f1m,4), "Kappa": round(kappa,4),
             "AUC_OvR":  round(auc,4) if auc else None,
@@ -252,7 +253,6 @@ page = st.sidebar.radio(
     ["🏠 Overview",
      "📊 Exploratory Analysis",
      "🔍 Feature Relevance",
-     "🤖 Model Comparison",
      "🔗 Association Rules",
      "⚠️ Extinction Risk",
      "🎯 Live Predictor"],
@@ -341,7 +341,7 @@ if page == "🏠 Overview":
         fig.add_hline(y=risk_sorted.mean(), line_dash="dash",
                       line_color="gray",
                       annotation_text=f"Average {risk_sorted.mean():.1f}")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     st.markdown("---")
     st.subheader("How to use this dashboard")
@@ -385,7 +385,7 @@ elif page == "📊 Exploratory Analysis":
                           legend_title="Proficiency",
                           plot_bgcolor="white",
                           paper_bgcolor="rgba(0,0,0,0)")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
         st.subheader("Proficiency across age groups")
         df_f2 = df_f.copy()
@@ -396,11 +396,11 @@ elif page == "📊 Exploratory Analysis":
                       color="MT_Proficiency",
                       color_discrete_map=PROF_COLOURS,
                       category_orders={"MT_Proficiency": PROFICIENCY_ORDER},
-                      facet_col="Tribe" if "Tribe" in df_f2.columns else None,
+                     
                       barmode="stack")
         fig2.update_layout(plot_bgcolor="white",
                            paper_bgcolor="rgba(0,0,0,0)")
-        st.plotly_chart(fig2, use_container_width=True)
+        st.plotly_chart(fig2, width="stretch")
 
     with tab2:
         st.subheader("Cultural identity strength by tribe")
@@ -419,7 +419,7 @@ elif page == "📊 Exploratory Analysis":
                           legend_title="Identity",
                           plot_bgcolor="white",
                           paper_bgcolor="rgba(0,0,0,0)")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     with tab3:
         st.subheader("Cultural retention features — % Yes by tribe")
@@ -447,7 +447,7 @@ elif page == "📊 Exploratory Analysis":
                         aspect="auto")
         fig.update_layout(coloraxis_colorbar_title="% Yes",
                           paper_bgcolor="rgba(0,0,0,0)")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     with tab4:
         col1, col2 = st.columns(2)
@@ -459,7 +459,7 @@ elif page == "📊 Exploratory Analysis":
                                nbins=21)
             fig.update_layout(plot_bgcolor="white",
                               paper_bgcolor="rgba(0,0,0,0)")
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
 
         with col2:
             st.subheader("Migration vs same-tribe parents")
@@ -486,7 +486,7 @@ elif page == "📊 Exploratory Analysis":
                 paper_bgcolor="rgba(0,0,0,0)",
                 showlegend=False,
             )
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
 
 # ─────────────────────────────────────────────
 # PAGE 3 — FEATURE RELEVANCE
@@ -519,8 +519,8 @@ elif page == "🔍 Feature Relevance":
                           plot_bgcolor="white",
                           paper_bgcolor="rgba(0,0,0,0)",
                           showlegend=False, height=500)
-        st.plotly_chart(fig, use_container_width=True)
-        st.dataframe(mi_df.reset_index(drop=True), use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
+        st.dataframe(mi_df.reset_index(drop=True), width="stretch")
 
     with tab2:
         st.subheader("Chi-Square Test")
@@ -541,8 +541,8 @@ elif page == "🔍 Feature Relevance":
                           plot_bgcolor="white",
                           paper_bgcolor="rgba(0,0,0,0)",
                           showlegend=False, height=500)
-        st.plotly_chart(fig, use_container_width=True)
-        st.dataframe(chi2_plot, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
+        st.dataframe(chi2_plot, width="stretch")
 
     with tab3:
         st.subheader("Random Forest Feature Importance")
@@ -560,7 +560,7 @@ elif page == "🔍 Feature Relevance":
                           plot_bgcolor="white",
                           paper_bgcolor="rgba(0,0,0,0)",
                           showlegend=False, height=500)
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     st.markdown("---")
     st.subheader("Top 5 features — consensus across all three measures")
@@ -571,83 +571,6 @@ elif page == "🔍 Feature Relevance":
         imp = imp_df.set_index("Feature").loc[feat, "RF_Importance"]
         st.markdown(f"**{i}. {feat}** — IG: `{ig:.4f}` | χ²: `{chi:.1f}` | RF: `{imp:.4f}`")
 
-# ─────────────────────────────────────────────
-# PAGE 4 — MODEL COMPARISON
-# ─────────────────────────────────────────────
-elif page == "🤖 Model Comparison":
-    st.title("🤖 Model Comparison")
-    st.markdown("""
-    Six machine learning classifiers were trained to predict mother tongue
-    proficiency (None → Fluent). Their performance is compared below.
-    """)
-
-    metrics = ["Accuracy","F1_Weighted","F1_Macro","Kappa","AUC_OvR","CV_Mean"]
-    comp = pd.DataFrame(
-        {m: {k: v[m] for k, v in results.items()} for m in metrics}
-    ).T
-    comp_sorted = comp.sort_values("F1_Weighted", ascending=False)
-
-    tab1, tab2, tab3 = st.tabs(
-        ["Performance table", "Metric charts", "Confusion matrices"])
-
-    with tab1:
-        st.subheader("All models — all metrics")
-        st.markdown("""
-        | Metric | Plain English |
-        |--------|---------------|
-        | **Accuracy** | What % of predictions were correct overall |
-        | **F1 Weighted** | Balance of precision and recall, weighted by class size |
-        | **F1 Macro** | Same but treats all classes equally — penalises poor minority class performance |
-        | **Kappa** | How much better than random guessing? (0=chance, 1=perfect) |
-        | **AUC** | How well the model separates classes? (0.5=coin flip, 1.0=perfect) |
-        | **CV Mean** | Average accuracy across 10 test folds — more reliable than a single split |
-        """)
-        display = comp_sorted.copy()
-        display.index.name = "Model"
-        st.dataframe(display.style.highlight_max(axis=0, color="#d4edda")
-                                  .highlight_min(axis=0, color="#f8d7da")
-                                  .format("{:.4f}"),
-                     use_container_width=True)
-
-        best = comp_sorted.index[0]
-        st.success(f"✅ Best model: **{best}** — F1 Weighted = {comp_sorted.loc[best,'F1_Weighted']:.4f}")
-
-    with tab2:
-        metric_choice = st.selectbox("Select metric to visualise", metrics)
-        vals = comp_sorted[metric_choice]
-        palette = ["#2E75B6","#E15759","#F0A500","#1E6B3C","#9467BD","#8C564B"]
-        fig = go.Figure(go.Bar(
-            x=vals.index, y=vals.values,
-            marker_color=palette[:len(vals)],
-            text=[f"{v:.4f}" for v in vals.values],
-            textposition="outside",
-        ))
-        fig.update_layout(
-            yaxis_title=metric_choice,
-            yaxis_range=[0, max(vals.values)*1.15],
-            plot_bgcolor="white",
-            paper_bgcolor="rgba(0,0,0,0)",
-        )
-        st.plotly_chart(fig, use_container_width=True)
-
-    with tab3:
-        model_choice = st.selectbox("Select model", list(results.keys()))
-        res = results[model_choice]
-        cm = confusion_matrix(res["y_test"], res["y_pred"])
-        present = sorted(np.unique(np.concatenate([res["y_test"],res["y_pred"]])))
-        labels  = [PROFICIENCY_ORDER[i] for i in present]
-        fig = px.imshow(cm, x=labels, y=labels,
-                        text_auto=True, color_continuous_scale="Blues",
-                        labels={"x":"Predicted","y":"Actual"})
-        fig.update_layout(paper_bgcolor="rgba(0,0,0,0)")
-        st.plotly_chart(fig, use_container_width=True)
-        st.markdown("""
-        **Reading the confusion matrix:**
-        Each cell shows how many times the model predicted the column label
-        when the true answer was the row label.
-        The diagonal (top-left to bottom-right) shows correct predictions.
-        Off-diagonal cells are errors.
-        """)
 
 # ─────────────────────────────────────────────
 # PAGE 5 — ASSOCIATION RULES
@@ -679,7 +602,7 @@ elif page == "🔗 Association Rules":
             disp["antecedents"]  = disp["antecedents"].astype(str).str.replace("frozenset|[{}']","",regex=True)
             disp["consequents"]  = disp["consequents"].astype(str).str.replace("frozenset|[{}']","",regex=True)
             disp[["support","confidence","lift"]] = disp[["support","confidence","lift"]].round(3)
-            st.dataframe(disp.reset_index(drop=True), use_container_width=True)
+            st.dataframe(disp.reset_index(drop=True), width="stretch")
 
             fig = px.scatter(high.head(30), x="support", y="confidence",
                              size="lift", color="lift",
@@ -687,7 +610,7 @@ elif page == "🔗 Association Rules":
                              hover_data={"lift":True,"support":True,"confidence":True},
                              title="High proficiency rules — Support vs Confidence (size=Lift)")
             fig.update_layout(plot_bgcolor="white", paper_bgcolor="rgba(0,0,0,0)")
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
         else:
             st.info("No high proficiency rules found at current threshold.")
 
@@ -699,14 +622,14 @@ elif page == "🔗 Association Rules":
             disp2["antecedents"] = disp2["antecedents"].astype(str).str.replace("frozenset|[{}']","",regex=True)
             disp2["consequents"] = disp2["consequents"].astype(str).str.replace("frozenset|[{}']","",regex=True)
             disp2[["support","confidence","lift"]] = disp2[["support","confidence","lift"]].round(3)
-            st.dataframe(disp2.reset_index(drop=True), use_container_width=True)
+            st.dataframe(disp2.reset_index(drop=True), width="stretch")
 
             fig2 = px.scatter(low.head(30), x="support", y="confidence",
                               size="lift", color="lift",
                               color_continuous_scale="Reds",
                               title="Low proficiency rules — Support vs Confidence (size=Lift)")
             fig2.update_layout(plot_bgcolor="white", paper_bgcolor="rgba(0,0,0,0)")
-            st.plotly_chart(fig2, use_container_width=True)
+            st.plotly_chart(fig2, width="stretch")
         else:
             st.info("No low proficiency rules found at current threshold.")
 
@@ -756,7 +679,7 @@ elif page == "⚠️ Extinction Risk":
         )
         fig.update_layout(paper_bgcolor="rgba(0,0,0,0)",
                           coloraxis_colorbar_title="% at risk")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     st.markdown("---")
     st.subheader("Radar chart — risk dimensions by tribe")
@@ -783,7 +706,7 @@ elif page == "⚠️ Extinction Risk":
         showlegend=True, height=500,
         paper_bgcolor="rgba(0,0,0,0)",
     )
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     st.markdown("---")
     st.subheader("What this means — in plain language")
@@ -902,8 +825,11 @@ elif page == "🎯 Live Predictor":
         # use GB model
         gb_model = results["Gradient Boosting"]["model"]
         pred_code = gb_model.predict(X_input)[0]
-        pred_prob = gb_model.predict_proba(X_input)[0]
-        pred_label = PROFICIENCY_ORDER[pred_code]
+        pred_prob      = gb_model.predict_proba(X_input)[0]
+        pred_label     = PROFICIENCY_ORDER[pred_code]
+        # only include classes the model was actually trained on
+        present_cls    = gb_model.classes_
+        present_labels = [PROFICIENCY_ORDER[i] for i in present_cls]
 
         colour_map = {"None":"red","Minimal":"orange","Basic":"#ccaa00",
                       "Conversational":"green","Fluent":"#1A5276"}
@@ -919,18 +845,19 @@ elif page == "🎯 Live Predictor":
 
         st.markdown("#### Probability breakdown")
         prob_df = pd.DataFrame({
-            "Proficiency Level": PROFICIENCY_ORDER,
+            "Proficiency Level": present_labels,
             "Probability": [round(p*100, 1) for p in pred_prob],
         })
         fig = px.bar(prob_df, x="Proficiency Level", y="Probability",
                      color="Proficiency Level",
                      color_discrete_map=PROF_COLOURS,
-                     text="Probability")
+                     text="Probability",
+                     category_orders={"Proficiency Level": PROFICIENCY_ORDER})
         fig.update_traces(texttemplate="%{text:.1f}%", textposition="outside")
         fig.update_layout(yaxis_range=[0,110], showlegend=False,
                           plot_bgcolor="white",
                           paper_bgcolor="rgba(0,0,0,0)")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
         st.markdown("#### What drove this prediction?")
         if "mother tongue" in lang_par.lower():
